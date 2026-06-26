@@ -1,0 +1,2060 @@
+NC-31 MIPA (Membership Interest Purchase Agreement)
+===================================================
+
+EX-10.1
+ 5
+ ex10-1.htm
+ EXHIBIT 10.1
+ 
+ ex10-1.htm 
+ 
+ 
+ 
+ Exhibit 10.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ MEMBERSHIP INTEREST PURCHASE AGREEMENT 
+ 
+ by and between 
+ 
+ INNOVATIVE SOLAR SYSTEMS, LLC 
+ 
+ and 
+ 
+ IS-31 HOLDINGS, LLC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dated as of June 14, 2016 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Table of Contents 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1. 
+ 
+ PURCHASE AND SALE OF MEMBERSHIP INTERESTS; CLOSING DATE 
+ 
+ 1 
+ 
+ 
+ 
+ 1.1 
+ 
+ Purchase and Sale 
+ 
+ 1 
+ 
+ 
+ 
+ 1.2 
+ 
+ Purchase Price 
+ 
+ 1 
+ 
+ 
+ 
+ 1.3 
+ 
+ Payment Terms 
+ 
+ 2 
+ 
+ 
+ 
+ 1.4 
+ 
+ Time and Place of Closing 
+ 
+ 2 
+ 
+ 
+ 
+ 1.5 
+ 
+ Seller Closing Date Deliverables 
+ 
+ 2 
+ 
+ 
+ 
+ 1.6 
+ 
+ Assignment 
+ 
+ 4 
+ 
+ 
+ 
+ 1.7 
+ 
+ Further Assurances 
+ 
+ 4 
+ 
+ 2. 
+ 
+ REPRESENTATIONS AND WARRANTIES OF SELLER 
+ 
+ 4 
+ 
+ 
+ 
+ 2.1 
+ 
+ Existence 
+ 
+ 4 
+ 
+ 
+ 
+ 2.2 
+ 
+ Sole Owner 
+ 
+ 4 
+ 
+ 
+ 
+ 2.3 
+ 
+ Due Execution 
+ 
+ 5 
+ 
+ 
+ 
+ 2.4 
+ 
+ Due Authorization 
+ 
+ 5 
+ 
+ 
+ 
+ 2.5 
+ 
+ Binding Effect 
+ 
+ 5 
+ 
+ 
+ 
+ 2.6 
+ 
+ No Conflicts; Consents 
+ 
+ 5 
+ 
+ 
+ 
+ 2.7 
+ 
+ Legal Proceedings 
+ 
+ 5 
+ 
+ 
+ 
+ 2.8 
+ 
+ No Undisclosed Liabilities 
+ 
+ 6 
+ 
+ 
+ 
+ 2.9 
+ 
+ Compliance with Laws 
+ 
+ 6 
+ 
+ 
+ 
+ 2.10 
+ 
+ Sophisticated Seller 
+ 
+ 6 
+ 
+ 
+ 
+ 2.11 
+ 
+ Documents; Disclosure 
+ 
+ 6 
+ 
+ 
+ 
+ 2.12 
+ 
+ Project Company Development Assets/ISS Project Development Assets 
+ 
+ 6 
+ 
+ 
+ 
+ 2.13 
+ 
+ Contracts 
+ 
+ 7 
+ 
+ 
+ 
+ 2.14 
+ 
+ Environmental Laws 
+ 
+ 8 
+ 
+ 
+ 
+ 2.15 
+ 
+ Permits 
+ 
+ 8 
+ 
+ 
+ 
+ 2.16 
+ 
+ Insurance 
+ 
+ 8 
+ 
+ 
+ 
+ 2.17 
+ 
+ Conflicts of Interest 
+ 
+ 8 
+ 
+ 
+ 
+ 2.18 
+ 
+ Employee Matters 
+ 
+ 9 
+ 
+ 
+ 
+ 2.19 
+ 
+ Interconnection 
+ 
+ 9 
+ 
+ 
+ 
+ 2.20 
+ 
+ Power Purchase Agreement 
+ 
+ 9 
+ 
+ 
+ 
+ 2.21 
+ 
+ Taxes 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Table of Contents 
+ (continued) 
+ 
+ Page 
+ 
+ 
+
+ 
+ 
+ 
+ 2.22 
+ 
+ Real Property Interests 
+ 
+ 13 
+ 
+ 
+ 
+ 2.23 
+ 
+ Wetlands Jurisdictional Determination 
+ 
+ 13 
+ 
+ 
+ 
+ 2.24 
+ 
+ Capitalization; Subsidiaries 
+ 
+ 13 
+ 
+ 
+ 
+ 2.25 
+ 
+ Regulation 
+ 
+ 14 
+ 
+ 
+ 
+ 2.26 
+ 
+ Subsidiaries and Joint Ventures 
+ 
+ 15 
+ 
+ 
+ 
+ 2.27 
+ 
+ Intellectual Property 
+ 
+ 15 
+ 
+ 
+ 
+ 2.28 
+ 
+ Hazardous Substances 
+ 
+ 15 
+ 
+ 
+ 
+ 2.29 
+ 
+ Affiliate Transactions 
+ 
+ 15 
+ 
+ 
+ 
+ 2.30 
+ 
+ Bank Accounts 
+ 
+ 15 
+ 
+ 
+ 
+ 2.31 
+ 
+ No Brokers 
+ 
+ 15 
+ 
+ 
+ 
+ 2.32 
+ 
+ Full Disclosure 
+ 
+ 15 
+ 
+ 3. 
+ 
+ REPRESENTATIONS AND WARRANTIES OF BUYER 
+ 
+ 16 
+ 
+ 
+ 
+ 3.1 
+ 
+ Organization; Authority 
+ 
+ 16 
+ 
+ 
+ 
+ 3.2 
+ 
+ Binding Effect 
+ 
+ 16 
+ 
+ 
+ 
+ 3.3 
+ 
+ Absence of Conflicting Agreements 
+ 
+ 16 
+ 
+ 4. 
+ 
+ CONDITIONS TO CLOSING AND PRE- AND POST-CLOSING COVENANTS 
+ 
+ 16 
+ 
+ 
+ 
+ 4.1 
+ 
+ Conditions to Obligations of Buyer 
+ 
+ 16 
+ 
+ 
+ 
+ 4.2 
+ 
+ Conditions to Obligations of Seller 
+ 
+ 17 
+ 
+ 
+ 
+ 4.3 
+ 
+ Other Actions to be Taken at or after the Closing Date 
+ 
+ 17 
+ 
+ 
+ 
+ 4.4 
+ 
+ Project Company Pre-Closing Liabilities 
+ 
+ 18 
+ 
+ 
+ 
+ 4.5 
+ 
+ Tax Covenants 
+ 
+ 18 
+ 
+ 
+ 
+ 4.6 
+ 
+ Pre-Closing Access 
+ 
+ 19 
+ 
+ 
+ 
+ 4.7 
+ 
+ Achievement of Closing 
+ 
+ 20 
+ 
+ 5. 
+ 
+ INDEMNIFICATION 
+ 
+ 20 
+ 
+ 
+ 
+ 5.1 
+ 
+ Survival of Representations and Warranties 
+ 
+ 20 
+ 
+ 
+ 
+ 5.2 
+ 
+ Indemnification By Seller 
+ 
+ 20 
+ 
+ 
+ 
+ 5.3 
+ 
+ Indemnification By Buyer 
+ 
+ 21 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Table of Contents 
+ (continued) 
+ Page 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 5.4 
+ 
+ Indemnification by Seller Related to Taxes 
+ 
+ 21 
+ 
+ 6. 
+ 
+ TERMINATION 
+ 
+ 21 
+ 
+ 
+ 
+ 6.1 
+ 
+ Termination 
+ 
+ 21 
+ 
+ 
+ 
+ 6.2 
+ 
+ Force Majeure 
+ 
+ 21 
+ 
+ 
+ 
+ 6.3 
+ 
+ Extension of Final Date 
+ 
+ 21 
+ 
+ 
+ 
+ 6.4 
+ 
+ Third Party Sale 
+ 
+ 22 
+ 
+ 
+ 
+ 6.5 
+ 
+ Effect of Termination 
+ 
+ 22 
+ 
+ 7. 
+ 
+ MISCELLANEOUS 
+ 
+ 22 
+ 
+ 
+ 
+ 7.1 
+ 
+ Notices 
+ 
+ 22 
+ 
+ 
+ 
+ 7.2 
+ 
+ Execution in Counterparts 
+ 
+ 23 
+ 
+ 
+ 
+ 7.3 
+ 
+ Entire Agreement 
+ 
+ 23 
+ 
+ 
+ 
+ 7.4 
+ 
+ Amendment 
+ 
+ 23 
+ 
+ 
+ 
+ 7.5 
+ 
+ Assignment 
+ 
+ 23 
+ 
+ 
+ 
+ 7.6 
+ 
+ Headings 
+ 
+ 24 
+ 
+ 
+ 
+ 7.7 
+ 
+ Governing Law 
+ 
+ 24 
+ 
+ 
+ 
+ 7.8 
+ 
+ Binding Effect 
+ 
+ 24 
+ 
+ 
+ 
+ 7.9 
+ 
+ Waiver 
+ 
+ 24 
+ 
+ 
+ 
+ 7.10 
+ 
+ Enforceability 
+ 
+ 24 
+ 
+ 
+ 
+ 7.11 
+ 
+ License for Access and Data Room 
+ 
+ 24 
+ 
+ 
+ 
+ 7.12 
+ 
+ Due Diligence 
+ 
+ 24 
+ 
+ 
+ 
+ 7.13 
+ 
+ Zoning 
+ 
+ 24 
+ 
+ 
+ 
+ 7.14 
+ 
+ Copies of Specified Agreements 
+ 
+ 25 
+ 
+ 
+ 
+ 7.15 
+ 
+ Exclusivity 
+ 
+ 25 
+ 
+ 
+ 
+ 7.16 
+ 
+ Expenses 
+ 
+ 25 
+ 
+ 
+ 
+ 7.17 
+ 
+ Confidentiality 
+ 
+ 25 
+ 
+ 
+ 
+ 7.18 
+ 
+ Public Announcement 
+ 
+ 25 
+ 
+ 
+ 
+ 7.19 
+ 
+ Other Agreements 
+ 
+ 26 
+ 
+ 
+ 
+ 7.20 
+ 
+ Interpretation 
+ 
+ 26 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Table of Contents 
+ (continued) 
+ Page 
+ 
+ 
+
+ 
+ 
+ 
+ 7.21 
+ 
+ Definitions 
+ 
+ 26 
+ 
+ 
+ EXHIBITS 
+ 
+ 
+
+ 
+ 
+ 
+ Exhibit A 
+ 
+ Wire Instructions 
+ 
+
+ 
+ 
+ 
+ Exhibit B 
+ 
+ Form of Transfer and Assignment Agreement 
+ 
+
+ 
+ 
+ 
+ Exhibit C 
+ 
+ Form of Bill of Sale and Assignment Agreement for ISS Project Development Assets 
+ 
+
+ 
+ 
+ 
+ Exhibit D-1 
+ 
+ Form of Seller Manager’s Certificate 
+ 
+
+ 
+ 
+ 
+ Exhibit D-2 
+ 
+ Form of the Project Company Manager’s Certificate 
+ 
+
+ 
+ 
+ 
+ Exhibit E 
+ 
+ Form of Buyer Manager’s Certificate 
+ 
+ SCHEDULES 
+ 
+ 
+
+ 
+ 
+ 
+ Schedule 2.6 
+ 
+ Conflicts; Consents 
+ 
+
+ 
+ 
+ 
+ Schedule 2.8 
+ 
+ Liabilities 
+ 
+
+ 
+ 
+ 
+ Schedule 2.12(a) 
+ 
+ Project Company Development Assets 
+ 
+
+ 
+ 
+ 
+ Schedule 2.12(b) 
+ 
+ ISS Project Development Assets 
+ 
+
+ 
+ 
+ 
+ Schedule 2.13 
+ 
+ Material Contracts 
+ 
+
+ 
+ 
+ 
+ Schedule 2.15(a) 
+ 
+ Obtained Permits 
+ 
+
+ 
+ 
+ 
+ Schedule 2.15(b) 
+ 
+ Permits to be Obtained 
+ 
+
+ 
+ 
+ 
+ Schedule 2.16 
+ 
+ Insurance 
+ 
+
+ 
+ 
+ 
+ Schedule 2.22 
+ 
+ Project Real Property 
+ 
+
+ 
+ 
+ 
+ Schedule 2.24 
+ 
+ Membership Interests 
+ 
+
+ 
+ 
+ 
+ Schedule 2.29 
+ 
+ Affiliate Transactions 
+ 
+
+ 
+ 
+ 
+ Schedule 2.30 
+ 
+ Bank Accounts 
+ 
+
+ 
+ 
+ 
+ Schedule 7.14 
+ 
+ Specified Agreements 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ THIS MEMBERSHIP INTEREST PURCHASE AGREEMENT (this “ Agreement ”), dated as of June 14, 2016 (the “ Effective Date ”), is entered into by and between: 
+ 
+ 
+
+ 
+ 
+ (1) 
+ 
+ Innovative Solar Systems, LLC, a North Carolina limited liability company with an office at 171 Rolling Meadows Road, Fletcher, NC, 28732 (“ Seller ”); and 
+ 
+ 
+
+ 
+ 
+ (2) 
+ 
+ IS-31 Holdings, LLC, a Delaware limited liability company with an address at 3824 Cedar Springs Rd #801-1299, Dallas TX 75219 (“ Buyer ” and, together with Seller, each a “ Party ” and collectively the “ Parties ”). 
+ 
+ WHEREAS , Seller owns all right, title and interest in 100% of the issued and outstanding limited liability company membership interests of Innovative Solar 31, LLC, a North Carolina limited liability company (the “ Project Company ”) (collectively, the “ Membership Interests ”); 
+ 
+ WHEREAS , the Project Company is developing a 34.2 MW (AC) solar photovoltaic project in Bladen County, North Carolina that is referred to as the IS31 Project (the “ Project ”); 
+ 
+ WHEREAS , Seller wishes to sell, assign and transfer to Buyer 100% of the Membership Interests in exchange for the Purchase Price (as defined below), and Buyer has agreed to accept such sale, assignment and transfer of the Membership Interests and to pay the Purchase Price therefore, in accordance with the payment terms set forth in Section 1.3 and subject to the conditions of this Agreement; 
+ 
+ NOW, THEREFORE , in consideration of the premises and the mutual covenants contained herein, the parties hereto agree as follows: 
+ 
+ 1. PURCHASE AND SALE OF MEMBERSHIP INTERESTS; CLOSING DATE 
+ 
+ 1.1 Purchase and Sale . On the basis of the representations, warranties, covenants and agreements herein, on the Closing Date (as defined below), Seller shall sell and transfer to Buyer the Membership Interests, free and clear of any and all Encumbrances of any kind, nature or description, and Buyer shall purchase from Seller the Membership Interests by payment of the Purchase Price in accordance with the payment terms set forth in Section 1.3. 
+ 
+ 1.2 Purchase Price . The purchase price to be paid by Buyer to Seller in consideration of the sale of the Membership Interests is Two Million Fifty-Two Thousand Dollars ($2,052,000.00) (the “ Purchase Price ”). The Purchase Price shall consist of the following payments: (i) the Previously Paid Payments, which have been paid as provided in Section 1.3(a), and (ii) the Closing Payment, which shall be paid by Buyer by wire transfer of immediately available funds pursuant to the wire instructions set forth on Exhibit A , or to such bank account designated by Seller by written notice to Buyer, containing all necessary wire transfer information, not less than three (3) days prior to the applicable date for payment. 
+ 
+ 
+ 
+ 1 
+ 
+
+ 
+ 
+ 1.3 Payment Terms . The Purchase Price has been paid or will be paid by Buyer to Seller as follows: 
+ 
+ 
+
+ 
+ 
+ 
+ a. 
+ 
+ Previously Paid Payments . Seller agrees to credit towards the Purchase Price an amount equal to a Two Hundred Fifty Thousand Dollar ($250,000.00) non-refundable cash deposit (the “ Deposit ”) paid to Seller on August 24, 2015. Additionally, Seller agrees to credit towards the Purchase Price an amount equal to One Hundred Twenty-Five Thousand Dollars ($125,000.00), which constitutes a portion of a deposit previously paid to Seller in respect of the project known as IS-33, but which Buyer and Seller have agreed to apply toward the Project (the “ Credit ”, and together with the Deposit, the “ Previously Paid Payments ”). 
+ 
+ 
+
+ 
+ 
+ 
+ b. 
+ 
+ Closing Payment . At the Closing, Buyer shall pay to Seller an amount equal to the difference of (i) One Million Six Hundred Seventy-Seven Thousand Dollars ($1,677,000.00) less (ii) the amount of the Extension Credit determined in accordance with Section 6.3 (such difference, the “ Closing Payment ”). 
+ 
+ 1.4 Time and Place of Closing . The closing of the transactions contemplated herein (the “ Closing ”) shall take place remotely on a date no later than two (2) business days after the satisfaction or waiver by Buyer in writing of all the conditions set forth in Section 4.1 (other than conditions which, by their nature, are to be satisfied on the Closing Date) or on such other date as the Parties may mutually agree upon in writing. The applicable date on which the Closing shall occur pursuant to this Section 1.4 is referred to in this Agreement as the “ Closing Date ”, and the Closing shall be deemed effective as of 12:01 a.m. Eastern Time on the Closing Date. 
+ 
+ 1.5 Seller Closing Date Deliverables . On the Closing Date, Seller shall deliver to Buyer the following: 
+ 
+ 
+
+ 
+ 
+ 
+ a. 
+ 
+ a transfer and assignment instrument evidencing the transfer to Buyer of the Membership Interests, in the form attached to this Agreement as Exhibit B ; 
+ 
+ 
+
+ 
+ 
+ 
+ b. 
+ 
+ a certificate of good standing (or equivalent document) for the Project Company from the state of its formation dated within five (5) business days prior to the Closing Date; 
+ 
+ 
+
+ 
+ 
+ 
+ c. 
+ 
+ a manager’s certificate from each of Seller and the Project Company, in the form attached to this Agreement as Exhibit D-1 and Exhibit D-2 , respectively, dated as of the Closing Date (x) certifying and attaching copies of (i) the certificate of formation or articles of organization, as applicable, of each of Seller and the Project Company, (ii) the operating agreement of each of Seller and the Project Company, and (iii) the resolutions duly adopted by the respective board of managers (or its equivalent governing body) of each of Seller and the Project Company authorizing the execution, delivery and performance of this Agreement and the other agreements contemplated hereby, and the consummation of the transactions contemplated hereby and thereby and (y) in the case of the manager’s certificate from Seller, certifying that the condition set forth in Section 4.1(b) has been fulfilled and that all deliverables under Sections 7.12, 7.13 and 7.14 have been provided to Buyer; 
+ 
+ 
+ 
+ 2 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ d. 
+ 
+ copies of all Books and Records of the Project Company (including books of account) and all Contracts entered into by or on behalf of the Project Company and all originals of the same in the possession of Seller; 
+ 
+ 
+
+ 
+ 
+ 
+ e. 
+ 
+ an updated pro forma leasehold title policy with approved endorsements and a title commitment to the satisfaction of Buyer for each of the Premises (as defined, as applicable, in each of (i) the Lease between the Project Company and William R. Storms, unremarried widower of Shelby H. Storms (“ Storms Landlord ”), dated October 20, 2015, as amended by the Amendment of Lease, dated January 22, 2016 and as further amended in accordance with Section 1.5(i)(i), and (ii) the Lease between the Project Company and Boyce Gerald White, Jr. and wife Katherine S. White (“ White Landlord ”, and together with Storms Landlord, the “ Landlords ”), dated November 7, 2013, as amended by the Amendment of Lease, dated January 25, 2016 and as further amended in accordance with Section 1.5(i)(i) (each a “ Lease ”, and together the “ Leases ”) in the name of the Project Company with endorsements satisfactory to Buyer (the “ Title Policy ”); 
+ 
+ 
+
+ 
+ 
+ 
+ f. 
+ 
+ an updated ALTA survey of each of the Premises, in a form reasonably satisfactory to Buyer, that comports with the Title Policy and is certified to the title company that issues the Title Policy and the Project Company; 
+ 
+ 
+
+ 
+ 
+ 
+ g. 
+ 
+ copies of all verifications of appropriate zoning classification from all relevant city and county agencies having jurisdiction over the Premises; 
+ 
+ 
+
+ 
+ 
+ 
+ h. 
+ 
+ (x) an environmental impact assessment report with respect to the Project (i) with an effective date no earlier than six (6) months prior to the Closing Date (such report to be updated as necessary, at Buyer’s expense, to fulfill this condition) and (ii) satisfying the requirements of 40 C.F.R. pt. 312 for conducting “all appropriate inquiries” under Sections 101(35)(B)(i)(I) and (B)(ii)-(iii) of CERCLA and any other components necessary for Buyer to obtain “bona fide prospective purchaser” liability protection pursuant to Sections 101(40) and 107(r) of CERCLA and (y) a reliance letter addressed to Buyer with respect thereto, in form and substance reasonably satisfactory to Buyer; 
+ 
+ 
+
+ 
+ 
+ 
+ i. 
+ 
+ the following documents from each of the Landlords, in each instance in form and substance reasonably satisfactory to Buyer: 
+ 
+ 
+
+ 
+ 
+ 
+ i. 
+ 
+ an amendment to the applicable Lease and corresponding amendment to the applicable memorandum of Lease; and 
+ 
+ 
+
+ 
+ 
+ 
+ ii. 
+ 
+ an estoppel certificate. 
+ 
+ 
+
+ 
+ 
+ 
+ j. 
+ 
+ a wetlands delineation survey report performed in accordance with the rules and regulations of the United States Army Corps of Engineers; 
+ 
+ 
+
+ 
+ 
+ 
+ k. 
+ 
+ a certificate, dated as of the Closing Date, under Section 1445(b)(2) of the Code (a Foreign Investment in Real Property Tax Act certificate), certifying that Seller (or the first upstream regarded owner of Seller for U.S. federal income tax purposes in the event Seller is classified as a disregarded entity for U.S. federal income tax purposes) is not a foreign person; 
+ 
+ 
+ 
+ 3 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ l. 
+ 
+ a bill of sale and assignment agreement, in the form attached hereto as Exhibit C , assigning the ISS Project Development Assets to the Project Company (the “ ISS Bill of Sale and Assignment Agreement ”), duly executed by Seller; and 
+ 
+ 
+
+ 
+ 
+ 
+ m. 
+ 
+ letters of resignation (which include releases of the Project Company from Liability) of the officers, directors and managers of the Project Company from all positions held with the Project Company, effective as of the Closing. 
+ 
+ 1.6 Assignment . Subject to the terms and conditions set forth herein, on the Closing Date, pursuant to the ISS Bill of Sale and Assignment Agreement, Seller shall assign to the Project Company all of Seller’s rights, title and interests in, to and under all of the assets, properties and rights of every kind and nature, whether real, personal or mixed, tangible or intangible, wherever located and whether now existing or hereafter acquired, which relate to, or are used or held for use in connection with, the Project, including, without limitation, all of Seller’s right, title and interest in, to and under originals, or where not available, copies, of all Books and Records (collectively, the “ ISS Project Development Assets ”). Notwithstanding the foregoing, in no event shall the Project Company assume any Liabilities to or arising from the ISS Project Development Assets. 
+ 
+ 1.7 Further Assurances . Following the Closing, Buyer and Seller shall execute and deliver such additional documents, instruments, conveyances and assurances and take such further actions as may be reasonably required to carry out the provisions hereof and give effect to the transactions contemplated by this Agreement and the documents to be delivered hereunder. For Seller that will include, at its sole expense, transferring, or causing an affiliate to transfer, the ownership of any of the assets, properties and rights that relate to the ISS Project Development Assets that for any reason did not transfer to the Project Company at the Closing, and obtaining or confirming, in writing in form and substance reasonably acceptable to Buyer, from any applicable vendor related to any ISS Project Development Asset the right of Buyer to rely on and use such ISS Project Development Asset (and any related work product therefrom) for its purposes in connection with the Project. 
+ 
+ 2. REPRESENTATIONS AND WARRANTIES OF SELLER . Seller hereby represents and warrants to Buyer that the following representations are true, correct and complete with respect to Seller and the Project Company, as applicable, as of the date hereof, and as of the Closing Date, except as otherwise indicated. 
+ 
+ 2.1 Existence . Each of Seller and the Project Company is a limited liability company duly organized, validly existing and in good standing under the laws of the state of North Carolina. 
+ 
+ 2.2 Sole Owner . Seller is the sole record and beneficial owner of 100% of the issued and outstanding membership interests of the Project Company and has good and marketable title thereto, free and clear of any and all liabilities, liens, security interests, pledges, restrictions on transfer, claims, charges or other encumbrances or equities of any kind, nature, or description (collectively, the “ Encumbrances ”). Upon delivery of and payment for the Membership Interests, Buyer shall acquire valid and un-encumbered title to the Membership Interests in the Project Company. 
+ 
+ 
+ 
+ 4 
+ 
+
+ 
+ 
+ 2.3 Due Execution . This Agreement has been duly executed by Seller and the execution, delivery and performance of this Agreement by Seller will not violate, or result in a breach of, or constitute a default under, any agreement, instrument, judgment, order or decree to which Seller is a party or to which Seller may be subject, nor will such execution, delivery or performance constitute a violation of or conflict with any fiduciary duty to which Seller is subject. 
+ 
+ 2.4 Due Authorization . Seller has the full right, power, authority and capacity to enter into and perform its obligations under this Agreement and to convey and assign to Buyer the Membership Interests, without any other or further authorization, action or proceeding. 
+ 
+ 2.5 Binding Effect . This Agreement when executed and delivered by Seller will constitute the valid and legally binding obligation of Seller, enforceable in accordance with its terms, except as limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance, and any other laws of general application affecting enforcement of creditors’ rights generally, and as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies. 
+ 
+ 2.6 No Conflicts; Consents . Except as set forth on Part A of Schedule 2.6 , the purchase of the Membership Interests and the execution, delivery and performance by Seller of this Agreement and the documents to be delivered by Seller hereunder and thereunder, and the consummation of the transactions contemplated hereby and thereby, do not and will not (with or without notice or lapse of time or both): (a) violate or conflict with the certificate of incorporation, by-laws or other organizational documents of Seller; (b) violate or conflict with any Law applicable to Seller; (c) conflict with, or result in any violation of, or default under, or give rise to a right of termination, acceleration or modification of any obligation or loss of any benefit under any Contract or other instrument to which Seller is a party or to which the Project Company Development Assets are subject; or (d) result in the creation or imposition of any Encumbrances on any of the Project Company Development Assets. Except as set forth on Part B of Schedule 2.6 , no consent, approval, waiver, notice or authorization is required to be made or obtained by Seller from any Person or entity (including any Governmental Authority) in connection with the purchase of the Membership Interests and the execution, delivery and performance by Seller of this Agreement and the consummation of the transactions contemplated hereby and thereby. 
+ 
+ 2.7 Legal Proceedings . There is no Action of any nature pending or threatened against or by Seller relating to or affecting the Project or the Project Company Development Assets or that challenges or seeks to prevent, enjoin or otherwise delay the transactions contemplated by this Agreement. There are no outstanding judgments, injunctions, orders or rulings relating to or affecting the Project Company Development Assets. No event has occurred or circumstances exist that may give rise to, or serve as a basis for, any such Action. There are no outstanding judgments, injunctions, orders or rulings relating to or affecting the Project Company Development Assets. 
+ 
+ 
+ 
+ 5 
+ 
+
+ 
+ 
+ 
+ 2.8 No Undisclosed Liabilities . The Project Company does not have any Liabilities except for those set forth in Schedule 2.8 . 
+ 
+ 2.9 Compliance with Laws . The Project Company and Seller have complied with all laws applicable to the Project Company or Seller or the operation of their respective businesses, except to the extent any such non-compliance would not, individually or in the aggregate, have a material adverse effect on Seller, or the Project Company. 
+ 
+ 2.10 Sophisticated Seller . Seller (a) is a sophisticated individual or entity familiar with transactions similar to those contemplated by this Agreement; (b) has adequate information concerning the business and financial condition of the Project Company to make an informed decision regarding the sale of the Membership Interests held by Seller; and (c) has independently and without reliance upon Buyer, and based on such information and the advice of such advisors as Seller has deemed appropriate, made its own analysis and decision to enter into this Agreement. Seller acknowledges that neither Buyer nor its affiliates is acting as a fiduciary or financial or investment adviser to Seller, and has not given Seller any investment advice, opinion or other information on whether the sale of the Membership Interests held by Seller is prudent. Seller acknowledges that (i) Buyer currently may have, and later may come into possession of, information with respect to the Project Company that is not known to Seller and that may be material to a decision to sell the Membership Interests held by Seller (“ Seller Excluded Information ”); (ii) Seller has determined to sell all the Membership Interests held by Seller notwithstanding its lack of knowledge of Seller Excluded Information; and (iii) Buyer shall not have any liability to Seller, and Seller waives and releases any claims that it might have against Buyer whether under applicable securities laws or otherwise, with respect to the nondisclosure of Seller Excluded Information in connection with the sale of the Membership Interests held by Seller and the transactions contemplated by this Agreement. Seller understands that Buyer will rely on the accuracy and truth of the foregoing representations, and Seller hereby consents to such reliance. Seller understands that the value of the Membership Interests being sold by it hereunder may appreciate in value in the future (including in the immediate future) and that upon, and by virtue of, its sale of the Membership Interests being sold by it hereunder, Seller will be precluded from sharing or benefiting from any such appreciation. 
+ 
+ 2.11 Documents; Disclosure . Copies of all documents relating to the Project Company delivered to Buyer (such documents, collectively the “ Project Company Documents ”) are true and complete in all respects, and other than the Project Company Documents, there are no agreements or instruments that govern any interest in the Membership Interests. 
+ 
+ 2.12 Project Company Development Assets/ISS Project Development Assets. 
+ 
+ 
+
+ 
+ 
+ 
+ a. 
+ 
+ Schedule 2.12(a) sets forth a true, correct and complete list of all assets of the Project Company, including those related to, associated with or concerning the Project or either of the Premises (collectively, the “ Project Company Development Assets ”). The Project Company has good and marketable title to all of the Project Company Development Assets. All Project Company Development Assets are free and clear of any and all Encumbrances and other rights of third parties. Other than the Project Company Development Assets and the ISS Project Development Assets, there are no other assets that are held by Seller, the Project Company, any affiliate of Seller or any other Person necessary for the Project Company to fulfill its obligations under the Interconnection Agreement and the PPA. The Project Company Development Assets (i) have been maintained in accordance with prudent industry practices for similar assets, (ii) are in good operating condition and repair, ordinary wear and tear excepted (to the extent tangible), and (iii) are suitable for the purposes for which they are employed. 
+ 
+ 
+ 
+ 6 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ b. 
+ 
+ Schedule 2.12(b) sets forth a true, correct and complete list of all ISS Project Development Assets. Seller has good and marketable title to all of the ISS Project Development Assets. All ISS Project Development Assets are free and clear of any and all Encumbrances and other rights of third parties. 
+ 
+ 2.13 Contracts . Schedule 2.13 contains a true, correct and complete list of all contracts, agreements, arrangements, letters of intent, memoranda of understanding, promises, obligations, rights, purchase orders, leases, licenses or similar understandings, whether written or oral (each, a “ Contract ”) to which the Project Company is a party or that relate to, are associated with or concern, or will relate to, be associated with or concern, the Project, the Project Company or the Project Company Development Assets (the “ Material Contracts ”). Each Material Contract has been duly authorized and executed by the parties thereto, has been delivered by Seller to Buyer, is in full force and effect, and constitutes a legal, valid, binding and enforceable agreement as to the Project Company and to the respective counterparties thereto, and will not be rendered invalid or unenforceable or in breach or default as a result of the transactions contemplated by this Agreement. Neither the Project Company nor any other Person (a) is in breach of or in default under any Material Contract, (b) except for amendments to the Leases in accordance with Section 1.5(i)(i) of to this Agreement, has indicated its intention to amend or terminate any Material Contract, or (c) has made any claims against, or sought any indemnification as to any matter arising under or with respect to any Material Contract. No event has occurred which with the passage of time or giving of notice or both would constitute such a default, result in a loss of rights or permit termination, modification or acceleration under, or result in the creation of any Encumbrance under any Material Contract. Seller has made available to Buyer true, correct and complete copies of all Material Contracts and any amendments thereto. Other than the Material Contracts, there are no Contracts relating to, associated with or concerning the Project or the Project Company Development Assets. Neither Seller nor Project Company is a party to any agreement with any other third party related to the Project, directly or indirectly, that is not considered or listed herein as a Material Contract, which is in default or with the passage of time or giving of notice or both would be in default, or which has been terminated because of a default. 
+ 
+ 
+ 
+ 7 
+ 
+
+ 
+ 
+ 2.14 Environmental Laws . To Seller’s Knowledge, Seller and the Project Company have complied and are in compliance with all Environmental Laws affecting the Project Company and its respective assets, including the Project Company Development Assets. No Action has been filed, commenced or threatened against Seller or the Project Company alleging any failure of Seller or the Project Company to comply with any applicable Environmental Law. To Seller’s Knowledge, each of the Premises is in compliance with all Environmental Laws. All environmental investigations, reports, studies, audits, tests, reviews sampling, or other analyses conducted in relation to each of the Premises, to the extent commissioned by or in the possession of Seller or the Project Company or anyone under either of their control, have been delivered to Buyer. Seller has made available to Buyer copies of all other material documents and records in its or the Project Company’s possession or control concerning any condition of the environment with respect to each of the Premises. To Seller’s Knowledge, there are no conditions, facts or circumstances that could result in the imposition of Liabilities under, or noncompliance with, any Environmental Laws at either of the Premises or by Seller or the Project Company. Neither Seller nor the Project Company has agreed to assume, undertake, or provide indemnification for any liability of any other Person under any Environmental Law for environmental matters or conditions. 
+ 
+ 2.15 Permits . All permits, licenses or other governmental approvals (collectively, whether obtained or pending, referred to herein as “ Permits ”) related to, associated with or concerning the Project or either of the Premises that have been obtained by the Project Company are set forth on Schedule 2.15(a) . The Project Company owns or validly holds (and is in material compliance with) the Permits, and each such Permit is valid, binding and in full force and effect and has not been appealed, terminated, revoked or modified and all time limits for filing appeals have run. No notice of noncompliance or default has been received by either Seller or the Project Company, and the Project Company is not in material default (or with the giving of notice or lapse of time or both, would be in material default) under any such Permit, and no information has been received by either Seller or the Project Company that could reasonably be expected to prevent Buyer from maintaining any such Permit. To Seller’s Knowledge, all Permits that are necessary for the Project Company to construct, operate, own and maintain the Project (other than the Permits set forth on Schedule 2.15(a) ) are set forth on Schedule 2.15(b) . To Seller’s Knowledge, no facts or circumstances exist that reasonably could be expected to hinder, delay or restrict the ability of the Project Company to obtain any Permits set forth on Schedule 2.15(b) in the normal course without unreasonable delay or expense. Seller has previously delivered to Buyer (a) a true and correct copy of each Permit set forth on Schedule 2.15(a) , (b) all material documents, reports and correspondence provided by the Project Company to any Governmental Authority with respect to any Permit, and (c) all material documents, reports and correspondence received by the Project Company from any Governmental Authority with respect to any Permit. 
+ 
+ 2.16 Insurance . Schedule 2.16 sets forth a list of all insurance policies carried by or for the benefit of the Project Company. Such insurance policies are in full force and effect. All premiums with respect to such insurance policies have been paid in full. The insurance coverage provided by any of the policies described in this Section 2.16 will not terminate or lapse by reason of the transactions contemplated by this Agreement. 
+ 
+ 2.17 Conflicts of Interest . Neither Seller, any of its affiliates nor its or their members, managers, officers or directors has, either directly or indirectly, (a) an equity or debt interest in any corporation, limited liability company, partnership, joint venture, association, organization or other Person that furnishes or sells services or products to the Project Company, or otherwise does business with the Project Company; or (b) a material beneficial interest in or will derive any material financial gain from any Contract to which the Project Company is a party or under which the Project Company is obligated or bound or to which any of its assets may be subject other than this Agreement. 
+ 
+ 
+ 
+ 8 
+ 
+
+ 
+ 
+ 2.18 Employee Matters . The Project Company does not employ and has never employed any employees. The Project Company has no Liabilities with respect to any employees of any of its affiliates or any other individuals (including independent contractors, contract workers, leased employees or temporary employees) that have performed work at or in connection with the Project or in connection with the business of the Project Company. The Project Company does not sponsor, maintain, contribute to or have any obligation to contribute to, and since the date of its creation has never sponsored, maintained, contributed to or had any obligation to contribute to, any employee benefit plan. There does not now exist nor do any circumstances exist that could be expected to result in, any Liability of the Project Company with respect to any employee benefit plan sponsored, maintained, contributed to or required to be contributed to by any affiliate of the Project Company. 
+ 
+ 2.19 Interconnection . The Project Company has obtained approval to interconnect the Project pursuant to the Interconnection Agreement, which is in full force and effect. The Interconnection Agreement is a Final Interconnection Agreement, as that term is defined in the North Carolina State-Jurisdictional Interconnection Procedures. The Project Company has complied in all respects with the North Carolina State-Jurisdictional Interconnection Procedures, including but not limited to (a) completing all obligations imposed by the interconnecting utility under the Section 1.1.3 queue management process; and (b) obtaining all required studies by the interconnecting utility under the Section 4 Study Process necessary to evaluate the Project’s impact to the utility system and the cost of interconnection facilities and any upgrades required for the utility to safely and reliably interconnect and operate in parallel with the Project. The Project Company is in full compliance with all payment obligations (through payments made on its behalf by Buyer or its Affiliate) and Project interconnection milestones specified in the Interconnection Agreement. The Interconnection Agreement provides for the delivery, to the point of interconnection specified therein, of all of the Project’s electrical output, and complies with or is not in contravention of the PPA. 
+ 
+ 2.20 Power Purchase Agreement . The Project Company has entered into the PPA, which is in full force and effect, and is in full compliance with all payment obligations (through payments made on its behalf by Buyer or its Affiliate), milestones and other covenants therein. 
+ 
+ 2.21 Taxes . 
+ 
+ 
+
+ 
+ 
+ 
+ a. 
+ 
+ The Project Company, Seller and their respective affiliates (with respect to or to the extent potentially materially impacting the Project Company Development Assets, the ISS Project Development Assets, the Project or the Project Company) have timely filed all required Tax Returns that were due on or before the Closing Date. All such Tax Returns are true, correct and complete and all Taxes that are shown to be due on such Tax Returns and all other Taxes whether or not shown as due on such Tax Returns (including estimated Tax payments) that are due and owing have been paid in full. Project Company has timely complied with all applicable laws relating to the payment, collection or withholding of any Tax and the reporting and remittance thereof to any and all governmental authority or taxing authority. 
+ 
+ 
+ 
+ 9 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ b. 
+ 
+ There have been, and as of the Closing Date are, no (i) examinations, audits or other proceedings previously pending, currently pending or threatened against the Project Company, Seller, or any of their respective affiliates (with respect to or to the extent potentially materially impacting the Project Company Development Assets, the ISS Project Development Assets, the Project or the Project Company) by any Governmental Authority or taxing authority for the assessment or collection of Taxes, (ii) claims for assessment or collection of Taxes that have been asserted in writing against the Project Company, Seller or any of their respective affiliates (with respect to or to the extent potentially materially impacting the Project Company Development Assets, the ISS Project Development Assets, the Project or the Project Company), or (iii) matters under discussion with any governmental authority or taxing authority regarding claims for assessment or collection of Taxes against any of the Project Company, Seller or any of their respective affiliates (with respect to or to the extent potentially materially impacting the Project Company Development Assets, the ISS Project Development Assets, the Project or the Project Company). There are no liens for Taxes upon the Membership Interests, any other direct or indirect interest in the Project Company or any of the Project Company Development Assets. 
+ 
+ 
+
+ 
+ 
+ 
+ c. 
+ 
+ The Project Company, Seller and their respective affiliates (with respect to or to the extent potentially materially impacting the Project Company Development Assets, the ISS Project Development Assets, the Project or the Project Company) do not have in force any indemnity or other agreement with respect to Taxes, any waiver or extension of any statute of limitations in respect of Taxes or any extension of time with respect to a Tax Return, Tax assessment or Tax deficiency, and, no such indemnity, waiver or extension has been requested from the Project Company or Seller, or any of their respective affiliates (with respect to or to the extent potentially materially impacting the Project Company Development Assets, the ISS Project Development Assets, the Project or the Project Company). Neither the Project Company, Seller nor any of their respective affiliates (with respect to or to the extent potentially materially impacting the Project Company Development Assets, the ISS Project Development Assets, the Project or the Project Company) (A) is a party to or has any liability under any Tax sharing or Tax indemnification agreement or (B) has any tax liability for Taxes of any other Person under Treasury Regulation section 1.1502-6 (or any similar provision of state, local or non-U.S. law), as a transferee or successor, by Contract, or otherwise. 
+ 
+ 
+
+ 
+ 
+ 
+ d. 
+ 
+ Neither the Project Company nor Seller nor any of their respective affiliates has filed an election to treat the Project Company as a corporation for federal, state or local income Tax purposes. The Project Company is, and at all times since its organization has been, classified as “disregarded as an entity separate from its owner,” Seller, for federal income Tax purposes within the meaning of Treasury Regulation section 301.7701-2(c)(2)(i), and for state and local income Tax purposes, and neither the Project Company nor Seller nor any of their respective affiliates has received a written notice from any Governmental Authority or taxing authority challenging the Project Company’s classification as a disregarded entity. 
+ 
+ 
+ 
+ 10 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ e. 
+ 
+ The Project Company, Seller and their respective affiliates (with respect to or to the extent potentially materially impacting the Project Company Development Assets, the ISS Project Development Assets, the Project or the Project Company) have withheld and paid all Taxes required to have been withheld and paid in connection with any amounts paid or owing to any employee, independent contractor, creditor, member, vendor, supplier or other third party. 
+ 
+ 
+
+ 
+ 
+ 
+ f. 
+ 
+ No federal income Tax credit or grant in lieu of any such credit or any similar credit or grant under state or local law has been claimed by the Project Company, Seller or any of their respective affiliates or direct or indirect partners, shareholders or members with respect to the Project or the Project Company Development Assets or ISS Project Development Assets. To Seller’s Knowledge, there are no facts that would cause the Project to be incapable of qualifying for, and producing or giving rise to, the federal investment Tax credit pursuant to Section 48 of the Code with continued reasonable and diligent effort, and to Seller’s Knowledge, no facts or circumstances exist that reasonably could be expected to hinder, impair, restrict, limit or disqualify the Project or the applicable Project Company Development Assets or ISS Project Development Assets from qualifying for, and producing and giving rise to, the federal investment income Tax credit pursuant to Section 48 of the Code. 
+ 
+ 
+
+ 
+ 
+ 
+ g. 
+ 
+ No power of attorney is currently in effect, and no Tax ruling has been requested of any Governmental Authority or taxing authority with respect to any Tax matter, relating to the Project Company, the Project, the Project Company Development Assets or the ISS Project Development Assets. 
+ 
+ 
+
+ 
+ 
+ 
+ h. 
+ 
+ The Project Company and Seller, including their respective affiliates (with respect to or to the extent potentially materially impacting the Project Company Development Assets, the ISS Project Development Assets, the Project or the Project Company), have not received any written notice of any special assessments, levies or Taxes imposed or to be imposed affecting the Project, the Project Company, any of the Project Company Development Assets or any of the ISS Project Development Assets. 
+ 
+ 
+
+ 
+ 
+ 
+ i. 
+ 
+ None of the Project Company, Seller or any of their respective affiliates or direct or indirect partners, shareholders or members (a) has reported or will report any of the Project Company Development Assets or ISS Project Development Assets as having been “placed in service” prior to the Closing Date for federal income Tax purposes or (b) has taken or will take (or has caused to be taken or will cause to be taken) any actions that would cause the Project Company Development Assets or ISS Project Development Assets to be treated as having been “placed in service” prior to the Closing Date for federal income Tax purposes. 
+ 
+ 
+ 
+ 11 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ j. 
+ 
+ No portion of the Project Company Development Assets or ISS Project Development Assets have benefited from the proceeds of any federal or state grant or rebate program that would cause a reduction in the amount of the investment tax credit under Section 48 of the Code, and no application with respect to any such grant or rebate has been filed or submitted. No portion of the basis of any Project Company Development Asset or ISS Project Development Asset is attributable to “qualified rehabilitation expenditures” within the meaning of Section 47(c)(2)(A) of the Code. No proceeds of any issue of state or local government obligations have been used to provide financing for the Project the interest on which is exempt from Tax under Code Section 103. To Seller’s Knowledge, none of the Project Company Development Assets or ISS Project Development Assets are treated as leased to or owned by a tax-exempt entity (within the meaning of Section 168(h)(2) of the Code) or otherwise constitute “tax-exempt use property” within the meaning of Section 168(h) of the Code. The Project is not comprised of any property that is imported property of the kind described in Section 168(g)(6) of the Code to which Section 168(g)(1)(D) applies. No election under Section 168(g)(7), 168(b)(2)(D) or 168(b)(3)(D) of the Code has been made with respect to any assets of the Project Company. 
+ 
+ 
+
+ 
+ 
+ 
+ k. 
+ 
+ The Project Company and Seller, and their respective affiliates (with respect to or to the extent potentially materially impacting the Project Company Development Assets, the ISS Project Development Company Assets, the Project or the Project Company) have paid all applicable sales and use Taxes with respect to the Project Company Development Assets and ISS Project Development Assets. 
+ 
+ 
+
+ 
+ 
+ 
+ l. 
+ 
+ For purposes of Section 1445(b)(2) of the Code, neither Seller (or the first upstream regarded owner of Seller for U.S. federal income tax purposes in the event Seller is classified as a disregarded entity for U.S. federal income tax purposes) nor the Project Company is a “foreign person” as defined in Section 1445(f)(3) of the Code. 
+ 
+ 
+ 
+ 12 
+ 
+
+ 
+ 
+ 2.22 Real Property Interests . The real property and any of the interests related to the real property described on Schedule 2.22 describe all of the real property interests, including, without limitation, options, easements and leases, held by the Project Company underlying or used or to be used in the operation of the Project, including all rights to each of the Premises and all rights needed for the Project Company to fulfill its obligations under the Interconnection Agreement and the PPA (the “ Project Real Property ”). Such real property interests are sufficient in all material respects for the Project Company to develop, install, own and operate the Project as contemplated by the Material Contracts. The Project Company does not own, lease, license or otherwise have and has not had any interests (including option interests) in any other real property. The Project Real Property is not subject to any liens or other rights of third parties other than such matters set forth as an exception to the Title Policy. The Project Company holds good, valid and marketable leasehold title to each of the Premises. Seller has delivered to Buyer true, accurate and complete copies of all leases, purchase options, land rights or other agreements with respect to each of the Premises, and any surveys or plats relating to each of the Premises, together with any and all exhibits thereto, and none of the foregoing has been modified or amended unless shown therein. Each Lease, as amended, is in full force and effect and constitutes the valid and binding legal obligations of the parties therein. The copy of each Lease provided to Buyer is true, accurate and complete, contains all exhibits and has not been modified or amended unless as shown therein. To Seller’s Knowledge, each of the Premises are in compliance with all conditions, restrictions or requirements contained in any zoning ordinances, permits or approvals necessary for the Project including, but not limited to, any necessary consents or authorizations. Neither Seller nor the Project Company has received any notice of any of the following and, to Seller’s Knowledge, none of the following events or conditions have occurred or currently exist: (a) any existing or threatened special Tax or special assessment to be levied against the Premises, (b) any claims from any Governmental Authority having jurisdiction over the Project Company or the Premises or from any Person who will provide utility service to the Premises, that there are not sufficient easements and rights-of-way required for the operation of the Project as contemplated or to provide ingress and egress to and from the Premises, or (c) any notices (including without limitation requests for information) from any Governmental Authority or other person related to (i) the presence, release or threatened release of any Hazardous Material or any other environmental condition on, in or under the Project Real Property, or (ii) any other circumstance forming the basis of any actual or alleged violation by Seller or the Project Company of any Environmental Law or other remedial or removal obligation, harm, injury or damage to real or personal property, natural resources, the environment or any person alleged to have resulted from the foregoing. To Seller’s Knowledge, the Premises are being maintained in all material respects in accordance with applicable laws, rules and regulations and neither Seller nor the Project Company has received any written notification that the Premises are in violation, in any material respect, of any applicable laws, rules and regulations. 
+ 
+ 2.23 Wetlands Jurisdictional Determination . The United States Army Corps of Engineers (“ USACE ”) issued a Jurisdictional Determination dated October 19, 2015 related to 150 acres of the Project Real Property owned by Boyce White, Jr. and wife Katherine S. White. USACE issued a Jurisdictional Determination dated February 8, 2016 related to 45.92 acres of the Project Real Property owned by William R. Storms, unremarried widower of Shelby H. Storms. To Seller’s Knowledge, these Jurisdictional Determinations are the only Jurisdictional Determinations issued for the Project Real Property and remain in full force and effect as of the date of this Agreement and the Closing Date. 
+ 
+ 2.24 Capitalization; Subsidiaries . Schedule 2.24 sets forth all authorized, issued and outstanding Membership Interests, all of which are owned by Seller. Except as set forth on Schedule 2.24 there are no other issued and outstanding Membership Interests, or convertible securities, calls, options, warrants, Contracts or commitments (other than this Agreement), or understandings or arrangements by which the Project Company is bound to issue, repurchase or otherwise acquire or retire any additional Membership Interests. Upon consummation of the transactions contemplated by this Agreement, Buyer will own all of the Membership Interests, free and clear of all Encumbrances. The Project Company has no and has never had any subsidiaries or owned any equity interests in any Person. 
+ 
+ 
+ 
+ 
+ 13 
+ 
+
+ 
+ 
+ 2.25 Regulation . 
+ 
+ 
+
+ 
+ 
+ 
+ a. 
+ 
+ Presuming that Buyer is not itself a “public utility” (as that term is defined under the FPA) and is either not a “holding company” (as that term is used under FPA Section 203(a)(2)) or is eligible for the blanket authorizations set forth in 18 C.F.R. § 33.1(c)(8), to Seller’s Knowledge, the execution, delivery, and consummation of the transactions provided for in this Agreement require no pre-consummation of the FERC under Section 203 of the FPA. 
+ 
+ 
+
+ 
+ 
+ 
+ b. 
+ 
+ The Project Company (i) is not now a “public utility” as that term is defined in the FPA but is subject to regulation under the FPA with respect to its status as a QF and its eligibility to make sales of electricity at wholesale pursuant to the PPA, and (ii) is not subject to regulation as a “public utility,” as that term is defined in the North Carolina Public Utilities Act. Neither Seller nor the Project Company (x) is subject to regulation as a “public utility,” “public utility company,” “electrical corporation” or “holding company” as those terms are defined in the Public Utility Holding Company Act of 2005, as amended, and the regulations promulgated thereunder (“ PUHCA ”) (except that Seller is a “holding company” of one or more QFs and/or “exempt wholesale generators,” as those terms are defined under PUHCA, and is eligible for the exemption from regulation under PUHCA to the extent set forth in 18 C.F.R. § 366.3(a)), the FPA or the North Carolina Public Utilities Act, or otherwise subject to regulation as a public utility or service company (or similar designation) by a Governmental Authority or (y) has taken any action that would result in Seller or the Project Company being subject to such regulation. 
+ 
+ 
+
+ 
+ 
+ 
+ c. 
+ 
+ The Project is a QF and will be a “small power production facility” that will meet the requirements of 18 C.F.R. Section 292.204. The Project Company (i) has obtained and maintained status for the Project as a QF and (ii) has made the requisite QF filings with FERC and any applicable utility and state regulatory authority in order to obtain QF status. The Project and the Project Company are exempt from regulation (x) as set forth in 18 C.F.R. Sections 292.601 and 602, but are not exempt from regulation under Sections 204, 205 and 206 of the FPA under 18 C.F.R. Section 292.601, and (y) by the state of North Carolina respecting rates and financial and organizational regulation under 18 C.F.R. Section 292.602. The Project Company has not submitted to FERC any tariff or application for “market-based rate” authority (as that term is used under 18 C.F.R. Part 35 Subpart H). The execution, delivery and performance by the Parties of this Agreement and the consummation of the transactions contemplated hereby require no pre-consummation notice or approval by the NCUC under the North Carolina Public Utilities Act. The ownership of the Project will not result in the Project Company being subject to regulation by the NCUC as a “public utility” as defined in the North Carolina Public Utilities Act. The Project Company has obtained all applicable NCUC regulatory approvals to (A) construct the Project, including but not limited to, the requirement to obtain a certificate of public convenience and necessity to begin construction of an electric generating facility in accordance with N.C.G.S. § 62-110.1 and Rule R8-64; (and the Project Company has notified the NCUC of the change of control of and updated contact information for the Project Company in accordance with Rule R8-64(d)(3)); and (B) register the Project as a New Renewable Energy Facility, as that term is defined in N.C.G.S. § 62-133.8, in accordance with Rule R8-66. 
+ 
+ 
+ 
+ 14 
+ 
+
+ 
+ 
+ 2.26 Subsidiaries and Joint Ventures . The Project Company does not own any capital stock, security, partnership interest or other equity interest of any kind in any corporation, partnership, limited liability company, joint venture, association or other entity. 
+ 
+ 2.27 Intellectual Property . The Project Company owns, or has the licenses or rights to use, all material Intellectual Property currently used by the Project Company or that is necessary for the conduct of the business of the Project Company as of the date hereof. Neither the Project Company nor Seller has received from any Person a claim in writing that the Project Company is infringing in any material respect the Intellectual Property of such Person and to Seller’s Knowledge there is no threatened claim by or against the Project Company for infringement or misappropriation of any Intellectual Property. 
+ 
+ 2.28 Hazardous Substances . To Seller’s Knowledge, no release of Hazardous Substances has occurred at, onto, from or under any of the properties relating to the Premises or any property adjacent thereto. Neither Seller nor the Project Company have stored, handled, disposed of, generated, manufactured, refined, transported, migrated, produced or treated any Hazardous Substance at, upon, or from the properties relating to the Premises in violation of any applicable Law (including Environmental Laws) and, to Seller’s Knowledge, no condition exists or event has occurred on the properties relating to the Premises which with the passing of time or the giving of notice or both would constitute a violation of Environmental Law or otherwise give rise to costs, liabilities or obligations thereunder. 
+ 
+ 2.29 Affiliate Transactions . Except as set forth on Schedule 2.29 , neither Seller nor any affiliate of Seller (other than the Project Company) or any affiliate of the Project Company has any interest in or is a party to: (a) any Contract with the Project Company; (b) any loan or other instrument to or from the Project Company; (c) any right or property (real, personal or mixed, tangible or intangible) used, or expected to be used, by the Project Company or otherwise related to the Project; or (d) any pending or threatened claim or cause of action against the Project Company. 
+ 
+ 2.30 Bank Accounts . Schedule 2.30 sets forth the names and locations of banks, trust companies and other financial institutions at which the Project Company maintains bank accounts or safe deposit boxes and the names of all Persons authorized to draw thereon, make withdrawals therefrom or have access thereto. 
+ 
+ 2.31 No Brokers . There is no investment banker, broker, finder or other intermediary retained by or authorized to act on behalf of Seller, Buyer or the Project Company who might be entitled to any fee or commission as a result of the execution and delivery of this Agreement or the consummation of the transactions contemplated by this Agreement. 
+ 
+ 
+ 
+ 15 
+ 
+
+ 
+ 
+ 2.32 Full Disclosure . Seller has reviewed the documents, items and other disclosures listed in this Agreement and the Schedules and Exhibits hereto. To Seller’s Knowledge, there is no untrue or incorrect statement of fact in this Agreement or the Schedules and Exhibits hereto. To Seller’s Knowledge, there is no omission from this Agreement or the Schedules and Exhibits hereto necessary to make the information therein, in light of the circumstances, in which it was provided, not misleading. No representation or warranty by Seller contained in this Agreement or the Schedules and Exhibits hereto or in any statement or certificate furnished or to be furnished by or on behalf of Seller to Buyer or its representatives in connection herewith or pursuant hereto contains or will contain any untrue statement of a material fact, or omits or will omit to state any material fact required to make the statements contained herein or therein not misleading. Except for any such events or circumstances that have been disclosed in this Agreement or the Schedules and Exhibits hereto and other than matters of a general economic or political nature which do not affect the Project uniquely, there are no other facts or other circumstances (i) that would, individually or in the aggregate, be considered material by a reasonable investor in making an investment decision regarding the Project or (ii) that could, individually or in the aggregate, materially and adversely affect the ability of the Project to connect to the local distribution or transmission system in accordance with the requirements of the Interconnection Agreement, achieve COD or sell power and the environmental attributes in accordance with the requirements of the PPA. 
+ 
+ 3. REPRESENTATIONS AND WARRANTIES OF BUYER . Buyer represents and warrants to Seller that the following representations are true, correct and complete as of the date hereof, and as of the Closing Date, except as otherwise indicated. 
+ 
+ 3.1 Organization; Authority . Buyer is duly incorporated or formed, validly existing and in good standing under the laws of the jurisdiction of its formation. Buyer has all requisite entity powers and authorities to own, lease and operate its properties and to carry on its business as now being conducted. The execution, delivery and performance by Buyer of this Agreement are within Buyer’s entity powers and have been duly authorized by all necessary resolutions or other required actions. 
+ 
+ 3.2 Binding Effect . This Agreement when executed and delivered by Buyer will constitute the valid and legally binding obligation of Buyer, enforceable in accordance with its terms, except as limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance, and any other laws of general application affecting enforcement of creditors’ rights generally, and as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies. 
+ 
+ 3.3 Absence of Conflicting Agreements . Neither Buyer nor its affiliates is a party to, bound or affected by or subject to any indenture, mortgage, lease, agreement, instrument, charter or bylaw provision, statute, regulation, order, judgment, decree or law which would be violated, contravened or breached by, or under which any default would occur, as a result of the execution and delivery of this Agreement or the consummation of any of the transactions described herein. 
+ 
+ 4. CONDITIONS TO CLOSING AND PRE- AND POST-CLOSING COVENANTS 
+ 
+ 4.1 Conditions to Obligations of Buyer . The obligation of Buyer to complete the transactions contemplated hereby are subject to the satisfaction on or prior to the Closing Date of each of the following conditions, any or all of which, if not fulfilled, may be waived in writing by Buyer: 
+ 
+ 
+
+ 
+ 
+ 
+ a. 
+ 
+ Seller shall have delivered to Buyer each of the documents and items set forth in Section 1.5; 
+ 
+ 
+
+ 
+ 
+ 
+ b. 
+ 
+ Each of the representations and warranties of Seller contained in Article 2 hereof shall be true and correct as though made on and as of the Closing Date; 
+ 
+ 
+ 
+ 16 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ c. 
+ 
+ Buyer shall have received copies of all site plans approved by the relevant local governmental authorities, in form and substance satisfactory to Buyer; and 
+ 
+ 
+
+ 
+ 
+ 
+ d. 
+ 
+ Buyer shall have received the written consent of Duke Energy to the change of control of the Project Company in form and substance acceptable to Buyer. 
+ 
+ 
+
+ 
+ 
+ 
+ e. 
+ 
+ The closing of the non-recourse debt financing for the Project Company (the “ Debt Financing ”), with documents and terms in form and substance reasonably satisfactory to Buyer (including delivery of all required third-party documentation, including, to the extent required, satisfactory consents, estoppels and legal opinions of major project participants), shall have occurred or shall occur simultaneously with or immediately following the Closing hereunder, and the commitments under the Debt Financing shall be effective simultaneously with the Closing. 
+ 
+ 
+
+ 
+ 
+ 
+ f. 
+ 
+ The closing of the tax equity financing for the Project, with documents and terms in form and substance reasonably satisfactory to Buyer (including delivery of all required third-party documentation, including, to the extent required, satisfactory consents, estoppels and legal opinions of major project participants), shall have occurred or shall occur simultaneously with or immediately following the Closing hereunder. 
+ 
+ 4.2 Conditions to Obligations of Seller . The obligation of Seller to complete the transactions contemplated hereby are subject to the satisfaction on or prior to the Closing Date of each of the following conditions, any or all of which, if not fulfilled, may be waived in writing by Seller: 
+ 
+ 
+
+ 
+ 
+ 
+ a. 
+ 
+ Each of the representations and warranties of Buyer contained in Article 3 hereof shall be true and correct as though made on and as of the Closing Date; 
+ 
+ 
+
+ 
+ 
+ 
+ b. 
+ 
+ Buyer shall have delivered to Seller, a certificate dated as of the Closing Date, executed by its manager, certifying that the condition set forth in Section 4.2(a) has been fulfilled, in the form attached to this Agreement as Exhibit E ; and 
+ 
+ 
+
+ 
+ 
+ 
+ c. 
+ 
+ Buyer shall have complied with all then due payment obligations hereunder. 
+ 
+ 4.3 Other Actions to be Taken at or after the Closing Date . Seller and Buyer shall execute and deliver to the other any and all documents and instruments in addition to those provided for herein that may be necessary or appropriate to effectuate the transactions contemplated by this Agreement at or after the Closing Date. 
+ 
+ 
+ 
+ 
+ 17 
+ 
+
+ 
+ 
+ 4.4 Project Company Pre-Closing Liabilities . Seller shall (i) be responsible for all Project Company Pre-Closing Liabilities and (ii) cause all Project Company Pre-Closing Liabilities to be paid, performed and discharged by their applicable due date. For purposes of this Agreement, “ Project Company Pre-Closing Liabilities ” shall mean any and all Liabilities of the Project Company or that otherwise are associated with or relate to the Project or the Project Company (i) arising on or attributable to periods on or prior to the Closing, or (ii) arising out of, related to, or in connection with the acts or omissions of Seller or its affiliates (or any of its officers, directors, members or employees), whether or not associated with or related to the Project, the Project Company, the Project Company Development Assets or the ISS Project Development Assets; provided , however, that with respect to Liabilities under Material Contracts, “ Project Company Pre-Closing Liabilities ” shall only include Liabilities (x) due and payable on or prior to the Closing, and (y) to the extent such Liabilities are a result of or attributable to a breach or default by the Project Company of such Material Contract on or prior to the Closing; provided , further , that “ Project Company Pre-Closing Liabilities ” shall not include any rental payments under the Leases, payments for the costs of interconnection due under the Interconnection Agreement, costs paid, due or payable pursuant to the Power Purchase Agreement, and costs paid, due or payable to any local governmental entity and any other costs or expenses which have been paid or incurred by Buyer or any affiliate or related party to Buyer, with such rental payments and costs to be paid by Buyer (it being understood that no such payments, costs or expenses shall be reimbursed, due or payable by Seller). 
+ 
+ 4.5 Tax Covenants . 
+ 
+ 
+
+ 
+ 
+ 
+ a. 
+ 
+ Pre-Closing Tax Returns . For any Tax Returns that relate to tax periods ending on or before the Closing Date, Seller shall prepare and timely file with the appropriate authorities all Tax Returns required to be filed by the Project Company or the other entity of which such Project Company is considered not to be separate for federal income tax purposes and shall pay any Taxes shown as due on such Tax Returns. Such Tax Returns shall be prepared in a manner consistent with past practice (unless otherwise required by applicable law). 
+ 
+ 
+
+ 
+ 
+ 
+ b. 
+ 
+ Post-Closing Tax Returns . Buyer shall prepare and timely file with the appropriate authorities all Tax Returns required to be filed by the Project Company that relate to a Straddle Period, and Seller shall cooperate, to the reasonable satisfaction of Buyer, in the accurate preparation and filing of such Tax Returns. Buyer shall send to Seller a copy of each such Tax Return (together with such schedules and supporting workpapers as Seller may reasonably request) and shall permit Seller to review and comment. Seller shall pay to Buyer or the Project Company, no less than five (5) days prior to the due date for the applicable Tax Return, any Pre-Closing Taxes shown on such Tax Return. Notwithstanding anything to the contrary herein, Buyer shall be entitled to timely file any Tax Return for a Straddle Period without having incorporated any unagreed upon changes to avoid a late filing of such Tax Return. 
+ 
+ 
+
+ 
+ 
+ 
+ c. 
+ 
+ Cooperation . Buyer and Seller shall cooperate fully, as and to the extent reasonably requested by the other Party, in connection with the filing of Tax Returns pursuant to this Section 4.5 and any examination, audit or other proceeding with respect to Taxes. 
+ 
+ 
+
+ 
+ 
+ 
+ d. 
+ 
+ Third Party Tax Claims . If any third-party notifies Seller of the existence of any Proceedings relating to Taxes of the Project Company or related to Taxes with respect to or potentially impacting the Project Company Development Assets, the ISS Project Development Assets, the Project or the Project Company (a “ Third Party Tax Claim ”), Seller shall give notice to Buyer within fifteen (15) days of the notice of the Third Party Tax Claim. Seller covenants not to settle or otherwise dispose of any Third Party Tax Claim, if such claim shall have or could reasonably be expected to have adverse Tax consequences to the Project Company or Buyer, without first obtaining written consent from Buyer of such settlement or disposition, such consent not to be unreasonably withheld, conditioned or delayed. 
+ 
+ 
+ 
+ 18 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ e. 
+ 
+ Transfer Taxes and Filings Fees . Seller shall be responsible for and pay all Transfer Taxes and filing fees associated with the transactions contemplated by this Agreement. Seller shall file when due all necessary documentation and Tax Returns with respect to such Transfer Taxes. 
+ 
+ 
+
+ 
+ 
+ 
+ f. 
+ 
+ Purchase Price Allocation . For federal income Tax purposes, the Parties shall treat the purchase and sale of the Membership Interests as a purchase and sale of all of the assets of the Project Company and assumption by Buyer of all the Project Company’s Liabilities (other than Liabilities for which Buyer is required to be indemnified pursuant to this Agreement). Except as may otherwise be required by applicable law, for purposes of any state Transfer Taxes and, to the extent permitted by applicable law, Buyer and Seller acknowledge and agree that they shall treat the transactions contemplated by this Agreement as a sale of the Membership Interests. The Parties agree that for purposes of income Tax reporting, the assets of the Project Company do not include any goodwill or going concern value, and neither Buyer nor Seller nor any of their affiliates will file any Internal Revenue Service Form 8594 with respect to the purchase and sale of the Membership Interests pursuant to this Agreement. 
+ 
+ 4.6 Pre-Closing Access. 
+ 
+ 
+
+ 
+ 
+ 
+ a. 
+ 
+ Seller shall, prior to the Closing, furnish or cause to be furnished to Buyer and its representatives, at reasonable times and upon reasonable notice, such access (i) during normal business hours, to the Project as Buyer reasonably requests and (ii) to the Books and Records as Buyer reasonably requests, but, in each case, only to the extent that such access does not unreasonably interfere with the business and operations of the Project Company; provided, however, that Seller has the right to have one of its representatives present and to impose reasonable restrictions and requirements for safety purposes. 
+ 
+ 
+
+ 
+ 
+ 
+ b. 
+ 
+ Buyer and Seller agree that prior to the Closing, at the sole responsibility and expense of Buyer, Seller shall permit designated representatives of Buyer to regularly observe, in the presence of personnel of Seller and at Buyer’s, reasonable discretion, all business and operations of Seller that relate to the Project and that occur at the site of the Project, and the development and operation thereof, and to participate to the extent reasonably practicable in key discussions and communications with third parties relating to the Project, including any amendment, modification, termination or waiver of any provision of any Material Contract; provided, however, that (i) any such observations shall be conducted in such a manner as not to interfere unreasonably with the development and operation of the Project and to be in compliance with customary safety and confidentiality protocols and (ii) Buyer may not observe any discussions between Seller and its legal counsel and may not otherwise observe any activities or discussions which may constitute a waiver of the attorney-client privilege. Seller shall provide reasonable advance notice of any such material discussions and communications and shall coordinate participation in such material discussions and communications to the extent reasonably practicable. 
+ 
+ 
+ 
+ 19 
+ 
+
+ 
+ 
+ 4.7 Achievement of Closing . From the date hereof until the Closing, Seller shall take such actions as are reasonably necessary to expeditiously satisfy the closing conditions set forth in Article 4 hereof, and Seller shall cooperate fully with Buyer in promptly taking all such actions and in seeking to obtain all necessary third party consents, authorizations, orders and approvals required for the Closing; provided that the foregoing shall not obligate Seller to enter into any contract, agreement or other instrument with a counterparty of Buyer or any governmental or other entity, or take any action that could reasonably be expected to expose Seller to any material liability, including, but not limited to, liability that survives the Closing. Seller shall not willfully take any action that will have the effect of delaying, impairing or impeding the receipt or satisfaction of any closing condition. Seller shall keep Buyer informed of the status of satisfaction of the closing conditions and shall promptly notify Buyer of any anticipated delay of, or expected failure to achieve, any closing condition. 
+ 
+ 5. INDEMNIFICATION 
+ 
+ 5.1 Survival of Representations and Warranties . All representations, warranties, covenants and agreements contained herein and all related rights to indemnification shall survive the Closing for a period of two (2) years other than to the extent related to Taxes in which case survival shall be for the applicable statute of limitations; provided, that, with respect to any representation, warranty, covenant or agreement as to which a claim shall have been asserted prior to the date that is two (2) years following the Closing Date (or the expiration of the applicable statute of limitations to the extent the underlying claim relates to Taxes), the survival period shall continue in effect with respect to such claim until such claim shall have been finally resolved or settled. 
+ 
+ 5.2 Indemnification By Seller . Seller agrees to indemnify, defend and save Buyer (and following the Closing Date, the Project Company) and each of their officers, directors, managers, employees, agents and representatives (each, a “ Buyer Indemnified Party ”), harmless from and against, and to promptly pay to a Buyer Indemnified Party or reimburse a Buyer Indemnified Party for, any and all damages, Liabilities (whether contingent, fixed or unfixed, liquidated or unliquidated, or otherwise), obligations, deficiencies, demands, claims, suits, actions, causes of action, assessments, losses, costs, expenses, interest, fines, penalties or costs or expenses of any and all investigations, proceedings, judgments, environmental analyses, remediations, settlements and compromises (including, without limitation, fees and expenses of attorneys, accountants and other experts) (collectively, “ Losses ”) sustained or incurred by any Buyer Indemnified Party relating to, resulting from, arising out of or otherwise by virtue of any inaccuracy in or breach of any of the representations or warranties of Seller contained in this Agreement or in any certificate or instrument delivered by or on behalf of Seller pursuant to this Agreement, and any breach or non-fulfillment of any covenant, agreement or other obligation to be performed by Seller pursuant to this Agreement or any document to be delivered hereunder. 
+ 
+ 
+ 
+ 20 
+ 
+
+ 
+ 
+ 5.3 Indemnification By Buyer . Buyer agrees to indemnify, defend and save Seller and each of its officers, directors, managers, employees, agents and representatives (each, a “ Seller Indemnified Party ”) harmless from and against, and to promptly pay to a Seller Indemnified Party or reimburse a Seller Indemnified Party for, any and all Losses sustained or incurred by any Seller Indemnified Party relating to, resulting from, arising out of or otherwise by virtue of any inaccuracy in or breach of any of the representations or warranties of Buyer contained in this Agreement or in any certificate or instrument delivered by or on behalf of Buyer pursuant to this Agreement, and any breach or non-fulfillment of any covenant, agreement or other obligation to be performed by Buyer pursuant to this Agreement or any document to be delivered hereunder. 
+ 
+ 5.4 Indemnification by Seller Related to Taxes . Seller shall also indemnify Buyer and hold it harmless from and against, without duplication, any loss, claim, liability, expense or other damage attributable to (i) all Pre-Closing Taxes (or the non-payment thereof), (ii) any and all Taxes of any person imposed on the Project Company as a transferee or successor, by contract or pursuant to any law, rule or regulation, which Taxes relate to an event or transaction occurring on or before the Closing and (iii) all Transfer Taxes as a result of the transactions contemplated by this Agreement. 
+ 
+ 6. TERMINATION 
+ 
+ 6.1 Termination . Notwithstanding anything in this Agreement to the contrary, either Buyer or Seller may terminate this Agreement by written notice to the other Party in the event that the Closing Date has not occurred on or by July 31, 2016, as such date may be extended in accordance with Section 6.3 (as extended, the “ Final Date ”), provided , that such termination will not be available to a Party if the Closing Date has not occurred solely by reason of any breach by such Party of this Agreement (including, in the case of Seller, breach of its obligations in Section 4.7). Following such termination in accordance with this Section, Seller shall be entitled to retain all Extension Payments (as defined below) received by it as liquidated damages, and neither Party shall have any further obligations hereunder except as set forth in Sections 6.4 and 6.5. 
+ 
+ 6.2 Force Majeure . If, for any reason prior to Closing Date, the Project cannot be developed or otherwise go forward to completion and sale of electricity to Duke Energy through no fault of Buyer or due to external factors not under the control of Seller or Buyer (such as force majeure or governmental action, but not due to Buyer’s inability to obtain financing for the Project or one similar to such), then this Agreement will terminate upon written notice thereof by either Party to the other Party, and thereafter neither Party shall have any further obligations hereunder except as set forth in Sections 6.4 and 6.5. 
+ 
+ 6.3 Extension of Final Date . On or prior to the Final Date, Buyer may extend the Final Date by up to sixty (60) additional days in the aggregate, by paying to Seller, in advance of such extension, payments of $5,000 per each day of extension desired (“ Extension Payments ”), by wire transfer of immediately available funds pursuant to the wire instructions set forth on Exhibit A ; provided that Buyer may make multiple extensions of the Final Date in any increment of additional days (including increments to extend only to the next succeeding business day) so long as payment is made on or prior to the then-current Final Date. An amount equal to the sum of (i) fifty percent (50%) of all Extension Payments paid to Seller until the Closing Date plus (ii) all Extension Payments paid to Seller for days after the Closing Date (such sum, the “ Extension Credit ”) shall be credited to the Closing Payment as set forth in Section 1.3(b). 
+ 
+ 
+ 
+ 21 
+ 
+
+ 
+ 
+ 6.4 Third Party Sale . If, following termination of this Agreement pursuant to Sections 6.1 or 6.2, Seller sells the Membership Interests to a Person that is not an Affiliate of Buyer (a “ Third Party Sale ”), then Seller shall give notice thereof to Buyer and pay to Buyer, simultaneous with the closing of such Third Party Sale, an amount equal to: 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ (a) 
+ 
+ fifty percent (50%) multiplied by 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ (b) 
+ 
+ the excess, if any, of: 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ (i) 
+ 
+ the gross proceeds received by Seller from such Third Party Sale, less 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ (ii) 
+ 
+ an amount equal to the Closing Payment (with an Extension Credit of $0), less 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ (iii) 
+ 
+ the amount of all reasonable documented and invoiced out-of-pocket third-party expenses (including, but not limited to, legal, survey, engineering, environmental and commissioning expenses) paid or payable by Seller necessary to consummate such Third Party Sale and incurred following the termination of this Agreement; provided that Seller may only include amounts pursuant to this clause (iii) to the extent it provides documentation thereof to Buyer. 
+ 
+ Seller shall deliver to Buyer all such documentation, closing statements and other written evidence as Buyer may reasonably request to verify the amounts referred to in this Section. 
+ 
+ 6.5 Effect of Termination . In the event of the termination of this Agreement pursuant to Sections 6.1 or 6.2, this Agreement shall forthwith become void, there shall be no liability on the part of Buyer, Seller or the Project Company or their respective officers, directors, stockholders, managers or partners pursuant to this Agreement, and all rights and obligations of any party hereto shall cease, except (i) for the provisions of Sections 6 and 7, and other provisions of this Agreement that by their nature survive termination, all of which shall survive any such termination; and (ii) that nothing herein shall relieve any party hereto of any liability for any and all of the damages suffered by the other party hereto as a result of any fraud, intentional misrepresentation or willful breach of such party’s representations, warranties, covenants or agreements contained in this Agreement. 
+ 
+ 7. MISCELLANEOUS 
+ 
+ 7.1 Notices . Any notice or other communication in connection with this Agreement shall be deemed to be delivered if in writing (including via email) addressed as provided below and if either (a) actually delivered at said address, (b) in the case of delivery by transmission with receipt acknowledged, or recognized overnight courier service, one business day after transmittal, or (c) in the case of a letter, three business days after deposited in the United States mails, postage prepaid and registered or certified, return receipt requested: 
+ 
+ If to Seller: 
+ 
+ Innovative Solar Systems, LLC 
+ 171 Rolling Meadows Road 
+ Fletcher, NC 28732 
+ Attention: Richard H. Green 
+ Title: Manager Email: Rhgreen@aol.com 
+ 
+ 
+ 
+ 22 
+ 
+
+ 
+ 
+ If to Buyer: 
+ 
+ IS-31 Holdings, LLC c/o VivoPower USA, LLC 
+ 3824 Cedar Springs Rd. #801-1299 
+ Dallas, TX 75219 
+ Attention: Chief Financial Officer 
+ Email: dpilotte@vivopower.com 
+ 
+ And in any case at such other address as the addressee shall have specified by written notice. All periods of notice shall be measured from the date of delivery thereof. 
+ 
+ 7.2 Execution in Counterparts . This Agreement may be executed in multiple counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same document. The exchange of copies of this Agreement and of signature pages by facsimile or PDF transmission shall constitute effective execution and delivery of this Agreement as to the Parties and may be used in lieu of the original Agreement and signature pages thereof for all purposes. 
+ 
+ 7.3 Entire Agreement . This Agreement and the documents to be delivered hereunder constitute the entire understanding and agreement between the parties hereto concerning the subject matter hereof. Nothing expressed or implied in this Agreement is intended or shall be construed so as to grant or confer on any person, firm or corporation other than the parties hereto, any rights or privileges hereunder. 
+ 
+ 7.4 Amendment . No amendment, modification or waiver of any term hereof shall be effective unless set forth in writing signed by all Parties hereto. 
+ 
+ 7.5 Assignment . Neither the Project Company nor Seller shall assign their rights, duties or obligations hereunder to any third party without the prior written approval of Buyer, provided that any such permitted assignment shall not relieve Project Company or Seller of its primary liability for its obligations hereunder. Buyer may assign all or any of its rights hereunder to any third party without requiring the approval of Seller, provided that, any such assignment shall not relieve Buyer of its primary liability for its obligations hereunder. Nothing in this Agreement, expressed or implied, is intended or shall be construed to confer upon any person other than the parties hereto and their respective successors and permitted assigns any rights, remedy or claim under or by reason of this Agreement or any provision herein contained. 
+ 
+ 
+ 
+ 23 
+ 
+
+ 
+ 
+ 7.6 Headings . The headings contained in this Agreement are for the purpose of reference only and shall not be considered a part of, or control or affect the meaning or construction of this Agreement. 
+ 
+ 7.7 Governing Law . THIS AGREEMENT, AND ANY INSTRUMENT OR AGREEMENT REQUIRED HEREUNDER (TO THE EXTENT NOT EXPRESSLY PROVIDED FOR THEREIN), SHALL BE GOVERNED BY, AND CONSTRUED UNDER, THE LAWS OF THE STATE OF NEW YORK APPLICABLE TO CONTRACTS MADE AND TO BE PERFORMED IN SUCH STATE AND WITHOUT REFERENCE TO CONFLICT OF LAWS PRINCIPLES (OTHER THAN SECTIONS 5-1401 AND 5-1402 OF THE NEW YORK GENERAL OBLIGATIONS LAW) . 
+ 
+ 7.8 Binding Effect . This Agreement and all of the provisions hereof shall be binding upon and inure to the benefit of each party, and their successors and permitted assigns. 
+ 
+ 7.9 Waiver . The failure to enforce at any time any of the provisions of this Agreement or to require at the time of performance by the other Party of any of the provisions hereof shall not be construed as a waiver of such provisions or to affect the validity of this Agreement, or any part hereof or the right of either Party to enforce each and every such provision in accordance with the terms of this Agreement. 
+ 
+ 7.10 Enforceability . Except as otherwise provided herein, in case any provision(s) of this Agreement shall be determined invalid or unenforceable under the applicable law, such provision(s) shall, insofar as possible, be construed or applied in such manner as will permit enforcement; otherwise, this Agreement shall be construed as though such provision(s) had never been made a part hereof. 
+ 
+ 7.11 License for Access and Data Room . Upon execution of this Agreement, Seller shall (a) execute a license for access to enable Buyer, its affiliates and consultants to access the Premises for the purpose of completing the due diligence contemplated herein; and (b) provide to Buyer copies of all new or updated information not already provided to Buyer to allow Buyer to complete its due diligence. 
+ 
+ 7.12 Due Diligence . Seller shall provide, to the satisfaction of Buyer, copies of all due diligence inspections, reports and studies relative to the Premises, including but not limited to a preliminary title commitment and a survey of the Premises. Seller shall provide to Buyer any existing reports, studies and permits that have been completed or obtained by Seller. Additionally, Seller shall cooperate with Buyer regarding any additional reasonable information requests. Unless otherwise indicated, all costs of such reports, studies and permits provided by Seller shall be borne by Seller. 
+ 
+ 7.13 Zoning . Seller shall provide, to the satisfaction of Buyer, copies of any and all verifications of appropriate zoning classification from the respective city and/or County for the Premises on which the Project is sited, or final determination of applicable rezoning petitions, and such cost shall be Seller’s responsibility. 
+ 
+ 
+ 
+ 24 
+ 
+
+ 
+ 
+ 7.14 Copies of Specified Agreements . At or before Closing, Seller shall provide, to the satisfaction of Buyer, copies of the following agreements for the Project or Premises, as applicable (and shall list all of the applicable agreements in Schedule 7.14 to this Agreement): 
+ 
+ 
+
+ 
+ 
+ 
+ a. 
+ 
+ the Leases, including any applicable Subordination, Non-Disturbance and Attornment Agreements; 
+ 
+ 
+
+ 
+ 
+ 
+ b. 
+ 
+ verification of any existing agricultural contracts affecting the Premises; 
+ 
+ 
+
+ 
+ 
+ 
+ c. 
+ 
+ the Interconnection Agreement; 
+ 
+ 
+
+ 
+ 
+ 
+ d. 
+ 
+ REC Contracts (if applicable); 
+ 
+ 
+
+ 
+ 
+ 
+ e. 
+ 
+ the PPA; 
+ 
+ 
+
+ 
+ 
+ 
+ f. 
+ 
+ any consents which may be necessary due to the change in control of the Project under each Lease or Interconnection Agreement, and any permits, filings and approvals, required for ownership, operation and maintenance of the Project; and 
+ 
+ 
+
+ 
+ 
+ 
+ g. 
+ 
+ all necessary authorizations, certifications and licenses from the NCUC and all other regulatory agencies for the operation of the Project and the sale and delivery of electrical output therefrom, including but not limited to registration of the Project as a new renewable energy facility and the issuance of an Order of Certificate of Public Convenience and Necessity. 
+ 
+ 7.15 Exclusivity . Except as otherwise provided herein, prior to any termination of this Agreement, Seller shall not, and shall not authorize or permit any representative on Seller’s behalf, including but not limited to John Green or Richard Green, to directly or indirectly, encourage, solicit, initiate, facilitate, enter into discussions or negotiations or any agreement with, or otherwise participate in any manner whatsoever, concerning the acquisition of any or all of the membership interests or the assets of the Project Company or divesture of the Project. Seller shall deal exclusively with Buyer and Buyer’s designated agent(s), if any, concerning the foregoing and the transactions contemplated hereunder (collectively, the “ Transaction ”). 
+ 
+ 7.16 Expenses . Whether or not the Transaction is consummated, each Party will each bear its respective costs and expenses, including the payment of any broker fees. Neither party shall be liable for or pay any costs or expenses incurred by the other, except as otherwise provided herein. 
+ 
+ 7.17 Confidentiality . Buyer and Seller’s position as described in this Agreement is made with the understanding that it will be treated in confidence and that no disclosure will be made without Buyer’s or Seller’s prior consent, except as otherwise required by law or regulation. 
+ 
+ 7.18 Public Announcement . The parties shall consult with each other on the desirability, timing and substance of any press release or public announcement, publicity statement or other public disclosure relating to the Transaction or the fact that negotiations are being held. Each Party agrees not to make any such public disclosures without the prior written consent of the other Party as to the content and timing of such disclosure; provided, however, that either Party may make such disclosures as are required to comply with applicable law or regulation. 
+ 
+ 
+ 
+ 25 
+ 
+
+ 
+ 
+ 7.19 Other Agreements . This Agreement constitutes the entire agreement between the Parties relating to the subject matter hereof and supersedes any other prior agreements, written or oral, between the Parties concerning such subject matter. 
+ 
+ 7.20 Interpretation . Except where otherwise expressly provided or unless the context otherwise necessarily requires, in this Agreement: (a) reference to a given Article, Section, Subsection, clause, Exhibit or Schedule is a reference to an Article, Section, Subsection, clause, Exhibit or Schedule of this Agreement; (b) the terms “hereof”, “herein”, “hereto”, “hereunder” and “herewith” refer to this Agreement as a whole; (c) reference to a given agreement, instrument, document or law is a reference to that agreement, instrument, document or law as modified, amended, supplemented and restated through the date as of which such reference is made, and, as to any law, any successor law; (d) reference to a Person includes its successors and permitted assigns; (e) the singular includes the plural and the masculine includes the feminine, and vice versa; (f) “includes” or “including” means “including, for example and without limitation;” and (g) references to “days” mean calendar days. 
+ 
+ 7.21 Definitions . For purposes of this Agreement, the following terms and variations thereof have the meanings specified or referred to in this Section 7.21: 
+ 
+ “Affiliate” means, with respect to a Person, any other Person that, directly or indirectly through one or more intermediaries, Controls, is Controlled by or is under common Control with such first Person. 
+ 
+ “Action” means any claim, action, suit, proceeding, arbitration, complaint, charge or governmental investigation of any nature. 
+ 
+ “ Books and Records ” means originals, or where not available, copies, of all books and records, including, but not limited to, books of account, data, studies and correspondence (including all correspondence with any Governmental Authority) used in the siting, design, development, interconnection, construction, start-up, testing, commissioning, ownership, use, operation or maintenance of the Project or otherwise related to the Project, the Project Company or the transactions contemplated by this Agreement. 
+ 
+ “ CERCLA ” means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended. 
+ 
+ “ COD ” has the meaning ascribed to such term in the PPA. 
+ 
+ “ Code ” means the United States Internal Revenue Code of 1986, as amended. 
+ 
+ “Contract” means any agreement, contract, lease, consensual obligation, promissory note, evidence of indebtedness, purchase order, letter of credit, license, promise, letter of intent, memorandum of understanding or undertaking of any nature (whether written or oral and whether express or implied). 
+ 
+ 
+ 
+ 26 
+ 
+
+ 
+ 
+ “Control” means the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of a Person, whether through the ownership of voting securities or in its capacity as sole or managing member, by Contract or otherwise. The term “Control” when used as a verb in the referenced clauses shall have a correlative meaning. 
+ 
+ “ Duke Energy ” means Duke Energy Progress, LLC (f/k/a Duke Energy Progress, Inc.). 
+ 
+ “Environmental Laws” means all applicable Laws (including rules, regulations, codes, plans, injunctions, judgments, orders, ordinances, decrees, rulings and charges thereunder) of Governmental Authorities (and all agencies thereof) concerning or relating to pollution or protection of human health, land conservation, wildlife, flora and fauna, natural resources, or the environment, safety, land use and zoning, including, without limitation, Laws relating to emissions, discharges, releases, or threatened releases of pollutants or Hazardous Substances into the air, surface water, ground water, lands or subsurface (including, without limitation, releases to ambient air, land and surface and subsurface strata), or otherwise relating to the manufacture, processing, distribution, use, treatment, storage, release, disposal, transport, or handling of Hazardous Substances. 
+ 
+ “ FERC ” means the Federal Energy Regulatory Commission. 
+ 
+ “ FPA ” means the Federal Power Act, as amended, and FERC’s implementing regulations thereunder, as amended. 
+ 
+ “GAAP” means accounting principles generally accepted in the United States, as in effect as of the date of this Agreement, consistently applied. 
+ 
+ “ Governmental Authority ” means any federal, national, regional, state, municipal or local government, any political subdivision or any governmental, judicial, public or statutory instrumentality, tribunal, court, agency, authority, body or entity, or other regulatory bureau, authority, body or entity having legal jurisdiction over the matter or Person in question. 
+ 
+ “Hazardous Substance” means any substance that is defined or listed in, or otherwise classified pursuant to, any Environmental Law, including materials listed in C.F.R. § 172.101 and materials defined as hazardous substances pursuant to Section 101(14) of CERCLA, as a “hazardous substance,” “extremely hazardous substance,” “hazardous material,” “hazardous waste,” “infectious waste,” “medical waste,” “toxic substance,” “toxic pollutant,” or any other formulation intended to classify substances by reason of deleterious properties such as ignitability, corrosivity, reactivity, carcinogenicity, toxicity, or reproductive toxicity; and pollutants, effluents, residues, contaminants, asbestos, petroleum (including all petroleum-related products, by-products, and wastes), polychlorinated biphenyls, urea formaldehyde, radon gas, methane gas, radioactive materials (including any source, special nuclear, or by-product material), explosives, chlorofluorocarbons, lead or lead-based materials, and any other substance whose presence could be detrimental to property, health, or the environment. 
+ 
+ “Intellectual Property” means the following intellectual property rights, both statutory and common law rights, if applicable: (a) copyrights, registrations and applications for registration thereof; (b) trademarks, service marks, trade names, slogans, domain names, logos, trade dress, and registrations and applications for registrations thereof; and (c) patents, inventions, know-how and trade secrets as well as any reissued and reexamined patents and extensions corresponding to the patents, and any patent applications, as well as any related continuation, continuation in part and divisional applications and patents issuing. 
+ 
+ 
+ 
+ 27 
+ 
+
+ 
+ 
+ “Interconnection Agreement” means that certain Interconnection Agreement, dated October 17, 2014, by and between the Project Company and Duke Energy. 
+ 
+ “Law” means any applicable current or future federal, national, regional, state, municipal or local law, statute, treaty, rule, regulation, ordinance, order, code, judgment, decree, directive, injunction, writ or similar action or decision duly implementing any of the foregoing by any Governmental Authority, and includes all applicable Permits. 
+ 
+ “Liabilities” or “liabilities” means with respect to any individual or entity, any liability or obligation of such individual or entity of any kind, character or description, whether known or unknown, absolute or contingent, accrued or unaccrued, disputed or undisputed, liquidated or unliquidated, secured or unsecured, joint or several, due or to become due, vested or unvested, executory, determined, determinable or otherwise, and whether or not the same is required to be accrued on the financial statements of such individual or entity. 
+ 
+ “ NCUC ” means the North Carolina Utilities Commission. 
+ 
+ “ North Carolina Public Utilities Act ” means Chapter 62 of the North Carolina General Statutes. 
+ 
+ “North Carolina State-Jurisdictional Interconnection Procedures” means those procedures, forms and agreements approved by the NCUC on May 15, 2015, in Docket No. E-100, Sub 101. 
+ 
+ “Person” means any individual, sole proprietorship, corporation, partnership, joint venture, limited liability partnership, limited liability company, trust, unincorporated association, institution, Governmental Authority or any other entity. 
+ 
+ “ Pre-Closing Tax Periods ” means taxable periods ending on or prior to the Closing Date and, in the case of any Straddle Period, the portion thereof ending on the Closing Date. 
+ 
+ “ Pre-Closing Taxes ” means all Taxes of a Pre-Closing Tax Period, and with respect to a Straddle Period, the portion of Taxes attributable to a Pre-Closing Tax Period as described below, in each case relating to the Project Company, the Project Company Development Assets, the ISS Project Development Assets or the operation, construction or development thereof, and whether or not imposed on the Project Company, on Seller or on its affiliates or direct or indirect partners, shareholders or members. For any Straddle Period, Pre-Closing Taxes shall be apportioned to Seller for the Pre-Closing Tax Period of such Straddle Period in the following manner: (i) in the case of Taxes based on or measured by income, receipts or payroll, based on an interim closing of the books as of the close of business on the Closing Date; and (ii) in the case of real property Taxes, personal property Taxes and other similar Taxes and obligations, the amount of Taxes that relate to such Pre-Closing Tax Period shall be deemed to be the amount of such Taxes and obligations for the entire Straddle Period multiplied by a fraction the numerator of which is the number of days in such Pre-Closing Tax Period and the denominator of which is the number of days in such Straddle Period. 
+ 
+ 
+ 
+ 28 
+ 
+
+ 
+ 
+ “PPA” means that certain Power Purchase Agreement by and between the Project Company and Duke Energy dated as of June 30, 2015. 
+ 
+ “Proceedings” means any action, arbitration, audit, hearing, investigation, litigation or suit (whether civil, criminal, administrative, judicial or investigative, whether formal or informal, whether public or private) commenced, brought, conducted or heard by or before, or otherwise involving, any governmental body or arbitrator. 
+ 
+ “QF” means “qualifying small power production facility,” as that term is defined by FERC. 
+ 
+ “Representatives” means each Party’s respective officers, directors, employees, representatives, agents, attorneys or advisors. 
+ 
+ “Seller’s Knowledge” means the collective actual or constructive knowledge of John Green and Richard Green after conducting a reasonably comprehensive investigation regarding the accuracy of the applicable representation and warranty made herein by Seller. 
+ 
+ “ Straddle Period ” means any taxable period that includes (but does not end on) the Closing Date. 
+ 
+ “ Tax ” or “ Taxes ” means (i) any and all federal, state, local or foreign taxes, fees, levies, duties, tariffs, imposts and other charges of any kind, imposed by any governmental authority or taxing authority, including, without limitation, taxes or other charges on, measured by, or with respect to income, franchise, windfall or other profits, gross receipts, property, sales, use, capital stock, payroll, employment, social security, workers’ compensation, unemployment compensation or net worth; taxes or other charges in the nature of excise, withholding, ad valorem, stamp, transfer, unclaimed property, value-added or gains taxes; license, registration and documentation fees; and customs duties, tariffs and similar charges (whether or not imposed on the Project Company, Seller or on any of its affiliates); (ii) any liability for the payment of any amounts of the type described in (i) as a result of being a member of, or a successor member of, an affiliated, combined, consolidated or unitary group for any taxable period; (iii) any liability for the payment of any amounts of the type described in (i) or (ii) as a result of being a transferee of, or a successor in interest to, any person or as a result of an express or implied obligation to indemnify any person; and (iv) any and all interest, penalties, additions to tax and additional amounts imposed in connection with or with respect to any amounts described in (i), (ii) or (iii). 
+ 
+ “ Tax Return ” means any return, declaration, report, claim for refund, election or information return or statement relating to Taxes of any kind or nature filed or supplied or required to be filed or supplied with any governmental authority or taxing authority, including any schedule or attachment thereto, and including any amendment thereof. 
+ 
+ 
+ 
+ 29 
+ 
+
+ 
+ 
+ “ Transfer Tax ” means any and all transfer Taxes (excluding Taxes measured by net income), including Taxes related to sales, use, excise, value added, transaction privilege, conveyance, stock, stamp, documentary, filing, recording, permit, license, authorization, filing fees or other similar Taxes (including related penalties, interest and additions) if any, resulting from the sale of the Membership Interests by Seller pursuant to this Agreement. 
+ 
+ “ Treasury Regulations ” means the regulations promulgated under authority of the Code by the United States Department of Treasury. 
+ 
+ [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK SIGNATURE PAGE FOLLOWS] 
+ 
+ 
+ 
+ 30 
+ 
+
+ 
+ 
+ IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed, all as of the date and year first above written. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ SELLER: 
+ 
+ INNOVATIVE SOLAR SYSTEMS, LLC 
+ 
+ 
+ By: /s/ Richard Green 
+ Name: Richard Green 
+ Title: Manager 
+ 
+ By: /s/ John Green 
+ Name: John Green 
+ Title: Manager 
+ 
+ 
+ BUYER: 
+ 
+ IS-31 HOLDINGS, LLC 
+ 
+ By: /s/ Gary Hui 
+ Name: Gary Hui 
+ Title: Manager 
+ 
+ 
+ 35

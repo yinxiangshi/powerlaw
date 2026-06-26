@@ -1,0 +1,11 @@
+{
+  "name": "powerlaw-word-copilot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Microsoft Word task pane add-in for the PowerLaw drafting copilot.",
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "check": "node --check scripts/dev-server.mjs && node --check src/taskpane.js"
+  }
+}

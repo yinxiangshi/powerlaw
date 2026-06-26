@@ -1,0 +1,2182 @@
+NC-31 Development Services Agreement
+====================================
+
+EX-10.6
+ 8
+ ex10-6.htm
+ EXHIBIT 10.6
+ 
+ arowana.htm 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ July 29, 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INNOVATIVE SOLAR 31, LLC 
+ 
+ and 
+ 
+ VIVOPOWER USA LLC 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ DEVELOPMENT SERVICES AGREEMENT 
+ in relation to the IS31 solar photovoltaic 
+ project in Bladenboro, North Carolina 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+
+ 
+ 
+ Clause 
+ 
+ Headings 
+ 
+ Page 
+ 
+ 
+ 1. 
+ 
+ definitions and interpretation 
+ 
+ 1 
+ 
+ 
+ 2. 
+ 
+ DEVELOPMENT SERVICES 
+ 
+ 4 
+ 
+ 
+ 3. 
+ 
+ TERM 
+ 
+ 5 
+ 
+ 
+ 4. 
+ 
+ Timing of DEVELOPMENT Services 
+ 
+ 5 
+ 
+ 
+ 5. 
+ 
+ Status of Developer 
+ 
+ 5 
+ 
+ 
+ 6. 
+ 
+ Subcontracting 
+ 
+ 6 
+ 
+ 
+ 7. 
+ 
+ FEES AND PAYMENT 
+ 
+ 6 
+ 
+ 
+ 8. 
+ 
+ PERFORMANCE REVIEW 
+ 
+ 7 
+ 
+ 
+ 9. 
+ 
+ Changes to Development services 
+ 
+ 7 
+ 
+ 
+ 10. 
+ 
+ INtellectual property 
+ 
+ 8 
+ 
+ 
+ 11. 
+ 
+ Force Majeure 
+ 
+ 8 
+ 
+ 
+ 12. 
+ 
+ TERMINATION 
+ 
+ 9 
+ 
+ 
+ 13. 
+ 
+ LIMITATIONS ON LIABILITY; INDEMNITY 
+ 
+ 10 
+ 
+ 
+ 14. 
+ 
+ dispute resolution 
+ 
+ 11 
+ 
+ 
+ 15. 
+ 
+ Governing Law 
+ 
+ 12 
+ 
+ 
+ 16. 
+ 
+ mutual representations and warranties 
+ 
+ 12 
+ 
+ 
+ 17. 
+ 
+ MISCELLANEOUS 
+ 
+ 12 
+ 
+ 
+ Schedule 1 
+ 
+ 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ THIS AGREEMENT is made on July 29, 2016 
+ 
+ BETWEEN: 
+ 
+ 
+
+ 
+ 
+ (1) 
+ 
+ INNOVATIVE SOLAR 31, LLC , a North Carolina limited liability company ( "ProjectCo" ); and 
+ 
+ 
+
+ 
+ 
+ (2) 
+ 
+ VivoPower USA LLC , a Delaware limited liability company ( "Developer" ). 
+ 
+ RECITALS: 
+ 
+ 
+
+ 
+ 
+ (A) 
+ 
+ ProjectCo desires to engage Developer to provide certain services in connection with the development, construction and installation of the approximately 34.2 MW (AC) solar photovoltaic project in Bladen County, North Carolina that is referred to as the IS31 Project (the "Project" ), and Developer desires to accept such engagement, on the terms and conditions set forth herein. 
+ 
+ 
+
+ 
+ 
+ (B) 
+ 
+ In consideration for the services to be provided by Developer, ProjectCo has agreed to pay to Developer certain amounts in the manner set forth herein. 
+ 
+ IT IS AGREED as follows: 
+ 
+ 
+
+ 
+ 
+ 1. 
+ 
+ definitions and interpretation 
+ 
+ 
+
+ 
+ 
+ 1.1 
+ 
+ Definitions 
+ 
+ In this Agreement, each of the following words and expressions shall have the following meanings: 
+ 
+ "Affiliates" means in relation to any person, any other person directly or indirectly Controlled by, or Controlling of, or under common Control with, that person; provided , however , that (i) with respect to Developer, “Affiliate” shall not include ProjectCo and (ii) with respect to ProjectCo, “Affiliate” shall not include Developer; 
+ 
+ "Business Day" means a day on which the banks are open for business in New York, New York, excluding a Saturday, Sunday or public holiday in New York, New York; 
+ 
+ “Claim” means, collectively, all claims, demands, actions, suits or proceedings (judicial, governmental or otherwise) asserted, threatened in writing or filed against a Person, and any fines, penalties, losses, liabilities, damages and expenses incurred by such Person as a result thereof, including reasonable attorneys’ fees and costs of investigation, litigation, settlement and judgment, and any contractual obligations of such Person to provide indemnity for any such claims, demands, actions, suits or proceedings, fines, penalties, losses, liabilities, damages and expenses to any other Person. 
+ 
+ "Confidential Information" has the meaning given to it in clause 17.1 ; 
+ 
+ "Control" means the power of a person to secure, directly or indirectly (whether by the holding of shares, possession of voting rights or by virtue of any other power conferred by the articles of association, constitution, partnership deed or other documents regulating another person or otherwise), that the affairs of such other person are conducted in accordance with his or its wishes and "Controlled" and "Controlling" shall be construed accordingly; 
+ 
+ "Development Fee" the amount of Eleven Million Five Hundred Fifty Thousand Dollars ($11,550,000) payable by ProjectCo to Developer in accordance with the terms hereof; 
+ 
+ "Development Period" has the meaning given to it in clause 3 ; 
+ 
+ "Development Services" means the services requested by ProjectCo as described in Schedule 1 ; 
+ 
+ "Dispute" means any dispute, difference or claim of any kind or type, whether based on contract, tort, statute, regulation or otherwise, arising out of, relating to or connected with this agreement or its subject matter, existence, negotiation, interpretation, validity, performance, breach, termination or enforceability (including non-contractual disputes or claims), or any operations carried out pursuant to this Agreement; 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 1 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ "Dispute Notice" has the meaning given to it in clause 14.1.1 ; 
+ 
+ "Effective Date" means the date on which this Agreement is executed; 
+ 
+ "Financing Agreement" means the Financing Agreement, dated as of the date hereof, among ProjectCo, as borrower, KeyBank National Association, as administrative agent and collateral agent, and the Lenders party thereto from time to time. 
+ 
+ "Force Majeure" means, in relation to a Party, any act, event or circumstance, to the extent to which the cause of such act, event or circumstance is not of such Party's making nor within that Party's reasonable control, including: 
+ 
+ 
+
+ 
+ 
+ 
+ (a) 
+ 
+ an act of God; 
+ 
+ 
+
+ 
+ 
+ 
+ (b) 
+ 
+ fire, flood, typhoon, tsunami, volcanic activity, earthquake or extreme weather conditions; 
+ 
+ 
+
+ 
+ 
+ 
+ (c) 
+ 
+ war (including civil war), hostilities (whether or not war has been declared), invasion, coup, guerrilla activity, sanctions or blockade; 
+ 
+ 
+
+ 
+ 
+ 
+ (d) 
+ 
+ terrorist acts or a threat of a terrorist act; 
+ 
+ 
+
+ 
+ 
+ 
+ (e) 
+ 
+ riot, insurrection, civil commotion, public demonstration, sabotage, embargo or acts of vandalism; 
+ 
+ 
+
+ 
+ 
+ 
+ (f) 
+ 
+ explosion or impact of any mine, bomb, shell, grenade or other projectile or missile; 
+ 
+ 
+
+ 
+ 
+ 
+ (g) 
+ 
+ release of ionising radiation or contamination by radioactivity, chemical or biological contamination; 
+ 
+ 
+
+ 
+ 
+ 
+ (h) 
+ 
+ acts of any civil or military authority or direction of any Governmental Authority; 
+ 
+ 
+
+ 
+ 
+ 
+ (i) 
+ 
+ restriction, suspension or withdrawal of any licences, approvals, permits or consents or any required licence, approval, permit or consent not being granted on a timely basis, in each case not arising as a result of such Party; 
+ 
+ 
+
+ 
+ 
+ 
+ (j) 
+ 
+ materially adverse change in law or regulation; 
+ 
+ 
+
+ 
+ 
+ 
+ (k) 
+ 
+ the order of any court, arbitral body or Governmental Authority; 
+ 
+ 
+
+ 
+ 
+ 
+ (l) 
+ 
+ any strike, lock out or other industrial trade dispute or action (not arising as a result of such Party and not involving solely the employees of that Party, or the employees of that Party's subcontractors); and 
+ 
+ 
+
+ 
+ 
+ 
+ (m) 
+ 
+ structural shift or subsidence; 
+ 
+ "Governmental Authority" means any government or state and any ministry, department or political subdivision thereof, and any person, including without limitation any body corporate or partnership, exercising executive, legislative, judicial, regulatory or administrative functions of, or pertaining to, government (including any independent regulator) or any other governmental entity, instrumentality, agency, authority, corporation, committee or commission under the direct or indirect control of a government; 
+ 
+ "Insolvency" as to any Person means the filing of a petition for relief as to any such Person as debtor or bankrupt under Title 11 of the United States Code, as in effect from time to time, or like provision of Law (except if such petition is contested by such Person and has been dismissed within sixty (60) days); insolvency of such Person as finally determined by a court proceeding; filing by such Person of a petition or application to accomplish the same or for the appointment of a receiver or a trustee for such Person or a substantial part of its assets; commencement of any proceedings relating to such Person under any other reorganization, arrangement, insolvency, adjustment of debt or liquidation law of any jurisdiction, whether now in existence or hereinafter in effect, either by such Person or by another, provided that if such proceeding is commenced by another, such Person indicates its approval of such proceeding, consents thereto or acquiesces therein, or such proceeding is contested by such Person and has not been finally dismissed within sixty (60) days; 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 2 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ "Intellectual Property" means all inventions (whether patentable or not), patents, utility models, petty patents, registered designs, design rights, database rights, copyright and related rights, moral rights, semiconductor topography rights, plant variety rights, trade marks, service marks, logos, get up, trade names, business names, domain names, (in each case whether registered or unregistered) and including any applications for registration and any renewals or extensions of any of the foregoing, and, in each case, the goodwill attaching to any of the foregoing, rights to sue for passing off or for unfair competition, all Know How, confidential information and trade secrets and any rights or forms of protection of a similar nature or having equivalent or similar effect to any of them which subsist anywhere in the world; 
+ 
+ "Know How" means all know how, trade secrets and confidential information, in any form (including paper, electronically stored data, magnetic media, film and microfilm) including financial and technical information, drawings, formulae, test results or reports, project reports and testing procedures, information relating to the working of any product, process, invention, improvement or development, instruction and training manuals, tables of operating conditions, information concerning intellectual property portfolio and strategy, market forecasts, lists or particulars of customers and suppliers, sales targets, sales statistics, prices, discounts, margins, future business strategy, tenders, price sensitive information, market research reports, information relating to research and development and business development and planning reports and any information derived from any of them; 
+ 
+ "Law" means any statute, regulation, order, rule, subordinate legislation or other document enforceable under any statute, regulation, rule or subordinate legislation, including: 
+ 
+ 
+
+ 
+ 
+ 
+ (a) 
+ 
+ principles of law or equity; 
+ 
+ 
+
+ 
+ 
+ 
+ (b) 
+ 
+ standards with which the relevant Party is required to comply; and 
+ 
+ 
+
+ 
+ 
+ 
+ (c) 
+ 
+ fees, rates, taxes, levies, and charges payable in respect of things referred to in this definition, 
+ 
+ whether or not existing at the Effective Date; 
+ 
+ "Notice" has the meaning given to it in clause 17.2.1 ; 
+ 
+ "Notice Details" has the meaning given to it in clause 17.3 ; 
+ 
+ "Parties" means ProjectCo and Developer and a "Party" means any one of them; 
+ 
+ "Person" or "person" means any individual, partnership, joint venture, limited liability company, corporation, trust or other entity, and the heirs, executors, administrators, legal representatives, successors and assigns of such Person where the context so requires; 
+ 
+ "Project" has the meaning given to it in in the Recitals; 
+ 
+ "Project Budget" means the Project Budget and Schedule referred to in the Financing Agreement; 
+ 
+ “Project Documents” has the meaning given such term in the Financing Agreement; 
+ 
+ "Prudent Solar Industry Practices" means those reasonable practices, methods and acts, as they may change from time to time, that (a) are customarily used within the solar energy industry to develop, construct and install solar energy generating facilities and associated facilities of the type that are similar to the Project, safely, reliably and efficiently and in compliance with applicable Law, manufacturers’ warranties and manufacturers’ recommendations and (b) are consistent with the exercise of the reasonable judgment, skill, diligence, foresight and care customary in the solar energy industry of a solar energy generating project developer in order to efficiently accomplish the desired result consistent with safety standards, applicable Law, manufacturers’ warranties, manufacturers’ recommendations, the Financing Agreement, the Tax Equity Documents and the Project Documents, in each case taking into account the location of the Project, including climatic, environmental and general conditions. Prudent Solar Industry Practices are not intended to be limited to the optimum practices or methods to the exclusion of others, but rather those practices or methods generally accepted or approved by a significant portion of the photovoltaic solar power industry during the relevant time period. 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 3 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ "Subcontractor" means a subcontractor, supplier or consultant engaged by or on behalf of Developer in the performance of Development Services; 
+ 
+ "Success" means the occurrence of either of the NES ECCA Equity Contribution or the Tax Equity Tranche B Equity Contribution, each as defined in the Financing Agreement; and 
+ 
+ “ Tax Equity Documents ” has the meaning given such term in the Financing Agreement. 
+ 
+ 
+
+ 
+ 
+ 1.2 
+ 
+ Interpretation 
+ 
+ 
+
+ 
+ 
+ 
+ 1.2.1 
+ 
+ Headings and bold type are for convenience only and do not affect the interpretation of this Agreement. 
+ 
+ 
+
+ 
+ 
+ 
+ 1.2.2 
+ 
+ The singular includes the plural and the plural includes the singular. 
+ 
+ 
+
+ 
+ 
+ 
+ 1.2.3 
+ 
+ Words of any gender include all genders. 
+ 
+ 
+
+ 
+ 
+ 
+ 1.2.4 
+ 
+ Other parts of speech and grammatical forms of a word or phrase defined in this Agreement have a corresponding meaning. 
+ 
+ 
+
+ 
+ 
+ 
+ 1.2.5 
+ 
+ An expression importing a person includes any company, partnership, joint venture, association, corporation or other body corporate and any Governmental Authority as well as an individual. 
+ 
+ 
+
+ 
+ 
+ 
+ 1.2.6 
+ 
+ A reference to a clause, party, schedule, attachment or exhibit is a reference to a clause of, and a party, schedule, attachment or exhibit to, this Agreement and a reference to this Agreement includes any schedule, attachment and exhibit. 
+ 
+ 
+
+ 
+ 
+ 
+ 1.2.7 
+ 
+ A reference to a document includes all amendments, modifications or supplements to, or replacements or novations of, that document. 
+ 
+ 
+
+ 
+ 
+ 
+ 1.2.8 
+ 
+ A reference to a party to a document includes that party’s successors and permitted assignees. 
+ 
+ 
+
+ 
+ 
+ 
+ 1.2.9 
+ 
+ A reference to an agreement other than this Agreement includes a deed and any legally enforceable undertaking, agreement, arrangement or understanding, whether or not in writing. 
+ 
+ 
+
+ 
+ 
+ 
+ 1.2.10 
+ 
+ If a period of time is specified and dates from a given day or the day of an act or event, it is to be calculated exclusive of that day. 
+ 
+ 
+
+ 
+ 
+ 
+ 1.2.11 
+ 
+ Specifying anything in this Agreement after the words ‘include’ or ‘for example’ or similar expressions does not limit what else is included. 
+ 
+ 
+
+ 
+ 
+ 
+ 1.2.12 
+ 
+ A reference to writing includes any method of representing or reproducing words, figures, drawings or symbols in a visible or tangible form. 
+ 
+ 
+
+ 
+ 
+ 2. 
+ 
+ DEVELOPMENT SERVICES 
+ 
+ 
+
+ 
+ 
+ 2.1 
+ 
+ Scope 
+ 
+ 
+
+ 
+ 
+ 
+ 2.1.1 
+ 
+ Subject to the terms of this Agreement, Developer shall provide, or procure the provision of, the Development Services during the Development Period to ProjectCo . 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 4 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ 
+
+ 
+ 
+ 
+ 2.1.2 
+ 
+ Developer acknowledges that the functions specified in Schedule 1 are non-exhaustive and the Development Services to be provided or procured include all management, administration, registry, secretarial, marketing, financial controls and compliance with Law, unless otherwise prescribed. 
+ 
+ 
+
+ 
+ 
+ 2.2 
+ 
+ Standard of Performance 
+ 
+ 
+
+ 
+ 
+ 
+ 2.2.1 
+ 
+ Developer shall provide Development Services, complete the work and accomplish the tasks described in Schedule 1 with diligence, care, prudence, in a safe and responsible manner and in accordance with Prudent Solar Industry Practices, and Developer shall devote such time, effort, and skills of its personnel as a reasonable servicer provider in like position would do in like circumstances. 
+ 
+ 
+
+ 
+ 
+ 
+ 2.2.2 
+ 
+ Developer shall ensure that its employees and Subcontractors hired to perform the Development Services are appropriately licensed and shall use reasonable efforts to ensure such employees and Subcontractors are qualified to perform the work for which they are hired. 
+ 
+ 
+
+ 
+ 
+ 
+ 2.2.3 
+ 
+ Developer is not required or obliged to fulfill, or comply with, any provision of this Agreement or any instruction, comment, recommendation, communication or direction by ProjectCo that would cause Developer to breach applicable Law. 
+ 
+ 
+
+ 
+ 
+ 3. 
+ 
+ TERM 
+ 
+ The " Development Period " means the period commencing on the Effective Date and continuing until the date which is the earlier of: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ the achievement of Success; and 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ the date on which this Agreement is terminated in accordance with its terms. 
+ 
+ 
+
+ 
+ 
+ 4. 
+ 
+ Timing of DEVELOPMENT Services 
+ 
+ Developer shall carry out Development Services as and when specified by ProjectCo from time to time, except in the event of Force Majeure, in which case clause 11 applies. 
+ 
+ 
+
+ 
+ 
+ 5. 
+ 
+ Status of Developer 
+ 
+ 
+
+ 
+ 
+ 5.1 
+ 
+ Independent Corporate Entity 
+ 
+ 
+
+ 
+ 
+ 
+ 5.1.1 
+ 
+ In performing Development Services, Developer acts as an independent corporate entity and not an agent, employee, partner or joint venturer of ProjectCo or any of its Affiliates, except: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ to the extent that Developer is required to act as the agent for ProjectCo to perform the Development Services; 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ if instructed by ProjectCo in writing to act as an agent in a specified circumstance; or 
+ 
+ 
+
+ 
+ 
+ 
+ (C) 
+ 
+ where it is necessary by Law for Developer to act on behalf of ProjectCo in carrying out any obligations under clause 6.2 . 
+ 
+ 
+
+ 
+ 
+ 
+ 5.1.2 
+ 
+ If exceptions in clause 5.1.1 apply Developer has the authority to incur, assume or create, in writing or otherwise, any liability or obligation of any kind, express or implied, in the name or on behalf of the ProjectCo. 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 5 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ 
+
+ 
+ 
+ 
+ 5.1.3 
+ 
+ For avoidance of doubt, in all other circumstances to which exceptions in clause 5.1.1 do not apply it is intended by the Parties that Developer and ProjectCo remain independent corporate entities responsible for own actions. 
+ 
+ 
+
+ 
+ 
+ 
+ 5.1.4 
+ 
+ Except as specifically provided for in this Agreement, Developer will bear the costs of its own internal administrative and operational expenses. 
+ 
+ 
+
+ 
+ 
+ 5.2 
+ 
+ Assistance by ProjectCo 
+ 
+ 
+
+ 
+ 
+ 
+ 5.2.1 
+ 
+ The Parties acknowledge and agree that Developer may, from time to time, require the assistance of ProjectCo to perform Development Services. 
+ 
+ 
+
+ 
+ 
+ 
+ 5.2.2 
+ 
+ ProjectCo shall provide Developer free of charge any reasonable assistance that Developer requests in writing to facilitate the provision of the Development Services. 
+ 
+ 
+
+ 
+ 
+ 
+ 5.2.3 
+ 
+ Developer is not required to provide Development Services to the extent that ProjectCo does not provide the assistance referred to in this clause 5.2 . 
+ 
+ 
+
+ 
+ 
+ 6. 
+ 
+ Subcontracting 
+ 
+ 
+
+ 
+ 
+ 6.1 
+ 
+ Authority to Subcontract and Delegate 
+ 
+ 
+
+ 
+ 
+ 
+ 6.1.1 
+ 
+ Developer may, at any time, subcontract or delegate in any manner any or all of its rights and obligations under this Agreement without ProjectCo’s consent. 
+ 
+ 
+
+ 
+ 
+ 
+ 6.1.2 
+ 
+ Developer is responsible for ensuring the suitability of any Subcontractor that it engages to provide Development Services to ProjectCo and must ensure that the work performed by any Subcontractor complies with the requirements of this Agreement. 
+ 
+ 
+
+ 
+ 
+ 
+ 6.1.3 
+ 
+ Developer: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ is not relieved of any of its obligations and liabilities under this Agreement as a result of any subcontracting of those obligations or liabilities; 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ at all times remains responsible for the performance of all Subcontractors that it engages to provide Development Services to ProjectCo, and acts and omissions of such Subcontractors, as if they were acts and omissions of Developer; and 
+ 
+ 
+
+ 
+ 
+ 
+ (C) 
+ 
+ acknowledges and agrees that a breach by a Subcontractor of, or failure by a Subcontractor to comply with, any obligation of Developer under this Agreement is a breach or failure by Developer under this Agreement. 
+ 
+ 
+
+ 
+ 
+ 6.2 
+ 
+ Third Party Contracts, Permits and Licences 
+ 
+ 
+
+ 
+ 
+ 
+ 6.2.1 
+ 
+ Subject to clauses 5.1.4 and 6.2.2 and save as otherwise expressly provided in Schedule 1 , where Developer procures the services of a third party on behalf of ProjectCo to deliver the Development Services, or otherwise incurs costs on behalf of ProjectCo, including licence and permitting costs, the related costs shall be invoiced directly to ProjectCo, in each case in accordance with the Project Budget, and ProjectCo shall meet all such payment obligations when due. 
+ 
+ 
+
+ 
+ 
+ 
+ 6.2.2 
+ 
+ Developer shall be responsible for any costs of subcontracting its performance of any Development Services pursuant to clause 6.1 . 
+ 
+ 
+
+ 
+ 
+ 7. 
+ 
+ FEES AND PAYMENT 
+ 
+ 
+
+ 
+ 
+ 7.1 
+ 
+ Fees 
+ 
+ 
+
+ 
+ 
+ 
+ 7.1.1 
+ 
+ The Parties acknowledge and agree that no fees are payable by ProjectCo for the provision of Development Services by Developer unless and until Success is achieved. 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 6 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ 
+
+ 
+ 
+ 
+ 7.1.2 
+ 
+ Conditional upon the Parties achieving Success, ProjectCo shall pay the Development Fee to Developer. 
+ 
+ 
+
+ 
+ 
+ 
+ 7.1.3 
+ 
+ The amount of the Development Fee is exclusive of any applicable value added tax or other tax (other than any tax in the nature of a business or income tax). Any applicable value added tax or other tax shall be added to the Development Fee payable by ProjectCo. 
+ 
+ 
+
+ 
+ 
+ 7.2 
+ 
+ Payment 
+ 
+ 
+
+ 
+ 
+ 
+ 7.2.1 
+ 
+ After the Parties have achieved Success and on receipt of a valid invoice from Developer, ProjectCo shall pay the Development Fee to Developer on the terms contained therein. 
+ 
+ 
+
+ 
+ 
+ 
+ 7.2.2 
+ 
+ Overdue payments hereunder shall bear interest from the date due until the date paid at a rate per annum equal to lesser of (a) the rate published by the Wall Street Journal as the “prime rate” on the Business Day preceding the date on which such interest begins to accrue plus two percent (2.0%) or (b) the maximum rate allowed under applicable Law. 
+ 
+ 
+
+ 
+ 
+ 8. 
+ 
+ PERFORMANCE REVIEW 
+ 
+ 
+
+ 
+ 
+ 8.1 
+ 
+ Inspection 
+ 
+ 
+
+ 
+ 
+ 
+ 8.1.1 
+ 
+ ProjectCo has the right, at any time, to inspect the work undertaken by Developer and any of its Subcontractors in relation to Development Services, provided that reasonable notice has been given to Developer. 
+ 
+ 
+
+ 
+ 
+ 
+ 8.1.2 
+ 
+ Developer shall, and shall procure that its Subcontractors, comply with all reasonably requested inspections by ProjectCo under clause 8.1.1 . 
+ 
+ 
+
+ 
+ 
+ 8.2 
+ 
+ Documents and Records 
+ 
+ 
+
+ 
+ 
+ 
+ 8.2.1 
+ 
+ Developer shall maintain records in respect of Development Services provided to ProjectCo and make available for inspection any such documents and information reasonably requested by ProjectCo. 
+ 
+ 
+
+ 
+ 
+ 
+ 8.2.2 
+ 
+ Developer will not be in breach of its record keeping obligations under this clause 8.2 to the extent that it reasonably relies on a third party to produce a report or provide information and the third party fails to so or fails to do so in a timely manner. 
+ 
+ 
+
+ 
+ 
+ 9. 
+ 
+ Changes to Development services 
+ 
+ 
+
+ 
+ 
+ 9.1 
+ 
+ Variations Permitted 
+ 
+ 
+
+ 
+ 
+ 
+ 9.1.1 
+ 
+ The Parties may, at any time, vary the nature of the Development Services to be provided to ProjectCo. 
+ 
+ 
+
+ 
+ 
+ 
+ 9.1.2 
+ 
+ The Parties, acting reasonably, must agree in writing on the scope and extent of the variation to the Development Services before Developer carries out the varied Development Services. 
+ 
+ 
+
+ 
+ 
+ 
+ 9.1.3 
+ 
+ If the Parties agree to vary Development Services, Developer must carry out the Development Services as if the varied Development Services were originally defined in this Agreement. 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 7 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ 
+
+ 
+ 
+ 9.2 
+ 
+ Suspension of Services 
+ 
+ 
+
+ 
+ 
+ 
+ 9.2.1 
+ 
+ Without limiting ProjectCo’s other rights under this Agreement, ProjectCo may by written notice to Developer temporarily suspend the performance of all or any part of the Development Services. 
+ 
+ 
+
+ 
+ 
+ 
+ 9.2.2 
+ 
+ As soon as reasonably practicable after receipt of notice under clause 9.2.1 , Developer must suspend the provision of Development Services specified in the notice. 
+ 
+ 
+
+ 
+ 
+ 10. 
+ 
+ INtellectual property 
+ 
+ 
+
+ 
+ 
+ 10.1 
+ 
+ Intellectual Property to be owned by Developer 
+ 
+ With the exception of Intellectual Property owned by ProjectCo, all Intellectual Property in, arising out of, or in connection with, Development Services shall be owned by Developer. 
+ 
+ 
+
+ 
+ 
+ 10.2 
+ 
+ Intellectual Property to be retained by Developer 
+ 
+ 
+
+ 
+ 
+ 
+ 10.2.1 
+ 
+ The Parties acknowledge and agree that Developer retains all rights, title and interest in Intellectual Property relating to Development Services on: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ the expiry of this Agreement; or 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ termination of this Agreement. 
+ 
+ 
+
+ 
+ 
+ 11. 
+ 
+ Force Majeure 
+ 
+ 
+
+ 
+ 
+ 11.1 
+ 
+ Notice of Force Majeure 
+ 
+ 
+
+ 
+ 
+ 
+ 11.1.1 
+ 
+ If as a result of Force Majeure a Party is rendered unable, wholly or in part, to carry out its obligations under this Agreement, other than an obligation to pay money, then that Party must give written notice to the other Party setting out: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ reasonably full particulars of the Force Majeure; and 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ an estimate of the period of time that the Party reasonably considers it would require to remove or overcome the Force Majeure situation. 
+ 
+ 
+
+ 
+ 
+ 11.2 
+ 
+ Reasonable endeavours to overcome Force Majeure 
+ 
+ 
+
+ 
+ 
+ 
+ 11.2.1 
+ 
+ A Party affected by Force Majeure must use all reasonable endeavours to remove or overcome the Force Majeure situation as quickly as possible in an economic manner. 
+ 
+ 
+
+ 
+ 
+ 
+ 11.2.2 
+ 
+ No Party will be obliged to settle any strike, lockout, ban, labour dispute or other industrial disturbance except on terms acceptable to it. 
+ 
+ 
+
+ 
+ 
+ 
+ 11.2.3 
+ 
+ A Party affected by Force Majeure must keep the other Party informed of all significant developments in relation to the Force Majeure. 
+ 
+ 
+
+ 
+ 
+ 11.3 
+ 
+ Suspension of obligations during Force Majeure 
+ 
+ 
+
+ 
+ 
+ 
+ 11.3.1 
+ 
+ The obligation to give notice under clause 11.1 will, to the extent that the obligation is affected by Force Majeure, be suspended during the continuance of Force Majeure. 
+ 
+ 
+
+ 
+ 
+ 
+ 11.3.2 
+ 
+ Without limiting clause 11.2 , to the extent that a Party cannot meet its obligations due to Force Majeure, the performance of obligations under this Agreement will be extended for such period of delay or prevention. 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 8 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ 
+
+ 
+ 
+ 12. 
+ 
+ TERMINATION 
+ 
+ 
+
+ 
+ 
+ 12.1 
+ 
+ Termination upon payment of Development Fee 
+ 
+ This Agreement shall automatically terminate upon payment in full of the Development Fee and all other accrued fees incurred prior to termination in accordance with clause 7 . 
+ 
+ 
+
+ 
+ 
+ 12.2 
+ 
+ Termination for Insolvency 
+ 
+ Either Party may terminate this Agreement immediately by notice in writing to the other Party upon the Insolvency of such other Party. 
+ 
+ 
+
+ 
+ 
+ 12.3 
+ 
+ Termination for breach 
+ 
+ Either Party may terminate this Agreement by written notice to the other Party if the other Party is in material breach of this Agreement and does not remedy that breach within 30 Business Days following a written request to do so. 
+ 
+ 
+
+ 
+ 
+ 12.4 
+ 
+ Effect of termination 
+ 
+ If this Agreement is terminated in accordance with this clause 12 , then: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ each Party is released from further performance of its obligations under this Agreement, except those expressed to survive termination (set out below); 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ each Party retains the rights it has against the other Party in respect of any breach of this Agreement occurring before termination; and 
+ 
+ 
+
+ 
+ 
+ 
+ (C) 
+ 
+ the rights and obligations of each Party under the following clauses will continue independently from the other obligations of the Parties and survive termination of this Agreement: clause 10 (Intellectual Property), this clause 12.4 (Effect of Termination), clause 13 (Limitations on Liability; Indemnity), clause 14 (Dispute Resolution), clause 15 (Governing Law) and clause 17 (Miscellaneous). 
+ 
+ 
+
+ 
+ 
+ 12.5 
+ 
+ Cost of termination 
+ 
+ Subject to clause 12.6 , if this Agreement is terminated, each Party must bear its own costs, expenses, losses and outgoings (including all duties, taxes, imposts, and charges of an incidental to the termination of this Agreement). 
+ 
+ 
+
+ 
+ 
+ 12.6 
+ 
+ Outstanding claims not affected 
+ 
+ 
+
+ 
+ 
+ 
+ 12.6.1 
+ 
+ The termination of this Agreement does not affect: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ any claim by Developer in respect of accrued fees incurred prior to termination; 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ any claim or accrued right or remedy which either Party may have against the other; or 
+ 
+ 
+
+ 
+ 
+ 
+ (C) 
+ 
+ any transaction properly entered into with third parties before the termination date. 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 9 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ 
+
+ 
+ 
+ 13. 
+ 
+ LIMITATIONS ON LIABILITY; INDEMNITY 
+ 
+ 
+
+ 
+ 
+ 13.1 
+ 
+ No Liability in Certain Circumstances 
+ 
+ 
+
+ 
+ 
+ 
+ 13.1.1 
+ 
+ To the extent permitted by Law, no Party is liable for any special, incidental, indirect, punitive or consequential loss or damage of any nature, arising at any time or from any cause whatsoever. 
+ 
+ 
+
+ 
+ 
+ 
+ 13.1.2 
+ 
+ The limitations on liability in clause 13.1.1 apply to any claim or action, whether it is based in whole or in part on contract, negligence, strict liability, tort, statute or any other liability, except to any loss or damage suffered by a Party as a result of fraud, gross negligence, intentional misrepresentation or wilful misconduct. 
+ 
+ 
+
+ 
+ 
+ 
+ 13.1.3 
+ 
+ Nothing in this clause shall exclude or limit any liability which either Party may have to an individual for the death of, or personal injury sustained by, such individual to the extent such death or personal injury was caused by that Party's negligence, or the negligence of that Party's officers, employees or agents. 
+ 
+ 
+
+ 
+ 
+ 13.2 
+ 
+ Maximum Liability 
+ 
+ Subject to clause 13.1 and without limiting the ProjectCo's obligation to pay the fees to Developer as set forth herein, the Parties acknowledge and agree that the aggregate liability of either Party under this Agreement to the other Party shall not exceed the total amount of the Development Fee, and that an adjustment to the Development Fee is the sole remedy for ProjectCo in respect of any breach of contract by Developer. 
+ 
+ 
+
+ 
+ 
+ 13.3 
+ 
+ Developer’s Indemnity 
+ 
+ Developer agrees to indemnify, defend and hold ProjectCo and its successors and permitted assigns and their respective Affiliates, officers, directors, contractors, employees, shareholders, representatives and agents (collectively, the "ProjectCo Indemnified Parties" ) harmless against and from any and all Claims, losses, damages, charges, liabilities, obligations and expenses (including reasonable attorneys’ fees and expenses) (collectively, "Losses" ) suffered by an ProjectCo Indemnified Party for (A) injuries, disease or death to any Person, (B) any damage to any property of any Person, (C) all fines or penalties issued by, and other similar amounts payable to, any Governmental Authority, or (D) any other losses or liabilities of ProjectCo, in each case to the extent caused by or resulting from Developer’s breach of this Agreement, performance of the Development Services or any act or omission (including strict liability, breach of contract, fraud, negligence, or willful misconduct) of Developer, its employees, agents or authorized representatives, Affiliates, Subcontractors or their respective employees and subcontractors and agents during the Development Period in connection with this Agreement; provided, however, that nothing contained herein shall be deemed to render Developer liable for or obligated to indemnify any ProjectCo Indemnified Party against any liability or damages to the extent attributable to or resulting from the negligence or willful misconduct of any ProjectCo Indemnified Party or their respective agents or authorized representatives, Affiliates, subcontractors (other than Developer) and employees at any time during the Development Period. 
+ 
+ 
+
+ 
+ 
+ 13.4 
+ 
+ ProjectCo’s General Indemnity. 
+ 
+ ProjectCo agrees to indemnify, defend and hold Developer and its successors and permitted assigns and their respective Affiliates, officers, directors, contractors, employees, shareholders, representatives and agents (collectively, the "Developer Indemnified Parties" ) harmless against and from any and all Losses suffered by a Developer Indemnified Party for (A) injuries, disease or death to any Person, (B) any damage to any property of any Person, (C) all fines or penalties issued by, and other similar amounts payable to, any Governmental Authority or (D) any other losses or liabilities of Developer, in each case to the extent caused by or resulting from any negligence or willful misconduct of an ProjectCo Indemnified Party in connection with this Agreement; provided, however, that nothing contained herein shall be deemed to render ProjectCo liable for or obligated to indemnify any Developer Indemnified Party against any liability or damages to the extent attributable to or resulting from the negligence or willful misconduct of any Developer Indemnified Party or their respective agents or authorized representatives, Affiliates, subcontractors and employees at any time during the Development Period. 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 10 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ 
+
+ 
+ 
+ 13.5 
+ 
+ Intent. 
+ 
+ IT IS THE EXPRESS INTENT OF THE PARTIES THAT THE INDEMNITIES PROVIDED IN THIS CLAUSE 13 SHALL (I) PROVIDE PROTECTION TO THE INDEMNIFIED PERSONS AND ENTITIES IN RELATION TO ALL TYPES OF CLAIMS, LIABILITIES AND LOSSES FALLING WITHIN THE TERMS HEREOF, INCLUDING, AS SPECIFIED HEREIN, FROM THE SOLE NEGLIGENCE OF DEVELOPER OR ANY OTHER PERSON OR ENTITY AND/OR THE CONTRIBUTORY, JOINT OR CONCURRENT NEGLIGENCE OF A PARTY AND/OR ANY OTHER PERSON OR ENTITY AND (II) SHALL MEET THE REQUIREMENTS OF ANY EXPRESS NEGLIGENCE RULE, ANY EXPRESS INTENT RULE AND ANY CONSPICUOUSNESS DOCTRINE ADOPTED BY ANY JURISDICTION. 
+ 
+ 
+ 
+
+ 
+ 
+ 14. 
+ 
+ dispute resolution 
+ 
+ 
+
+ 
+ 
+ 14.1 
+ 
+ Dispute Notice 
+ 
+ 
+
+ 
+ 
+ 
+ 14.1.1 
+ 
+ Where a Dispute arises, either Party may give a written notice to the other Party specifying: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ particulars of the Party’s reason for being dissatisfied; and 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ the position that the Party believes is correct, 
+ 
+ being a "Dispute Notice" . 
+ 
+ 
+
+ 
+ 
+ 14.2 
+ 
+ Litigation 
+ 
+ After 20 Business Days of receipt of the Dispute Notice under clause 14.1.1 , either Party to the Dispute may commence legal proceedings to resolve any part of the Dispute. 
+ 
+ 
+
+ 
+ 
+ 14.3 
+ 
+ Continuity 
+ 
+ Despite the existence of a Dispute, Developer must continue to perform its obligations under this Agreement (including provision of Development Services) and ProjectCo must pay all undisputed amounts to Developer. 
+ 
+ 
+
+ 
+ 
+ 14.4 
+ 
+ Injunctive Relief 
+ 
+ Nothing in this clause 14 prejudices either Party’s right to institute proceedings to seek injunctive or urgent declaratory relief in respect of a Dispute or any other matter arising under this Agreement. 
+ 
+ 
+
+ 
+ 
+ 14.5 
+ 
+ Damages are Insufficient Compensation and Equitable Remedies are Available 
+ 
+ Without prejudice to any other rights or remedies that the Parties may have, the Parties acknowledge and agree that damages alone would not be an adequate remedy for any breach by them of this Agreement and that the remedies of injunction and specific performance as well as any other equitable relief for any threatened or actual breach of this Agreement by any Party would be more appropriate remedies. 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 11 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ 
+
+ 
+ 
+ 15. 
+ 
+ Governing Law 
+ 
+ 
+
+ 
+ 
+ 15.1 
+ 
+ This Agreement shall be governed by the internal laws of the State of New York, excluding any of its conflict of law provisions that would require the application of the laws of another jurisdiction. 
+ 
+ 
+
+ 
+ 
+ 15.2 
+ 
+ Subject to the provisions of clause 14 for purposes of resolving any Dispute arising under or relating to this Agreement, the Parties hereby submit to the non-exclusive jurisdiction of the United States Federal District Courts for the State of New York, or, if such court does not have subject matter jurisdiction, the state courts of the State of New York, in each case sitting in New York County. Each Party hereby waives any objection that it may have to the venue of such action, suit or proceeding in such court or that such suit, action or proceeding in such court was brought in an inconvenient court and agrees not to plead or claim the same. Each Party further agrees that such court shall have in personam jurisdiction over each of them with respect to any such dispute, controversy, or proceeding. EACH PARTY HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY LAW, ANY AND ALL RIGHTS TO A TRIAL BY JURY WITH RESPECT TO ANY DISPUTE ARISING UNDER THIS AGREEMENT 
+ 
+ 
+
+ 
+ 
+ 16. 
+ 
+ mutual representations and warranties 
+ 
+ 
+
+ 
+ 
+ 16.1 
+ 
+ Each Party represents and warrants to the other Party that as at the Effective Date: 
+ 
+ 
+
+ 
+ 
+ 
+ 16.1.1 
+ 
+ the execution, delivery and performance of this Agreement complies with its documents of organization and does not constitute a breach of any Law or obligation, or cause or result in a default under any agreement by which it is bound and which would prevent it from entering into and performing its obligations under this Agreement; 
+ 
+ 
+
+ 
+ 
+ 
+ 16.1.2 
+ 
+ all necessary authorisations for the execution, delivery and performance of this Agreement in accordance with its terms have been obtained; 
+ 
+ 
+
+ 
+ 
+ 
+ 16.1.3 
+ 
+ each Party has full power and capacity to enter into and perform its obligations under this Agreement; and 
+ 
+ 
+
+ 
+ 
+ 
+ 16.1.4 
+ 
+ each Party is validly incorporated, organised and subsisting in accordance with the laws of its place of incorporation or organization. 
+ 
+ 
+
+ 
+ 
+ 17. 
+ 
+ MISCELLANEOUS 
+ 
+ 
+
+ 
+ 
+ 17.1 
+ 
+ Confidentiality 
+ 
+ 
+
+ 
+ 
+ 
+ 17.1.1 
+ 
+ Subject to clause 17.1.2 , each Party must keep confidential and must not divulge or disclose: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ any information relating to another Party or its business, which is disclosed to the recipient in the course of procuring or providing Development Services contemplated by this Agreement; or 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ this Agreement 
+ 
+ (collectively, " Confidential Information" ) 
+ 
+ 
+
+ 
+ 
+ 
+ 17.1.2 
+ 
+ Confidential Information may be disclosed: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ to an Affiliate of the recipient, provided that the recipient must ensure that its Affiliates comply in all respects with the recipient’s obligations under this clause; 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 12 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ if the information is in the public domain as at the date of this Agreement (or subsequently becomes in the public domain other than by breach of any obligation of confidentiality binding on the recipient); 
+ 
+ 
+
+ 
+ 
+ 
+ (C) 
+ 
+ if the recipient is required to disclose the information by applicable Law or the rules of any recognised stock exchange on which its shares or the shares of any of its related bodies corporate are listed, provided that the recipient has consulted with the provider of the information as to the form and content of the disclosure; 
+ 
+ 
+
+ 
+ 
+ 
+ (D) 
+ 
+ if the disclosure is made by the recipient to its current or potential financiers, investors and equity owners or lawyers, accountants, investment bankers, consultants, other professional advisers or Subcontractors to the extent necessary to enable the recipient to properly perform its obligations under this Agreement or to conduct its business generally, in which case the recipient must ensure that those persons keep the information secret and confidential and do not divulge or disclose the information to any other person in contravention hereof; 
+ 
+ 
+
+ 
+ 
+ 
+ (E) 
+ 
+ if the disclosure is necessary to seek the approval of any transaction contemplated by this Agreement by a Governmental Authority, provided that, to the extent the disclosing party may request confidential treatment thereof, the relevant Governmental Authority is made aware of the confidential nature of the information and is instructed to keep the information secret and confidential and not to divulge or disclose the information to any other person; 
+ 
+ 
+
+ 
+ 
+ 
+ (F) 
+ 
+ if the disclosure is required for use in legal proceedings regarding this Agreement; or 
+ 
+ 
+
+ 
+ 
+ 
+ (G) 
+ 
+ each other Party has consented in writing before the disclosure. 
+ 
+ 
+
+ 
+ 
+ 17.2 
+ 
+ Communication and Notices 
+ 
+ 
+
+ 
+ 
+ 
+ 17.2.1 
+ 
+ A notice or other communication under this Agreement ( "Notice" ) must be in writing and delivered by hand or sent by pre-paid post, fax or electronic communication (including electronic mail) to a Party at the address or the fax number for that Party or as otherwise specified by a Party. 
+ 
+ 
+
+ 
+ 
+ 
+ 17.2.2 
+ 
+ A Party may change Notice Details by giving written notice to the other Party. 
+ 
+ 
+
+ 
+ 
+ 
+ 17.2.3 
+ 
+ A Notice sent by post is regarded as given and received on the second Business Day following the date of postage. 
+ 
+ 
+
+ 
+ 
+ 
+ 17.2.4 
+ 
+ A fax is regarded as given and received on production of a transmission report by the machine from which the fax was sent which indicates that the fax was sent in its entirety to the recipient’s fax number, unless the recipient informs the sender that the Notice is illegible or incomplete within 4 hours of it being transmitted. 
+ 
+ 
+
+ 
+ 
+ 
+ 17.2.5 
+ 
+ A Notice delivered or received other than on a Business Day or after 4.00pm (recipient’s time) is regarded as received at 9.00am on the following Business Day and a Notice delivered or received before 9.00am (recipient’s time) is regarded as received at 9.00am. 
+ 
+ 
+
+ 
+ 
+ 17.3 
+ 
+ Notice Details 
+ 
+ 
+
+ 
+ 
+ 
+ 17.3.1 
+ 
+ ProjectCo: 
+ 
+ Innovative Solar 31, LLC 
+ c/o VivoPower USA LLC 
+ 3824 Cedar Springs Rd. #801-1299 
+ Dallas, TX 75219 
+ Attention: Chief Financial Officer 
+ Email: dpilotte@vivopower.com 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 13 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ With a copy to (which shall not constitute notice): 
+ 
+ Stoel Rives LLP 
+ 600 University Street, Suite 3600 
+ Seattle, WA 98101 
+ Attn: Alex Mertens 
+ Facsimile: (206) 386-7500 
+ Email: alex.mertens@stoel.com 
+ 
+ NES US NC-31 LLC 
+ c/o Dixon Advisory USA 
+ 140 Broadway, 28th Floor 
+ New York, NY 10005 
+ 
+ New Energy Solar 
+ PO Box 29 
+ Crows Nest NSW 1585 
+ Australia 
+ Attention: Tom Kline and Liam Thomas 
+ Email: assetmanager@newenergysolar.com.au 
+ 
+ Foley & Lardner LLP 
+ 777 E. Wisconsin Ave. 
+ Milwaukee, WI 53202-5306 
+ Attention: David W. Clark 
+ 
+ 
+
+ 
+ 
+ 
+ 17.3.2 
+ 
+ Developer: 
+ 
+ VivoPower USA LLC 
+ 3824 Cedar Springs Rd. #801-1299 
+ Dallas, TX 75219 
+ Attention: Chief Financial Officer 
+ Email: dpilotte@vivopower.com 
+ 
+ With a copy to (which shall not constitute notice): 
+ 
+ Stoel Rives LLP 
+ 600 University Street, Suite 3600 
+ Seattle, WA 98101 
+ Attn: Alex Mertens 
+ Facsimile: (206) 386-7500 
+ Email: alex.mertens@stoel.com 
+ 
+ 
+
+ 
+ 
+ 17.4 
+ 
+ Assignment, transfer and novation of rights 
+ 
+ Each Party may assign, transfer or novate all or any part of its rights or obligations under this Agreement provided written consent has been obtained in writing from the other Party, which will not be unreasonably withheld; provided that, without the prior written consent of the other Party, either Party may collaterally assign any of its rights, duties or obligations under this Agreement as security for the obligations of such Party to any Person providing financing for the benefit of such Party or any of its Affiliates. 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 14 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ 
+
+ 
+ 
+ 17.5 
+ 
+ Entire agreement 
+ 
+ This Agreement states all the express terms of the agreement between the Parties in respect of its subject matter. It supersedes all prior discussions, negotiations, understandings and agreements in respect of its subject matter. 
+ 
+ 
+
+ 
+ 
+ 17.6 
+ 
+ Counterparts 
+ 
+ This Agreement may be executed in any number of counterparts (including by facsimile or other electronic means). All counterparts, taken together, constitute one instrument. A Party may execute this Agreement by signing any counterpart. 
+ 
+ 
+
+ 
+ 
+ 17.7 
+ 
+ Severability 
+ 
+ If any provision in this Agreement is held invalid or unenforceable, all other provisions will not be affected. With respect to the provision held invalid or unenforceable, the Parties will amend this Agreement as necessary to effect the original intent of the Parties as closely as possible. 
+ 
+ 
+
+ 
+ 
+ 17.8 
+ 
+ Waiver 
+ 
+ The rights and remedies of the Parties shall not be affected by any failure to exercise or delay in exercising any right or remedy or by the giving of any indulgence by any other Party or by anything whatsoever except a specific waiver or release in writing and any such waiver or release shall not prejudice or affect any other rights or remedies of the Parties. No single or partial exercise of any right or remedy shall prevent any further or other exercise thereof or the exercise of any other right or remedy. 
+ 
+ 
+
+ 
+ 
+ 17.9 
+ 
+ Successors 
+ 
+ This Agreement is binding upon and inures to the benefit of the Parties and their respective successors and permitted assigns. 
+ 
+ 
+
+ 
+ 
+ 17.10 
+ 
+ Amendment, etc. 
+ 
+ No amendment, waiver or other modification of this Agreement shall be effective unless it is in writing (which for this purpose does not include email) signed by or on behalf of each of the Parties. 
+ 
+ 
+ 
+ [ Signature page follows ] 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 15 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ IN WITNESS WHEREOF , the Parties have executed this Agreement on the date first mentioned above. 
+ 
+ 
+ 
+
+ 
+ 
+ DEVELOPER : 
+ 
+ VIVOPOWER USA LLC 
+ 
+ 
+ By: ___/s/ Gary Hui__________ 
+ Name: Gary Hui 
+ Title: Manager 
+ 
+ PROJECTCO : 
+ 
+ INNOVATIVE SOLAR 31, LLC 
+ 
+ 
+ By: ___/s/ Gary Hui_________ 
+ Name: Gary Hui 
+ Title: Manager 
+ 
+ 
+ 
+ [ Signature Page to Development Services Agreement ] 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ Schedule 1 
+ 
+ DEVELOPMENT SERVICES 
+ 
+ 
+ The Development Services shall include the following with respect to the Project: 
+ 
+ (a) assist in dealing with: (i) power purchase agreement customers, (ii) the utility, (iii) governmental agencies, (iv) local organizations, and (v) other parties interested in the development and installation of the Project; 
+ 
+ (b) coordinate contractors, professionals and consultants employed in connection with the design or installation of the Project; 
+ 
+ (c) coordinate independent engineers, environmental consultants and title reviews for review of Project feasibility; 
+ 
+ (d) administer and manage the Project in accordance with the contracts providing for the engineering, procurement and construction of the Project (collectively, the "EPC Contract" ), including the construction schedule set forth therein, and any other supply or installation contracts on behalf of ProjectCo; 
+ 
+ (e) review and submit to ProjectCo for approval all requests for payments under the EPC Contract or any other supply or installation contract; 
+ 
+ (f) construction management services, including, without limitation, all activities necessary to monitor, manage, perform and exercise, on behalf of and as agent for ProjectCo, ProjectCo’s rights and obligations under the EPC Contract (other than (a) ProjectCo’s obligation to make payments or procure equipment under the EPC Contract, (b) ProjectCo’s right to contract with and retain separate contractors, and (c) ProjectCo’s obligation to provide any ProjectCo-provided facilities and services), and endeavor to secure full and proper performance of the obligations of the contractors under the EPC Contract; 
+ 
+ (g) prepare and submit to ProjectCo for approval all requests for loan advances or other payments under the Financing Agreement; 
+ 
+ (h) apply for and maintain in full force and effect any and all governmental permits and approvals required for the lawful construction of the Project or cause contractors to do so; 
+ 
+ (i) comply with all terms and conditions applicable to ProjectCo or the Project contained in any governmental permit or approval required or obtained for the lawful installation of the Project, or in any insurance policy affecting or covering the Project during its construction and installation, or in any surety bond obtained in connection with Project construction and installation; 
+ 
+ (j) furnish such consultation and advice relating to the construction and installation of the Project as may be reasonably requested from time to time by ProjectCo; 
+ 
+ (k) prepare such reports on the progress of the design, construction and installation of the Project as are reasonably requested by ProjectCo; 
+ 
+ (l) inspect the progress of the course of the construction and installation of the Project and verify that the same is being carried out substantially in accordance with the plans and specifications approved by ProjectCo or, if the same is not being so carried out, promptly notify ProjectCo; 
+ 
+ (m) if requested by ProjectCo, perform on behalf of ProjectCo all obligations of ProjectCo with respect to the design and installation of the Project contained in any Financing Document, Project Document or Tax Equity Document, or in any agreement entered into with any governmental body or agency (including any utility) relating to the terms and conditions of such installation, provided that copies of such agreements have been provided by ProjectCo to Developer or ProjectCo has otherwise notified Developer in writing of such obligations; 
+ 
+ 
+ 
+ 86696224.7 0058116-00002 
+ 
+ 
+ 
+ 
+ EXHIBIT 10.6 
+ 
+ (n) assist ProjectCo in obtaining and maintaining insurance coverage for the Project, ProjectCo and its agents during the development phase of the Project, in accordance with an insurance schedule approved by ProjectCo; 
+ 
+ (o) assemble and retain all contracts, agreements and other records and data as may be necessary to carry out Developer’s functions hereunder; 
+ 
+ (p) at the direction of ProjectCo, implement any decisions of ProjectCo made in connection with the design, development and installation of the Project or any policies and procedures relating thereto; 
+ 
+ (q) perform and administer any and all other services and responsibilities of Developer that are set forth in any other provisions of this Agreement, or that are reasonably requested to be performed by ProjectCo and are within the general scope of the services described herein; 
+ 
+ (r) Cash Management, Billing Services and Collection : 
+ 
+ (I) collect on behalf of ProjectCo, or cause to be so collected, all payments due to ProjectCo with respect to Project construction and installation; and 
+ 
+ (II) arrange to promptly pay, or cause to be paid, on behalf of ProjectCo, any amounts required to be paid by ProjectCo (including payment of all utilities such as water, power and data service), including all expenses incurred by ProjectCo and relating to the Project’s construction and installation or that are due and payable under construction or installation contracts to which ProjectCo is a party; 
+ 
+ (s) cause to be paid, at ProjectCo’s cost, all taxes and other governmental charges shown to be due by ProjectCo and relating to the Project’s construction and installation before the same becomes delinquent; and 
+ 
+ (t) to the extent any of the Development Services have been delegated to a subcontractor, supervise and monitor such subcontractor’s performance of such delegated functions.

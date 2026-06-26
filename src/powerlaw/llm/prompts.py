@@ -1,0 +1,2 @@
+DOCUMENT_TYPING_PROMPT_VERSION = "document-typing-v0"
+CONDITION_EXTRACTION_PROMPT_VERSION = "condition-extraction-v0"

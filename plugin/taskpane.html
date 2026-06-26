@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PowerLaw Copilot</title>
+    <link rel="stylesheet" href="./src/styles.css">
+    <script src="https://appsforoffice.microsoft.com/lib/1/hosted/office.js"></script>
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">PowerLaw</p>
+          <h1>Matter drafting</h1>
+        </div>
+        <span class="status-pill" id="runtimeStatus">Browser preview</span>
+      </header>
+
+      <section class="panel context-panel" aria-labelledby="contextTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Context</p>
+            <h2 id="contextTitle">No matter tagged</h2>
+          </div>
+          <button class="quiet-button" id="refreshContextButton" type="button">Refresh</button>
+        </div>
+
+        <div class="matter-card" id="matterCard">
+          <div class="matter-mark">PL</div>
+          <div>
+            <p class="matter-name" id="matterName">Open a Word document or use preview text.</p>
+            <p class="matter-meta" id="matterMeta">PowerLaw will suggest the project and contract tag.</p>
+          </div>
+        </div>
+
+        <textarea id="previewText" class="preview-text" rows="5" spellcheck="false">NC-31 Financing Agreement between KeyBank National Association and the project company. Conditions precedent include delivery of certificates, permits, opinions, and evidence required before the closing date.</textarea>
+
+        <div class="button-row">
+          <button class="primary-button" id="identifyButton" type="button">Recognize matter</button>
+          <button class="secondary-button" id="scanButton" type="button">Scan tracked clauses</button>
+        </div>
+
+        <div class="candidate-list" id="candidateList" aria-live="polite"></div>
+      </section>
+
+      <section class="panel" aria-labelledby="draftTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Draft</p>
+            <h2 id="draftTitle">Generate language</h2>
+          </div>
+        </div>
+
+        <label class="field-label" for="contentKind">Kind</label>
+        <select id="contentKind" class="select-input">
+          <option value="clause">Clause</option>
+          <option value="section">Section</option>
+        </select>
+
+        <label class="field-label" for="draftInstruction">Instruction</label>
+        <textarea id="draftInstruction" class="input-area" rows="4">Draft a short condition precedent clause aligned to the current project context.</textarea>
+
+        <div class="button-row">
+          <button class="primary-button" id="generateButton" type="button">Generate</button>
+          <button class="secondary-button" id="insertButton" type="button" disabled>Insert tracked text</button>
+        </div>
+
+        <article class="draft-output" id="draftOutput">
+          <p>Generated language will appear here before insertion into Word.</p>
+        </article>
+      </section>
+
+      <section class="panel" aria-labelledby="rationaleTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Review</p>
+            <h2 id="rationaleTitle">Rationale queue</h2>
+          </div>
+          <span class="queue-count" id="queueCount">0</span>
+        </div>
+        <div id="rationaleQueue" class="rationale-queue">
+          <p class="empty-note">Generated text edits and normal document edits will appear here.</p>
+        </div>
+        <button class="primary-button full-button" id="syncAllButton" type="button" disabled>Sync all rationales</button>
+      </section>
+
+      <footer class="footer-note" id="messageLog" role="status" aria-live="polite">
+        Connects to local PowerLaw through /api/v1.
+      </footer>
+    </main>
+
+    <script src="./src/taskpane.js" type="module"></script>
+  </body>
+</html>

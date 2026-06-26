@@ -1,0 +1,3132 @@
+NC-31 Tax Equity ECCA (NES US NC-31 LLC)
+========================================
+
+EX-10.7
+ 9
+ ex10-7.htm
+ EXHIBIT 10.7
+ 
+ ex10-10.htm 
+ 
+ 
+ 
+ EXHIBIT 10.7 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VivoPower International Services Limited 
+ 
+ 
+ and 
+ 
+ 
+ Philip Comberg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SERVICE AGREEMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Herbert Smith Freehills LLP 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+ 
+ 
+
+ 
+ 
+ Clause 
+ 
+ Headings 
+ 
+ Page 
+ 
+ 
+ 1. 
+ 
+ INTERPRETATION 
+ 
+ 3 
+ 
+ 
+ 2. 
+ 
+ REPRESENTATIONS AND WARRANTIES 
+ 
+ 5 
+ 
+ 
+ 3. 
+ 
+ APPOINTMENT AND TERM 
+ 
+ 6 
+ 
+ 
+ 4. 
+ 
+ DUTIES AND POWERS 
+ 
+ 6 
+ 
+ 
+ 5. 
+ 
+ SALARY 
+ 
+ 8 
+ 
+ 
+ 6. 
+ 
+ PENSION AND INSURANCE BENEFITS 
+ 
+ 8 
+ 
+ 
+ 7. 
+ 
+ DIRECTORS' AND OFFICERS' INSURANCE 
+ 
+ 9 
+ 
+ 
+ 8. 
+ 
+ EXPENSES, GRATUITIES AND DEDUCTIONS 
+ 
+ 10 
+ 
+ 
+ 9. 
+ 
+ HOLIDAYS 
+ 
+ 10 
+ 
+ 
+ 10. 
+ 
+ SICKNESS AND INJURY 
+ 
+ 11 
+ 
+ 
+ 11. 
+ 
+ INTERESTS IN OTHER BUSINESSES 
+ 
+ 12 
+ 
+ 
+ 12. 
+ 
+ SHARE DEALINGS 
+ 
+ 12 
+ 
+ 
+ 13. 
+ 
+ INTELLECTUAL PROPERTY 
+ 
+ 12 
+ 
+ 
+ 14. 
+ 
+ CONFIDENTIALITY 
+ 
+ 14 
+ 
+ 
+ 15. 
+ 
+ PROTECTION OF INTERESTS OF COMPANY ETC 
+ 
+ 14 
+ 
+ 
+ 16. 
+ 
+ INTERIM APPOINTMENT 
+ 
+ 19 
+ 
+ 
+ 17. 
+ 
+ TERMINATION 
+ 
+ 19 
+ 
+ 
+ 18. 
+ 
+ GARDEN LEAVE 
+ 
+ 22 
+ 
+ 
+ 19. 
+ 
+ AMALGAMATION AND RECONSTRUCTION 
+ 
+ 23 
+ 
+ 
+ 20. 
+ 
+ DISCIPLINE AND GRIEVANCES 
+ 
+ 24 
+ 
+ 
+ 21. 
+ 
+ ADDITIONAL PARTICULARS 
+ 
+ 24 
+ 
+ 
+ 22. 
+ 
+ ENTIRE AGREEMENT AND SEVERABILITY 
+ 
+ 24 
+ 
+ 
+ 23. 
+ 
+ VARIATION AND WAIVER 
+ 
+ 25 
+ 
+ 
+ 24. 
+ 
+ THIRD PARTY RIGHTS 
+ 
+ 25 
+ 
+ 
+ 25. 
+ 
+ ASSIGNMENT 
+ 
+ 25 
+ 
+ 
+ 26. 
+ 
+ DATA PROTECTION 
+ 
+ 25 
+ 
+ 
+ 27. 
+ 
+ REFERENCES 
+ 
+ 26 
+ 
+ 
+ 28. 
+ 
+ TELEPHONE AND COMPUTER/E MAIL AND INTERNET USE 
+ 
+ 26 
+ 
+ 
+ 29. 
+ 
+ NOTICES 
+ 
+ 27 
+ 
+ 
+ 30. 
+ 
+ GOVERNING LAW 
+ 
+ 28 
+ 
+ 
+ 31. 
+ 
+ COUNTERPARTS 
+ 
+ 28 
+ 
+ SCHEDULE 1 – KEY PERFORMANCE INDICATORS ("KPI") 
+ 30 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ AGREEMENT made 
+ 
+ BETWEEN: 
+ 
+ 
+
+ 
+ 
+ 
+ A. 
+ 
+ VIVOPOWER INTERNATIONAL SERVICES LIMITED a company incorporated in Channel Islands with registered number 121017 whose registered office is at 3rd Floor 37 Esplanade, St Helier, Jersey, JE2 3QA and which is established in the United Kingdom under UK establishment number BR018560 and whose establishment offices is at 23 Hanover Square, Mayfair, London, England W1S 1JB (the "Company" ); and 
+ 
+ 
+ 
+ 
+ 
+ 
+ B. 
+ PHILIP COMBERG of Cretzschmarstrasse 21, 60487 Frankfurt (the "Executive" ) IT IS AGREED as follows: 
+ 
+ 
+
+ 
+ 
+ 
+ 1. 
+ 
+ INTERPRETATION 
+ 
+ 
+
+ 
+ 
+ 
+ 1.1 
+ 
+ In this Agreement: 
+ 
+ 
+
+ 
+ 
+ 
+ 1.1.1 
+ 
+ "Associate" means a body corporate: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ which is the PLC Company; 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ which for the time being is a Parent Undertaking of the PLC Company or a Subsidiary of the PLC Company or of such a Parent Undertaking; or 
+ 
+ 
+
+ 
+ 
+ 
+ (C) 
+ 
+ in whose Equity Share Capital for the time being an interest of 20 per cent or more is held directly or indirectly (through another body corporate or other bodies corporate or otherwise) by a Parent Undertaking of the PLC Company or by a Subsidiary (including the Company) of such a Parent Undertaking or by a combination of two or more such Parent Undertakings or Subsidiaries; 
+ 
+ 
+
+ 
+ 
+ 
+ 1.1.2 
+ 
+ “ ASX ” means the Australian Securities Exchange; 
+ 
+ 
+
+ 
+ 
+ 
+ 1.1.3 
+ 
+ "Board" means the board of directors of the PLC Company from time to time and includes any person or committee duly authorised by the board of directors to act on its behalf for the purposes of this Agreement; 
+ 
+ 
+
+ 
+ 
+ 
+ 1.1.4 
+ 
+ "Company Secretary" means the secretary of the PLC Company from time to time; 
+ 
+ 
+
+ 
+ 
+ 
+ 1.1.5 
+ 
+ "Confidential Information" means all and any information, whether or not recorded, of the PLC Company, the Company or of any other Subsidiary or Associate which the Executive (or, where the context so requires, another person) has obtained by virtue of his employment or engagement and which the PLC Company, the Company or any other Subsidiary or Associate regards as confidential or in respect of which the PLC Company, the Company or any other Subsidiary or Associate is bound by an obligation of confidence to a third party, including: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ all and any information relating to business methods, corporate plans, future business strategy, management systems, finances, and maturing new business opportunities; 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ all and any information relating to research or development projects or both; 
+ 
+ 
+ 
+ 
+ 
+ 
+ (C) 
+ all and any information concerning the curriculum vitae, remuneration details, work-related experience, attributes and other personal information concerning those employed or engaged by the PLC Company, the Company or any other Subsidiary or Associate; 
+ 
+ 
+ 
+ 3 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ (D) 
+ 
+ all and any information relating to marketing or sales of any past present or future product or service of the PLC Company, the Company or any other Subsidiary or Associate including sales targets and statistics, market share and pricing statistics, marketing surveys and strategies, marketing research reports, sales techniques, price lists, mark-ups, discounts, rebates, tenders, advertising and promotional material, credit and payment policies and procedures, and lists and details of customers, prospective customers, suppliers and prospective suppliers including their identities, personnel, business requirements and contractual negotiations and arrangements with the PLC Company, the Company or any other Subsidiary or Associate; and 
+ 
+ 
+
+ 
+ 
+ 
+ (E) 
+ 
+ all and any trade secrets, secret formulae, processes, inventions, design, know-how, technical specification and other technical information in relation to the creation, production or supply of any past, present or future product or service of the PLC Company, the Company or any other Subsidiary or Associate, including all and any information relating to the working of any product, process, invention, improvement or development carried on or used by the PLC Company, the Company or any other Subsidiary or Associate and information concerning the intellectual property portfolio and strategy of the Company or of any Subsidiary or Associate, 
+ 
+ but excluding any information which: 
+ 
+ 
+
+ 
+ 
+ 
+ (i) 
+ 
+ is part of the Executive's own stock in trade; 
+ 
+ 
+
+ 
+ 
+ 
+ (ii) 
+ 
+ is readily ascertainable to persons not connected with the PLC Company, the Company or any other Subsidiary or Associate without significant expenditure of labour, skill or money; or 
+ 
+ 
+
+ 
+ 
+ 
+ (iii) 
+ 
+ which becomes available to the public generally other than by reason of a breach by the Executive of his obligations under this Agreement; 
+ 
+ 
+
+ 
+ 
+ 
+ 1.1.6 
+ 
+ " PLC Company " means VIVOPOWER INTERNATIONAL PLC a company incorporated in England and Wales with registered number 09978410 whose registered office is at 23 Hanover Square, Mayfair, London, England W1S 1JB; 
+ 
+ 
+
+ 
+ 
+ 
+ 1.1.7 
+ 
+ "Recognised Investment Exchange" means the NASDAQ, the ASX and any body corporate or unincorporated association which is a recognised investment exchange for the purposes of the Financial Services and Markets Act 2000; 
+ 
+ 
+
+ 
+ 
+ 
+ 1.1.8 
+ 
+ "Remuneration Committee" means the remuneration committee of the Board from time to time; 
+ 
+ 
+
+ 
+ 
+ 
+ 1.1.9 
+ 
+ "Subsidiary" means Subsidiary Undertaking, and " Subsidiary Undertaking ", " Parent Undertaking " and "Equity Share Capital" shall have the respective meanings attributed to them by sections 1162 and 548 of the Companies Act 2006; 
+ 
+ 
+
+ 
+ 
+ 
+ 1.1.10 
+ 
+ "Termination Date" means the date on which the employment of the Executive by the Company terminates save pursuant to an assignment by the Company pursuant to clause 25 in which case it shall mean the date on which his employment with such assignee shall terminate; 
+ 
+ 
+
+ 
+ 
+ 
+ 1.1.11 
+ 
+ "Working Day" means any day other than a Saturday, Sunday or a day which is generally recognised as a public holiday in England. 
+ 
+ 
+ 
+ 4 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 1.2 
+ 
+ In this Agreement, unless otherwise stated, a reference to the employment of the Executive is to his employment by the Company under this Agreement and shall include any period of garden leave pursuant to clause 18 or suspension pursuant to sub-clause 17.4. 
+ 
+ 
+
+ 
+ 
+ 
+ 1.3 
+ 
+ In this Agreement, unless the context otherwise requires: 
+ 
+ 
+
+ 
+ 
+ 
+ 1.3.1 
+ 
+ the contents page and headings and bold type face inserted in this Agreement are inserted for convenience only and shall not affect the interpretation of this Agreement; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.3.2 
+ 
+ references to clauses and sub-clauses are to clauses and sub-clauses of this Agreement; 
+ 
+ 
+
+ 
+ 
+ 1.3.3 
+ references to this Agreement include this Agreement as amended or supplemented in accordance with its terms; 
+ 
+ 
+
+ 
+ 
+ 
+ 1.3.4 
+ 
+ references to writing shall include any modes of reproducing words in any legible form and shall include e-mail except where expressly stated otherwise; 
+ 
+ 
+
+ 
+ 
+ 
+ 1.3.5 
+ 
+ references to "includes" or "including" shall mean "includes without limitation" or "including without limitation"; 
+ 
+ 
+
+ 
+ 
+ 
+ 1.3.6 
+ 
+ words in the singular shall include the plural and vice versa, and a reference to any gender includes a reference to all genders or, where appropriate, is to be read as a reference to the opposite gender; 
+ 
+ 
+
+ 
+ 
+ 
+ 1.3.7 
+ 
+ a reference to a person shall include a reference to a firm, a body corporate, an unincorporated association or a partnership; 
+ 
+ 
+
+ 
+ 
+ 
+ 1.3.8 
+ 
+ a reference to a statute or statutory provision shall include a reference to any subordinate legislation made under the relevant statute or statutory provision and, except where expressly stated otherwise, is a reference to that statute, provision or subordinate legislation as from time to time amended, consolidated, modified, re-enacted or replaced. 
+ 
+ 
+
+ 
+ 
+ 
+ 2. 
+ 
+ REPRESENTATIONS AND WARRANTIES 
+ 
+ 
+
+ 
+ 
+ 
+ 2.1 
+ 
+ The Executive represents and warrants to the PLC Company and the Company that, and acknowledges that in entering into this Agreement the Company has relied upon prior representations and warranties by the Executive in the following terms: 
+ 
+ 
+
+ 
+ 
+ 
+ 2.1.1 
+ 
+ save for this Agreement, he will, save as implied by law, be free from all agreements, arrangements or other restrictions seeking to restrict his right to compete with any person or to deal with or solicit clients or solicit, employ or engage employees of any person or in any way restricting him from entering into and performing this Agreement in accordance with its terms; 
+ 
+ 
+
+ 
+ 
+ 
+ 2.1.2 
+ 
+ he has not (directly or indirectly) misappropriated, or otherwise made any unlawful use or disclosure of, any confidential information and/or intellectual property belonging to or relating to the business of any other person (including, for the avoidance of doubt, his previous employer(s)) and will not do so whether prior to the commencement of his employment under this Agreement or otherwise; 
+ 
+ 
+
+ 
+ 
+ 
+ 2.1.3 
+ 
+ he is not prohibited by law from being a director and is permitted by law to work in the UK; and 
+ 
+ 
+
+ 
+ 
+ 
+ 2.1.4 
+ 
+ he has any necessary licences, permissions, consents, approvals, qualifications and memberships required for him to perform his duties under this Agreement and is not and has not been subject to any prohibition, censure, criticism or disciplinary sanction by any professional, regulatory or other body or authority which would prevent him from performing any duties under this Agreement or undermine the confidence of the Board in his employment by the Company. 
+ 
+ 
+ 
+ 5 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 2.2 
+ 
+ The Executive shall indemnify the PLC Company and the Company against all claims, liabilities, losses, costs, and expenses which the PLC Company and the Company may suffer or incur or which may be made against the PLC Company or the Company arising out of, or in respect of, any breach of the warranties and representations in this clause 2. 
+ 
+ 
+
+ 
+ 
+ 
+ 3. 
+ 
+ APPOINTMENT AND TERM 
+ 
+ 
+
+ 
+ 
+ 
+ 3.1 
+ 
+ The Executive shall be employed by the Company as Chief Executive Officer of the PLC Company and shall be a statutory director of the PLC Company and the Company. 
+ 
+ 
+
+ 
+ 
+ 
+ 3.2 
+ 
+ The Executive's employment under the terms of this Agreement shall begin on 1 September 2016 (the “ Effective Date ”) and shall continue, subject to the terms of this Agreement, until determined by either party giving to the other not less than 12 months' written notice to expire at any time. 
+ 
+ 
+
+ 
+ 
+ 
+ 4. 
+ 
+ DUTIES AND POWERS 
+ 
+ 
+
+ 
+ 
+ 
+ 4.1 
+ 
+ The Executive shall comply with his fiduciary and legal duties during the continuance of his employment and, in particular, shall: 
+ 
+ 
+
+ 
+ 
+ 
+ 4.1.1 
+ 
+ comply with the provisions of Part 10 of the Companies Act 2006 (a copy of which will be made available to him) including the: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ duty to act within powers; 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ duty to promote the success of the company; 
+ 
+ 
+
+ 
+ 
+ 
+ (C) 
+ 
+ duty to exercise independent judgment; 
+ 
+ 
+
+ 
+ 
+ 
+ (D) 
+ 
+ duty to exercise reasonable care, skill and diligence; 
+ 
+ 
+
+ 
+ 
+ 
+ (E) 
+ 
+ duty to avoid conflicts of interest; 
+ 
+ 
+
+ 
+ 
+ 
+ (F) 
+ 
+ duty not to accept benefits from third parties; and 
+ 
+ 
+
+ 
+ 
+ 
+ (G) 
+ 
+ duty to declare interest in proposed transaction or arrangement; 
+ 
+ 
+
+ 
+ 
+ 
+ 4.1.2 
+ 
+ faithfully and diligently perform: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ the usual duties of a Chief Executive Officer; and 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ such other duties as may from time to time be assigned to him by the Board, whether those duties relate to the business or interests of the PLC Company or the Company or to the business or interests of any other Associate (and such duties may include holding any office or other appointment in or on behalf of any Associate or any other company for as long as the Company requires); 
+ 
+ 
+
+ 
+ 
+ 
+ 4.1.3 
+ 
+ familiarise himself with and in all respects comply with: 
+ 
+ 
+
+ 
+ 
+ (A) 
+ all and any lawful and reasonable directions given by or under the authority of the Board; and 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ all relevant policies, rules and regulations of the PLC Company and the Company from time to time in force; and 
+ 
+ 
+ 
+ 6 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ (C) 
+ 
+ all laws, codes of conduct, rules and regulations or listing rules relevant to the PLC Company, the Company and/or any other Associate or to him as a director of the PLC Company and the Company or as an office- holder of any other Associate. 
+ 
+ 
+
+ 
+ 
+ 
+ 4.1.4 
+ 
+ exercise only such powers as are consistent with his duties and act only in accordance with the Articles of Association of the PLC Company or the Company (as appropriate), where his duties relate to the business or interests of an Associate, of that company; 
+ 
+ 
+
+ 
+ 
+ 
+ 4.1.5 
+ 
+ use his best endeavours to promote the success of the PLC Company and the Company, each for the benefit of its members as a whole and, save where there is any conflict with the success of such company, the success of all Associates; 
+ 
+ 
+
+ 
+ 
+ 
+ 4.1.6 
+ 
+ keep the Board promptly and fully informed (in writing if so requested by the Board) of his conduct of the business, finances or affairs of the PLC Company, the Company and any other Associate and provide such explanations as the Board may require; 
+ 
+ 
+
+ 
+ 
+ 
+ 4.1.7 
+ 
+ promptly disclose to the Board full details of any knowledge or suspicion he has that any employee or officer (including the Executive himself) of the PLC Company, the Company or any other Associate has or plans to commit any serious wrongdoing or serious breach of duty or other act which might materially damage the interests of the PLC Company, the Company or its Associates or plans to leave their employment or to join or establish a business in competition with the PLC Company, the Company or any of its Associates (including details of any steps taken to implement any such plan); and 
+ 
+ 
+
+ 
+ 
+ 
+ 4.1.8 
+ 
+ save where on authorised leave (for holiday or sickness or injury or other reason) and save as modified by the provisions of this Agreement where the Executive is placed on garden leave or suspended, devote the whole of his time, attention and ability during his agreed hours of work to the performance of his duties under this Agreement. 
+ 
+ 
+
+ 
+ 
+ 
+ 4.2 
+ 
+ The nature of the Executive's job is such that his working time is not measured or predetermined. The agreed hours of work of the Executive shall be normal business hours and such other hours as may be required for the proper performance of his duties under this Agreement. 
+ 
+ 
+
+ 
+ 
+ 
+ 4.3 
+ 
+ The Executive shall perform his duties principally at the London office of the Company or at such place or places in the United Kingdom as the Board may from time to time reasonably determine. The Executive may be required to travel for work as reasonably required, the expenses for which he will be reimbursed in accordance with clause 8. The Company will also reimburse the Executive’s reasonable relocation costs in: 
+ 
+ 
+
+ 
+ 
+ 
+ 4.3.1 
+ 
+ moving to London in order to take up employment with the Company; and 
+ 
+ 
+
+ 
+ 
+ 
+ 4.3.2 
+ 
+ if the Executive’s employment is terminated, other than in accordance with clause 17.2, or following the Executive's resignation, moving back to Germany, 
+ 
+ provided that the Executive provides the Company with: i) two quotes from reputable relocation service providers for the cost of his relocation, from which the Chairman may choose; and ii) evidence of actual payment of the cost and expenses as the Company may reasonably require. For the avoidance of doubt, all sums paid by the Company to the Executive relating to any reimbursement pursuant to this clause 4.3, shall be grossed up by the Company to reflect any tax payable in respect of those amounts. 
+ 
+ 
+ 
+ 7 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 5. 
+ 
+ SALARY 
+ 
+ 
+
+ 
+ 
+ 
+ 5.1 
+ 
+ During the continuance of his employment the Executive shall be entitled to a salary at the rate of £540,000 per annum (or such higher rate as the Remuneration Committee may from time to time determine and confirm in writing to the Executive). 
+ 
+ 
+
+ 
+ 
+ 5.2 
+ The Executive's salary shall accrue from day to day and be payable by equal monthly instalments on or about the last day of each month. 
+ 
+ 
+
+ 
+ 
+ 
+ 5.3 
+ 
+ The Executive's salary shall be inclusive of any other sums receivable as directors' fees or other remuneration to which he may be or become entitled as the holder of offices or appointments in or on behalf of the PLC Company, the Company or of any of its Associates. To achieve this the Executive shall account for any such sums he receives to the Company and his salary shall be reduced by the amount of such sums (and the Executive hereby authorises the Company to make any such reduction(s)). 
+ 
+ 
+
+ 
+ 
+ 
+ 5.4 
+ 
+ The Remuneration Committee shall review the Executive's salary at least once in each twelve months save after notice of termination of this Agreement has been served by either party, but shall not be obliged to make any increase in the salary (but for the avoidance of doubt shall not make any decrease in the salary). 
+ 
+ 
+
+ 
+ 
+ 
+ 5.5 
+ 
+ In addition to his salary, the Executive shall be entitled to participate in such discretionary bonus scheme and other incentive arrangements as may be operated by the Company, on such terms and at such level as the Remuneration Committee may from time to time determine, always provided that the Executive shall have the right to participate in an annual bonus arrangement, paying up to 150% of base salary for attainment of pre-agreed key performance indicators (as set out in Schedule 1 of this Agreement). The Company reserves the right at any time before the relevant year to amend the terms of this bonus scheme (but not so as to reduce the Executive’s maximum percentage bonus opportunity). 
+ 
+ 
+
+ 
+ 
+ 5.6 
+ The Executive shall also be entitled to participate in a separate carried interest arrangement which has been communicated to him separately. 
+ 
+ 
+
+ 
+ 
+ 
+ 5.7 
+ 
+ In accordance with the Companies Act 2006, all remuneration payments and benefits due to the Executive (including any payment for loss of office) will only be payable if and to the extent that they are either consistent with the most recent remuneration policy approved by members of the Company pursuant to section 439A of the Companies Act 2006 or are separately approved by resolution of the members of the Company. 
+ 
+ 
+
+ 
+ 
+ 
+ 5.8 
+ 
+ Any payment (or amount treated as paid) under this clause 5 shall be paid less any deductions which the Company may be required under law to make including in respect of income tax and National Insurance Contributions. 
+ 
+ 
+
+ 
+ 
+ 
+ 6. 
+ 
+ PENSION AND INSURANCE BENEFITS 
+ 
+ 
+
+ 
+ 
+ 
+ 6.1 
+ 
+ In lieu of pension contributions, the Company shall pay the Executive an annual amount equal to 10% of his annual base salary under clause 5.1, such amount to be paid in annual monthly instalments at the same time as salary is paid to him. 
+ 
+ 
+
+ 
+ 
+ 
+ 6.2 
+ 
+ The Executive shall be entitled to participate in the Company's life assurance scheme which shall pay to the Executive's dependant(s) a sum equal to four times the Executive's salary if the Executive dies during service. Participation is subject to: 
+ 
+ 
+
+ 
+ 
+ 6.2.1 
+ the terms of the Company's life assurance scheme, as amended from time to time; and 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.2.2 
+ 
+ the rules or the insurance policy of the relevant insurance provider, as amended from time to time. 
+ 
+ 
+ 
+ 8 
+ 
+
+ 
+ 
+ If the insurance provider refuses for any reason to provide life assurance benefit to the Executive, the Company shall not be liable to provide to the Executive any replacement benefit of the same or similar kind or to pay any compensation in lieu of such benefit. 
+ 
+ 
+
+ 
+ 
+ 
+ 6.3 
+ 
+ The Company shall, at the Executive's election, either: 
+ 
+ 
+
+ 
+ 
+ 
+ 6.3.1 
+ 
+ provide for the Executive to become and during the continuance of his employment remain a member of such private medical insurance and personal accident insurance scheme as the Company may from time to time in its absolute discretion participate in subject to the rules of the scheme (as varied from time to time), Such cover shall be provided for the Executive, his spouse and dependent children under the age of 21 years; or 
+ 
+ 
+
+ 
+ 
+ 6.3.2 
+ pay contributions to the Executive's existing private medical insurance arrangements, providing cover for the Executive, his spouse and dependent children under the age of 21 years to a maximum of £1,800 per month. 
+ 
+ 
+
+ 
+ 
+ 
+ 6.4 
+ 
+ The Executive may become and during the continuance of his employment remain a member of such permanent health insurance scheme as the Company may from time to time in its absolute discretion operate, membership being subject to the rules of the Company's scheme (as varied from time to time) details of which are available from the Company Secretary. Nothing in this Agreement shall prevent the Company from terminating the Executive's employment for any reason whatsoever even where the effect of termination is to prejudice, prevent or terminate an actual or prospective claim under the permanent health insurance scheme. 
+ 
+ 
+
+ 
+ 
+ 
+ 6.5 
+ 
+ In the event that the Executive claims under any insurance scheme referred to in sub- clause 6.3 or 6.4 and such claim is rejected by the insurer, the Company shall not be obliged to issue proceedings in relation to such claim but in the event that it does so on the Executive's request the Executive shall indemnify the Company against all costs, expenses and other liabilities arising out of such proceedings. 
+ 
+ 
+
+ 
+ 
+ 
+ 6.6 
+ 
+ To the extent that any benefit provided to the Executive under this clause 6 is taxable, the Company shall, as appropriate, and if required by law, withhold an amount in respect of the income tax, and employee's National Insurance Contributions due on the taxable value of that benefit. 
+ 
+ 
+
+ 
+ 
+ 
+ 6.7 
+ 
+ The Executive shall be entitled to use his current personal telephone and any other telephone most suitable to the location in which the Executive is located and the Company shall reimburse the Executive for all reasonable expenses properly incurred by him in doing so in the performance of his duties under this Agreement and shall from time to time pay for a suitable replacement. 
+ 
+ 
+
+ 
+ 
+ 
+ 6.8 
+ 
+ The Executive shall be entitled to use his personal computer for the performance of his duties under this Agreement (but shall comply with reasonable instructions from the Company regarding Company information on the personal computer, for example saving documents to shared drives) and the Company shall from time to time pay for a suitable replacement. 
+ 
+ 
+
+ 
+ 
+ 
+ 7. 
+ 
+ DIRECTORS' AND OFFICERS' INSURANCE 
+ 
+ During the continuance of his employment and for six years following the Termination Date, the Company will procure that the Executive is covered by a policy of directors' and officers' liability insurance on terms no less favourable than those in place from time to time for other members of the Board. The Company will also put in place legal expenses insurance which, subject to any legal restrictions on indemnification for directors of UK incorporated companies or on companies listed on the NASDAQ or the ASX, will cover the cost of legal expenses incurred by the Executive in seeking to enforce the terms of the directors’ and officers’ liability insurance policy described above, and any legal fees incurred by the Executive in relation to the defence or pursuit of any claim relating to the execution of his duties on behalf of the Company or any Associated Company. 
+ 
+ 
+ 
+ 9 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 8. 
+ 
+ EXPENSES, GRATUITIES AND DEDUCTIONS 
+ 
+ 
+
+ 
+ 
+ 
+ 8.1 
+ 
+ The Company shall reimburse the Executive all reasonable travelling (including business class air-fares with any commercial airline of the Executive's choice), hotel, mobile telephone, IT (including in relation to his personal computer), entertainment and other expenses properly incurred by him in the performance of his duties under this Agreement, provided that the Executive claims these in accordance with the Company's expenses reporting procedure in force from time to time. The Executive shall, if so required provide the Company with receipts or other evidence of the payment of such expenses in accordance with the Company's expense reporting procedure in force from time to time. If the Executive is provided with a company credit card or charge card, he shall use it only for such expenses as he is entitled under this sub-clause to have reimbursed by the Company. 
+ 
+ 
+
+ 
+ 
+ 
+ 8.2 
+ 
+ The Executive shall not during the continuance of his employment seek or (unless fully disclosed to and approved in advance by the Board) accept from any actual or prospective customer, contractor or supplier of the Company or of any Associate any gift, gratuity or benefit of more than a trivial value or any hospitality otherwise than properly in the performance of his duties to the Company and of a kind and value not lavish, extravagant or inappropriate. 
+ 
+ 
+
+ 
+ 
+ 
+ 8.3 
+ 
+ The Executive hereby agrees that at any time during the continuance of his employment under this Agreement and on termination of his employment the Company shall be entitled to deduct from any sums due to the Executive (including salary, pay in lieu of notice, bonus, holiday pay or sick pay) any outstanding monies then owed by the Executive to the Company, including all outstanding loans or advances of salary made by the Company to the Executive (and any interest), any expense floats, any pay received for holiday taken in excess of the Executive's accrued holiday entitlement under clause 9, any sums paid on behalf of the Executive by the Company which have not been incurred by the Executive in the proper performance of his duties. 
+ 
+ 
+
+ 
+ 
+ 
+ 9. 
+ 
+ HOLIDAYS 
+ 
+ 
+
+ 
+ 
+ 
+ 9.1 
+ 
+ In addition to English public holidays, the Executive shall be entitled to 30 days' holiday in each holiday year of the Company running from 1 April to 31 March, to be taken at such times as may be approved by the Board (and Regulations 15(1) to 15(4) of the Working Time Regulations 1998 concerning the arrangements for taking holiday are hereby excluded). The first 28 days of holiday taken in the holiday year including public holidays shall be deemed to be the Executive's statutory leave entitlement firstly under Regulation 13 and then under Regulation 13A of the Working Time Regulations 1998. Holidays may be carried forward from one holiday year to the next where, for work-related reasons the Executive is unable to take holiday during the holiday year. No payment shall be made by the Company (during the continuance of this Agreement) in lieu of holidays not taken except as required by law or as set out under sub-clause 9.2. 
+ 
+ 
+
+ 
+ 
+ 
+ 9.2 
+ 
+ Upon termination of this Agreement for whatever reason the Executive shall be entitled to payment in lieu of such of his holiday entitlement under sub-clause 9.1 as has accrued (on a pro rata basis) in the holiday year in which the Termination Date falls but has not been taken or such holiday the Executive is entitled to under sub-clause 9.1 that has been carried forward in accordance with clause 9.1. If appropriate, the Executive shall repay to the Company any salary received in respect of holiday taken prior to the Termination Date in excess of his accrued entitlement under sub-clause 9.1. In either case (and for the purposes of Regulation 14 of the Working Time Regulations 1998) the payment shall be calculated by multiplying the unused or excess entitlement (as the case may be) by 1/260 of the Executive's salary at that time. 
+ 
+ 
+ 
+ 10 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 9.3 
+ 
+ Subject to clause 9.2, the Company shall be entitled to require the Executive to take all or any part of any accrued untaken holiday entitlement during any period of notice to terminate the Executive's employment (including, for the avoidance of doubt, during any period of garden leave pursuant to clause 18). If the Company exercises this right, the Executive must obtain the prior agreement of the Board to the actual days to be taken as holiday. Save to the extent required by the Working Time Regulations 1998, the Executive's entitlement under sub-clause 9.1 shall not accrue during any period of absence from work due to sickness or injury in excess of 90 continuous days (unless otherwise agreed by the Company in its discretion up to a maximum of 120 continuous days) or during any period of unpaid leave (excluding statutory additional maternity, paternity or adoption leave). 
+ 
+ 
+
+ 
+ 
+ 
+ 10. 
+ 
+ SICKNESS AND INJURY 
+ 
+ 
+
+ 
+ 
+ 
+ 10.1 
+ 
+ If the Executive is absent from work as a result of sickness or injury he must: 
+ 
+ 
+
+ 
+ 
+ 
+ 10.1.1 
+ 
+ notify a member of the Board or the Company Secretary as soon as practicable on the first day of his absence; 
+ 
+ 
+
+ 
+ 
+ 
+ 10.1.2 
+ 
+ if the period of absence is less than eight consecutive calendar days, submit to the Company on his return a certificate of sickness or injury completed by himself; 
+ 
+ 
+
+ 
+ 
+ 
+ 10.1.3 
+ 
+ if the period of absence is eight consecutive calendar days or more, submit to the Company without delay a medical certificate signed by a practising medical practitioner in respect of each week of absence after the first. 
+ 
+ 
+
+ 
+ 
+ 
+ 10.2 
+ 
+ The Executive agrees that he shall at the expense of the Company and if directed to do so by the Board at any time undergo a medical examination by a medical practitioner nominated by the Company and shall authorise (and does hereby authorise) such medical practitioner to disclose to the Company and provide (for the Company to retain) a copy of any medical report, diagnosis or prognosis made or produced in relation to any such medical examination. The Executive further agrees that he shall authorise the medical practitioner and the Company to discuss together any matters arising from such medical report, diagnosis or prognosis. 
+ 
+ 
+
+ 
+ 
+ 
+ 10.3 
+ 
+ The Executive shall, subject to compliance with sub-clauses 10.1 and 10.2 and to clause 17, be entitled to 
+ 
+ 
+
+ 
+ 
+ 
+ 10.3.1 
+ 
+ payment of his salary at the full rate less any social security or other state benefits or payments due under any health and disability scheme payable to him, whether claimed or not (and the Executive shall inform the Company of his entitlement to any such payments or benefits), and 
+ 
+ 
+
+ 
+ 
+ 10.3.2 
+ provision of all contractual benefits set out in this Agreement save as set out below 
+ 
+ during any periods of absence from work as a result of sickness or injury up to 90 days in aggregate in any twelve consecutive months (unless otherwise agreed by the Company in its discretion up to a maximum of 120 days) in aggregate in any twelve consecutive months. The Executive shall not be entitled to any payment of salary or provision of contractual benefits during any absence in excess of that maximum and any payment or provision made in respect of such period shall be at the absolute discretion of the Company. 
+ 
+ 
+
+ 
+ 
+ 
+ 10.4 
+ 
+ The Company shall pay statutory sick pay, where appropriate, in accordance with the legislation in force at the time of absence, and any payment of salary in accordance with this clause shall go towards discharging its liability to pay statutory sick pay. 
+ 
+ 
+ 
+ 11 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 11. 
+ 
+ INTERESTS IN OTHER BUSINESSES 
+ 
+ Save with the prior written consent of the Chairman of the Board (consent not to be unreasonably withheld and it being acknowledged that the Executive shall not hold more than three non-executive directorships at any one time), the Executive shall not during the continuance of his employment be engaged or interested (except: i) as the holder for investment of up to 5% of any class of securities which are quoted or dealt in on a Recognised Investment Exchange which are not the securities of any company which competes or proposes to compete with the business of the Company or any of its Associates; or ii) in relation to securities which are not quoted or dealt in on a Recognised Investment Exchange, where: a) those securities are not securities of any company which competes or proposes to compete with the business of the Company or any of its Associates; or b) those securities, which are securities of any company which competes or proposes to compete with the business of the Company or any of its Associates, have been expressly agreed to by the Chairman in writing), nor make preparations to be engaged or interested either directly or indirectly in any business or occupation (excluding any charitable work) other than the business of the Company and its Associates. Consent is hereby given in relation to the Executive's non-executive directorships with Solarcentury Holdings Ltd, Joh. Friedrich Behrens AG and Lucis Technologies Ltd. The Board and the Executive shall periodically review the Executive’s non-executive directorships, and where the Board and the Executive come to the view that the Executive’s non-executive directorships conflict (or are reasonably likely to conflict) or unreasonably interfere with the proper performance of the Executive's roles as CEO or director, the Board and the Executive shall agree upon an appropriate solution in respect of the Executive’s non- executive directorships. 
+ 
+ 
+
+ 
+ 
+ 
+ 12. 
+ 
+ SHARE DEALINGS 
+ 
+ The Executive shall at all times comply with every rule of law and every regulation of any applicable Recognised Investment Exchange or regulatory authority in relation to any dealings in any shares or their securities in any company and in relation to inside information. During the employment the Executive shall also comply with any share dealing code from time to time in place within the Company or the PLC Company. 
+ 
+ 
+
+ 
+ 
+ 
+ 13. 
+ 
+ INTELLECTUAL PROPERTY 
+ 
+ In this clause 13, "Intellectual Property Rights" means all inventions (whether patentable or not), patents, utility models, petty patents, registered designs, design rights, database rights, copyright and related rights, topography rights, plant variety rights, trade marks, service marks, logos, get up, trade names, domain names, (in each case whether registered or unregistered) and including any applications for registration and any renewals or extensions of and rights to claim priority from, any of the foregoing and, in each case, the goodwill attaching to any of the foregoing, rights to sue for passing off or for unfair competition, all know how, confidential information and trade secrets and any rights or forms of protection of a similar nature or having equivalent or similar effect to any of them which subsist now or will subsist in the future anywhere in the world. 
+ 
+ 
+
+ 
+ 
+ 
+ 13.1 
+ 
+ If during his employment under this Agreement the Executive in the course of his normal duties or other duties specifically assigned to him (whether or not during normal working hours or using Company premises, resources or facilities) either alone or in conjunction with any other person: 
+ 
+ 
+
+ 
+ 
+ 13.1.1 
+ makes, discovers, develops or produces any invention, innovation, process, improvement or development (whether or not patentable or capable of registration and whether or not recorded in any medium) ( "Inventions" ); or 
+ 
+ 
+
+ 
+ 
+ 
+ 13.1.2 
+ 
+ originates any design, trade mark, logo, know how, database, artistic or literary work (in each case whether registerable or not) or other work ( "Works" ); or 
+ 
+ 
+
+ 
+ 
+ 
+ 13.1.3 
+ 
+ creates any other Intellectual Property Rights, 
+ 
+ then he shall forthwith disclose the same to the Company and shall (subject to sub-clauses 13.2, 13.3, 13.4, 13.5 and 13.6) hold such Inventions, Works and Intellectual Property Rights on trust for the Company and he hereby undertakes to keep confidential all information about and details of the Inventions, the Works and the Intellectual Property Rights. 
+ 
+ 
+ 
+ 12 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 13.2 
+ 
+ The Executive hereby assigns wholly and absolutely with full title guarantee including the right to sue for damages for past infringements to the Company, by way of future assignment, the copyright and future copyright, and the design right and future design right, for the full term thereof throughout the world including any extensions or renewals arising in respect of all such Works referred to in clause 13.1. 
+ 
+ 
+
+ 
+ 
+ 
+ 13.3 
+ 
+ The Executive waives all his present and future moral rights (and all similar rights in other jurisdictions), if any, arising in respect of such Works referred to in clause 13.1. 
+ 
+ 
+
+ 
+ 
+ 
+ 13.4 
+ 
+ The Executive acknowledges that all Inventions, Works and Intellectual Property Rights referred to in clause 14.1 and all materials embodying them shall automatically belong to the Company to the fullest extent permitted by law and in particular: 
+ 
+ 
+
+ 
+ 
+ 
+ 13.4.1 
+ 
+ The Executive acknowledges that for the purpose of section 11 of the Copyright Designs and Patents Act 1988 the Company shall be the first owner of any copyright works made during the course of his employment. 
+ 
+ 
+
+ 
+ 
+ 
+ 13.4.2 
+ 
+ The Executive acknowledges that, for the purposes of the Copyright, Designs and Patents Act 1988, section 2(1) of the Registered Designs Act 1949 as amended by the Copyright, Designs and Patents Act 1988, and Article 14 of the Community Design Regulation EC No. 6/2002, the Company shall be treated as the original proprietor of a design, where such design is, created by him during his employment. 
+ 
+ 
+
+ 
+ 
+ 
+ 13.4.3 
+ 
+ The Executive acknowledges that for the purpose of the Copyright and Rights in Databases Regulations 1997 (as from time to time amended, extended or re- enacted) the Company shall be treated as the maker of any such database, where such database is created by him during his employment. 
+ 
+ 
+
+ 
+ 
+ 
+ 13.5 
+ 
+ Any Inventions made discovered or produced by the Executive referred to in clause 13.1 shall be the absolute property of the Company (except to the extent, if any, provided otherwise by section 39 of the Patents Act 1977) and the Executive shall, without additional payment, if and when required by the Company (whether during the continuance of his employment or afterwards) and at its expense, apply, or join with the Company in applying, for any patent at the Company's expense, or other protection in any part of the world for any invention process or development. 
+ 
+ 
+
+ 
+ 
+ 
+ 13.6 
+ 
+ The Executive shall execute all documents and do all acts (both during and after his employment by the Company) necessary to confirm the vesting in the Company or its nominee absolutely of title to and/or registering in the name of the Company or its nominee any or all applicable Inventions, Works and/or Intellectual Property Rights referred to in clause 13.1 (except only to the extent that by virtue of Section 39 of the Patents Act 1977 such Intellectual Property Rights fail to vest in the Company) in any or all countries. 
+ 
+ 
+
+ 
+ 
+ 
+ 13.7 
+ 
+ The Executive agrees and undertakes that he shall execute such deeds or documents and do all such acts and things as may be necessary or desirable (both during and after his employment by the Company) to protect and maintain the rights of the Company in respect of the matters referred to in sub-clauses 13.1 to 13.5 (inclusive). 
+ 
+ 
+
+ 
+ 
+ 
+ 13.8 
+ 
+ The Executive shall do nothing (whether by omission or commission) during his employment or at any times thereafter to affect or imperil the validity of any Intellectual Property Rights obtained, applied for or to be applied for by the Company or its nominee. 
+ 
+ 
+ 
+ 13 
+ 
+
+ 
+ 
+ The Executive shall not disclose the subject matter of any Inventions which may be patentable before the Company has had the opportunity to apply for any patent. 
+ 
+ 
+
+ 
+ 
+ 
+ 13.9 
+ 
+ Nothing in this Agreement shall oblige the Company, its nominee or any Associates to seek patent or other protection for any Invention or to exploit any Invention. 
+ 
+ 
+
+ 
+ 
+ 13.10 
+ The Executive acknowledges that, because of the nature of his duties and the particular responsibilities arising from the nature of his duties, he has, and shall have at all times while he is employed by the Company, a special obligation to further the interests of the Company. 
+ 
+ 
+
+ 
+ 
+ 
+ 14. 
+ 
+ CONFIDENTIALITY 
+ 
+ 
+
+ 
+ 
+ 
+ 14.1 
+ 
+ Save in the proper performance of his duties under this Agreement or if authorised to do so by the Board or ordered to do so by a court of competent jurisdiction or required to do so by any statutory or regulatory authority, the Executive shall not during his employment or afterwards directly or indirectly: 
+ 
+ 
+
+ 
+ 
+ 14.1.1 
+ use for his own benefit or the benefit of any other person or to the detriment of the Company or any of its Associates; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14.1.2 
+ 
+ disclose to any person; or 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14.1.3 
+ through any failure to exercise all due care and diligence cause or permit any unauthorised disclosure of 
+ 
+ any Confidential Information. 
+ 
+ 
+
+ 
+ 
+ 
+ 14.2 
+ 
+ The Executive shall use his best endeavours during the continuance of his employment to prevent the publication, disclosure or misuse of any Confidential Information and shall not remove, nor authorise others to remove, from the premises of the Company or of any of its Associates any records of Confidential Information except to the extent strictly necessary for the proper performance of his or the other person's duties to the Company or any of its Associates. 
+ 
+ 
+
+ 
+ 
+ 
+ 14.3 
+ 
+ The Executive shall promptly disclose to the Company full details of any knowledge or suspicion he has (whether during or after his employment) of any actual, threatened or pending publication, disclosure or misuse by any person (including the Executive himself) of any Confidential Information and shall provide all reasonable assistance and co- operation (at the Company’s expense) as the Company may request in connection with any action or proceedings it may take or contemplate in respect of any such publication, disclosure or misuse. 
+ 
+ 
+
+ 
+ 
+ 
+ 14.4 
+ 
+ This clause 14 is without prejudice to the Executive's equitable duty of confidence. 
+ 
+ 
+
+ 
+ 
+ 
+ 14.5 
+ 
+ Nothing in this Agreement shall preclude the Executive from making a protected disclosure in accordance with the provisions set out in the Employment Rights Act 1996. 
+ 
+ 
+
+ 
+ 
+ 
+ 15. 
+ 
+ PROTECTION OF INTERESTS OF COMPANY ETC. 
+ 
+ 
+
+ 
+ 
+ 
+ 15.1 
+ 
+ In this clause: 
+ 
+ 
+
+ 
+ 
+ 
+ 15.1.1 
+ 
+ "Competing Business" shall mean any business carried on within England, Wales, Scotland, Northern Ireland, Ireland, the United States of America, Australia, Philippines, Singapore or Uruguay or any other country in which the PLC Company, the Company or any of its Subsidiaries or Associates as at the Termination Date carries on or proposes to carry on (in the immediate or foreseeable future) any business, which wholly or partly competes or proposes to compete with any business which at the Termination Date the PLC Company, the Company or any of its Subsidiaries or Associates carries on, save for any such business in any such country in which the Executive was not involved to any material extent at any time during the 12 months up to and including the Termination Date and in relation to which the Executive did not possess material Confidential Information as at the Termination Date; 
+ 
+ 
+ 
+ 14 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 15.1.2 
+ 
+ "Prospective Business" shall mean any business carried on within England, Wales, Scotland, Northern Ireland, Ireland, the United States of America, Australia, Philippines, Singapore or Uruguay or any other country in which the PLC Company, the Company or any of its Subsidiaries or Associates as at the Termination Date carries on or proposes to carry on (in the immediate or foreseeable future) any business, which wholly or partly competes or proposes to compete with any business which at the Termination Date the PLC Company, the Company or any of its Subsidiaries or Associates proposes to carry on in the immediate or foreseeable future, save for any such business in any such country in relation to which the Executive did not possess material Confidential Information as at the Termination Date; 
+ 
+ 
+
+ 
+ 
+ 
+ 15.1.3 
+ 
+ "Restricted Goods or Services" shall mean goods or services of the same type as or similar to or competitive with any goods or services supplied by the PLC Company, the Company or any of its Subsidiaries or Associates at the Termination Date, in the sale or supply of which the Executive shall have been involved to any material extent at any time during the 12 months up to and including the Termination Date; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15.1.4 
+ references to acting directly or indirectly shall include (without prejudice to the generality of that expression) acting alone or on behalf of any other person or jointly with or through or by means of any other person. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 15.2 
+ 
+ Until the expiration of 6 months from the Termination Date, except in the event of a termination of this Agreement by the Company in repudiatory breach of its terms, the Executive shall not directly or indirectly: 
+ 
+ 
+
+ 
+ 
+ 15.2.1 
+ carry on or be interested in a Competing Business SAVE that he may hold for investment: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ up to 3% of any class of securities quoted or dealt in on a Recognised Investment Exchange; and 
+ 
+ 
+ 
+ 
+ 
+ 
+ (B) 
+ up to 10% of any class of securities not so quoted or dealt; 
+ 
+ 
+
+ 
+ 
+ 
+ 15.2.2 
+ 
+ act as a consultant or employee or worker or officer in any executive, sales, marketing, research or technical capacity in a Competing Business or provide technical, commercial or professional advice to a Competing Business, SAVE to the extent that the Executive demonstrates to the reasonable satisfaction of the Board that his duties or work (i) shall relate exclusively to work of a kind or nature with which he was not concerned to any extent (other than de minimis) at any time during the 12 months up to and including the Termination Date and (ii) shall not involve a material risk of deliberate or inadvertent disclosure or use of any of the Confidential Information possessed by the Executive; 
+ 
+ 
+
+ 
+ 
+ 
+ 15.2.3 
+ 
+ act as a consultant or employee or worker or officer in any executive, sales, marketing, research or technical capacity in a Prospective Business or provide technical, commercial or professional advice to a Prospective Business, SAVE to the extent that the Executive demonstrates to the reasonable satisfaction of the Board that his duties or work (i) shall relate exclusively to work of a kind or nature with which he was not concerned to any extent (other than de minimis) at any time during the 12 months up to and including the Termination Date and (ii) shall not involve a material risk of deliberate or inadvertent disclosure or use of any of the Confidential Information possessed by the Executive, 
+ 
+ 
+ 
+ 15 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 15.3 
+ 
+ Until the expiration of 6 months from the Termination Date, except in the event of a termination of this Agreement by the Company in repudiatory breach of its terms, the Executive shall not directly or indirectly accept orders for or supply or cause orders to be accepted for or cause to be supplied Restricted Goods or Services to any person: 
+ 
+ 
+
+ 
+ 
+ 
+ 15.3.1 
+ 
+ who was provided with goods or services by the PLC Company, the Company or any of its Subsidiaries or Associates at any time during the 12 months up to and including the Termination Date and with whom the Executive dealt in connection with the provision of such goods or services at any time during the said 12 month period or in relation to whose dealings with the PLC Company, the Company or any of its Subsidiaries or Associates the Executive possessed a material amount of Confidential Information as at the Termination Date; or 
+ 
+ 
+
+ 
+ 
+ 
+ 15.3.2 
+ 
+ who was negotiating with the PLC Company, the Company or any of its Subsidiaries or Associates in relation to orders for or the supply of goods or services at any time during the 12 months up to and including the Termination Date and with whom the Executive dealt at any time during the 12 months up to and including the Termination Date or in relation to whose dealings with the Company or any of its Subsidiaries or Associates the Executive possessed a material amount of Confidential Information as at the Termination Date. 
+ 
+ 
+
+ 
+ 
+ 
+ 15.4 
+ 
+ Until the expiration of 6 months from the Termination Date, except in the event of a termination of this Agreement by the Company in repudiatory breach of its terms, the Executive shall not directly or indirectly solicit, canvass or approach or endeavour to solicit, canvass or approach or cause to be solicited, canvassed or approached any person: 
+ 
+ 
+
+ 
+ 
+ 
+ 15.4.1 
+ 
+ who was provided with goods or services by the PLC Company, the Company or any of its Subsidiaries or Associates at any time during the 12 months up to and including the Termination Date and with whom the Executive dealt in connection with the provision of such goods or services at any time during the said 12 month period or in relation to whose dealings with the Company or any of its Subsidiaries or Associates the Executive possessed a material amount of Confidential Information as at the Termination Date; or 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15.4.2 
+ 
+ who was negotiating with the PLC Company, the Company or any of its Subsidiaries or Associates in relation to orders for or the supply of goods or services at any time during the 12 months up to and including the Termination Date and with whom the Executive dealt at any time during the 12 months up to and including the Termination Date or in relation to whose dealings with the PLC Company, the Company or any of its Subsidiaries or Associates the Executive possessed a material amount of Confidential Information as at the Termination Date; 
+ 
+ for the purpose of offering to that person Restricted Goods or Services. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 15.5 
+ Until the expiration of 6 months from the Termination Date, except in the event of termination of this Agreement by the Company in repudiatory breach of its terms, the Executive shall not directly or indirectly: 
+ 
+ 
+
+ 
+ 
+ 
+ 15.5.1 
+ 
+ solicit, canvass or approach or endeavour to solicit, canvass or approach or cause to be solicited, canvassed or approached for the purpose of: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ obtaining the supply of goods or services of the same type as or similar to any goods or services supplied to the PLC Company, the Company or any of its Subsidiaries or Associates at the Termination Date; or 
+ 
+ 
+ 
+ 16 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ interfering with or endeavouring to terminate or reduce the levels of such supplies to the PLC Company, the Company or any of its Subsidiaries or Associates, 
+ 
+ any person who supplied the PLC Company, the Company or any of its Subsidiaries or Associates with any such goods or services at any time during the 12 months up to and including the Termination Date and with whom the Executive dealt at any time during the said 12 month period or in relation to whom as at the Termination Date the Executive possessed a material amount of Confidential Information where it is reasonably likely that such soliciting, canvassing or approaching would, if successful, materially prejudice the ability of the Company or any of its Subsidiaries or Associates to procure or the terms on which it is able to procure the supply of such goods or services; or 
+ 
+ 
+
+ 
+ 
+ 
+ 15.5.2 
+ 
+ knowingly interfere with any arrangements between the PLC Company, the Company or any of its Subsidiaries or Associates and any third party or parties whereby the PLC Company, the Company or the relevant Subsidiary or Associate holds a licence or permission to carry on its business or benefits from discounts or other beneficial trading terms extended to it by a supplier of goods or services by virtue of such arrangements; or 
+ 
+ 
+
+ 
+ 
+ 
+ 15.5.3 
+ 
+ knowingly or recklessly do anything which is or is calculated to be prejudicial to the interests of the PLC Company, the Company or any of its Subsidiaries or Associates or the business of the Company or any of its Subsidiaries or Associates or which results or may result in the discontinuance of any contract or arrangements of benefit to the PLC Company, the Company or any of its Subsidiaries or Associates; 
+ 
+ and for these purposes any agreement between the PLC Company, the Company or any of its Subsidiaries or Associates and a third party whereby that third party sources customers or goods or services for the PLC Company, the Company or any of its Subsidiaries or Associates shall also be deemed to constitute a supply of a service by such third party. 
+ 
+ 
+
+ 
+ 
+ 
+ 15.6 
+ 
+ Until the expiration of 6 months from the Termination Date, except in the event of a termination of this Agreement by the Company in repudiatory breach of its terms, the Executive shall not directly or indirectly solicit or entice away or endeavour to solicit or entice away or cause to be solicited or enticed away from the PLC Company, the Company or any of its Subsidiaries or Associates any person who is, and was at the Termination Date, employed or directly or indirectly engaged by the PLC Company, the Company or any of its Subsidiaries or Associates in an executive, sales, marketing, research or technical capacity or whose departure from the PLC Company, the Company or any of its Subsidiaries or Associates would have a material adverse effect on the business of such company, and with whom the Executive worked at any time during the 12 months up to and including the Termination Date or in relation to whom as at the Termination Date the Executive possessed a material amount of Confidential Information, with a view to inducing that person to leave such employment or engagement (whether or not such person would commit a breach of his contract of employment or engagement by reason of leaving). 
+ 
+ 
+
+ 
+ 
+ 15.7 
+ In the event that the Executive is placed on garden leave pursuant to sub-clause 18.1, during which the Company exercises its rights under sub-clause 18.1.4 or 18.1.5, the period of any such garden leave shall be deducted from the period of the restrictions contained in sub-clauses 15.2, 15.3, 15.4, 15.5 and 15.6. 
+ 
+ 
+
+ 
+ 
+ 
+ 15.8 
+ 
+ The restrictions in clause 15.2 will only apply if the Executive receives a remuneration payment (including base salary, the cost to the Company of the contractual benefits referred to in clauses 6.1 to 6.4, bonus and any sums accrued and outstanding under the carried interest arrangement) in respect of the relevant period of restriction. For the avoidance of doubt, the Executive shall be deemed to have received a remuneration payment if the period of restriction encompasses a period in respect of which he has been paid in accordance with clause 17.10. 
+ 
+ 
+ 
+ 17 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 15.9 
+ 
+ Each of the restrictions in sub-clauses 15.2.1, 15.2.2, 15.2.3, 15.3.1, 15.3.2, 15.4.1, 15.4.2, 15.5.1, 15.5.2, 15.5.3, 15.6 hereof is separate and severable and in the event of any such restriction (including the defined expressions in sub-clauses 1.1.1, 1.1.5, 15.1.1, 15.1.2, 15.1.3 and 15.1.4) or sub-clause 15.7 being determined as being unenforceable in whole or in part for any reason such unenforceability shall not affect the enforceability of the remaining restrictions or, in the case of part of a restriction being unenforceable, the remainder of that restriction. The restrictions in sub-clauses 15.2.1, 15.2.2 and 15.2.3 shall be deemed to be separate and severable in relation to each of the countries set out in sub- clauses 15.1.1 and 15.1.2. 
+ 
+ 
+
+ 
+ 
+ 
+ 15.10 
+ 
+ After the Termination Date (for whatever reason and howsoever caused) or, if later, the date of his ceasing to be a director of the Company the Executive shall not represent himself or permit himself to be held out as being in any way connected with or interested in the business of the PLC Company, the Company or of any of its Subsidiaries or Associates and shall not use in connection with any business the name of the Company or any of its Subsidiaries or Associates or any name capable of confusion therewith. 
+ 
+ 
+
+ 
+ 
+ 
+ 15.11 
+ 
+ Save for a protected disclosure made in accordance with the provisions set out in the Employment Rights Act 1996 and save as required by law or the regulations of any statutory or regulatory authority, the Executive shall not during his employment or after the Termination Date make, publish or cause to be made or published any statement or remark which is likely or intended to harm the business or reputation of the Company or any of its Subsidiaries or Associates or any current or former officer, employee, consultant or agent of any such company. 
+ 
+ 
+
+ 
+ 
+ 
+ 15.12 
+ 
+ The restrictions entered into by the Executive in sub-clauses 14, 15.2, 15.3, 15.4, 15.5, 15.6, 15.7, 15.8, 15.10 and 15.11 are given to the Company to hold as trustee for itself and for each and any of its Subsidiaries and Associates and the Executive agrees that he shall at the request and cost of the Company enter into a further agreement with any such company whereby he shall accept restrictions corresponding to the restrictions in this Agreement (or such of them as that company in its discretion shall deem appropriate). The Company declares that insofar as these restrictions relate to such Subsidiary or Associate it holds the benefit of them as trustee for such Subsidiary or Associate as the case may be. As regards any powers, authorities and discretions vested in the Company as trustee hereunder or by operation of law, the Company shall have absolute and uncontrolled discretion as to the exercise or non-exercise thereof and shall not (save in the case of its gross negligence or wilful misconduct) be responsible for any loss, costs, damages or expenses that may result from the exercise or non-exercise thereof. 
+ 
+ 
+
+ 
+ 
+ 
+ 15.13 
+ 
+ Following the Termination Date, the Company reserves the right forthwith on written notice to the Executive given in accordance with clause 29 to assign its rights under clauses 14 and 15 to any successor in business to the Company or to any of its Subsidiaries or Associates. 
+ 
+ 
+
+ 
+ 
+ 
+ 15.14 
+ 
+ The Executive acknowledges that he has had the opportunity to take legal advice in relation to the restrictions contained in this clause 15 and that he considers them reasonable and necessary for the protection of the legitimate interests of the Company and its Subsidiaries and Associates. 
+ 
+ 
+
+ 
+ 
+ 
+ 15.15 
+ 
+ Without prejudice to the Executive's obligations under clauses 14 and 15, in the event that, during the continuance of this Agreement or during the period for which all or any of the restrictions set out in this clause 15 are expressed to apply, the Executive receives from any person an offer of employment or engagement (whether oral or in writing) which the Executive is considering whether to accept, the Executive shall provide to such offeror a copy of the restrictions contained in clauses 14 and 15 of this Agreement. In the event that the Executive accepts any such offer, he shall immediately inform the Board of the identity of the offeror and a description of the principal duties of the position accepted and shall confirm to the Board in writing that he has provided a copy of the restrictions contained in clauses 14 and 15 of this Agreement to such offeror. 
+ 
+ 
+ 
+ 18 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 16. 
+ 
+ INTERIM APPOINTMENT 
+ 
+ The Company shall be entitled: 
+ 
+ 
+
+ 
+ 
+ 16.1 
+ during the whole or part of any period of notice to terminate the Executive's employment served by either party; and/or 
+ 
+ 
+
+ 
+ 
+ 
+ 16.2 
+ 
+ if the Executive is absent from work as a result of sickness or injury or other leave for more than 90 consecutive days, for the period of continued absence, 
+ 
+ to appoint another person or persons to hold the same or similar job title on an interim basis and to carry out all or any of the Executive's duties instead of him. 
+ 
+ 
+
+ 
+ 
+ 
+ 17. 
+ 
+ TERMINATION 
+ 
+ 
+
+ 
+ 
+ 
+ 17.1 
+ 
+ Either party shall be entitled to terminate the employment of the Executive by giving notice to the other in accordance with sub-clause 3.2. 
+ 
+ 
+
+ 
+ 
+ 
+ 17.2 
+ 
+ Notwithstanding sub-clause 3.2 and without prejudice to its rights under the other provisions of this clause 17, the Company shall be entitled to terminate the employment of the Executive with immediate effect by giving summary notice if the Executive commits a repudiatory breach of this Agreement or if the Board reasonably considers that any of the events set out below occur or have occurred (whether or not such event would otherwise be a repudiatory breach): 
+ 
+ 
+
+ 
+ 
+ 
+ 17.2.1 
+ 
+ the Executive commits a serious or persistent breach of any material term of this Agreement; 
+ 
+ 
+
+ 
+ 
+ 17.2.2 
+ the Executive is guilty of conduct (whether or not related to his employment or office) likely in the reasonable opinion of the Board to bring himself or the Company or any Associate into disrepute; 
+ 
+ 
+
+ 
+ 
+ 
+ 17.2.3 
+ 
+ the Executive repeatedly neglects, fails or refuses to carry out any of the duties properly assigned to him under this Agreement; 
+ 
+ 
+
+ 
+ 
+ 
+ 17.2.4 
+ 
+ the Executive becomes bankrupt or compounds with his creditors; 
+ 
+ 
+
+ 
+ 
+ 
+ 17.2.5 
+ 
+ save in the case of impending insolvency where the Board does not heed the Executive's reasonable recommendations and the Executive considers himself obliged to resign, the Executive without the express written consent of the Board resigns from (other than pursuant to the Company’s request under sub-clause 17.6), or fails to offer himself for re-election to, his office as a director of the Company or of any Associate of which he has been appointed a director, or if he shall be disqualified from holding or shall cease to be qualified to hold office as a director by any order of the Court or under any provision of general law from time to time; 
+ 
+ 
+
+ 
+ 
+ 
+ 17.2.6 
+ 
+ the Executive commits any serious or persistent breach of the Company's equal opportunity or health and safety policy in force from time to time; or 
+ 
+ 
+
+ 
+ 
+ 
+ 17.2.7 
+ 
+ the Executive 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ is disqualified or disbarred from membership of; or 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ is subject to any prohibition, censure, criticism or disciplinary sanction by; or 
+ 
+ 
+ 
+ 19 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ (C) 
+ 
+ fails to be granted or obtain, or ceases to hold, any necessary licences, permissions, consents, approvals or qualifications (in unrestricted form) from 
+ 
+ any professional, regulatory or other body or authority, which prevents him from performing any of his duties under this Agreement or undermines the confidence of the Board in his continued employment by the Company. 
+ 
+ For the avoidance of doubt, in the circumstance of a termination pursuant to this clause 17.2 the Executive shall have no pro-rata entitlement to any bonus or carried interest arrangement in respect of that year. 
+ 
+ 
+
+ 
+ 
+ 
+ 17.3 
+ 
+ The parties to this Agreement agree that termination under sub-clause 17.2 shall be deemed to be for a substantial reason justifying dismissal within Section 98(1)(b) of the Employment Rights Act 1996. The parties further agree that termination under sub-clause 
+ 17.2 shall be deemed to be by reason of the Executive's conduct within Section 86(6) of the Employment Rights Act 1996. 
+ 
+ 
+
+ 
+ 
+ 
+ 17.4 
+ 
+ In order to investigate a complaint against the Executive of misconduct and to allow the Company to carry out whatever investigations it deems appropriate, the Company may suspend the Executive for a reasonable period on full pay and other contractual benefits save as set out below and may do any or all of the following: 
+ 
+ 
+
+ 
+ 
+ 
+ 17.4.1 
+ 
+ exclude the Executive from all or any premises of the Company or any Associate; or 
+ 
+ 
+
+ 
+ 
+ 
+ 17.4.2 
+ 
+ require the Executive to abstain from engaging in any contact (whether or not initiated by him) which concerns any of the business affairs of the Company or any Associate with any customer, client, supplier, other business connection, employee, director, officer, consultant or agent of the Company or any Associate; or 
+ 
+ 
+
+ 
+ 
+ 
+ 17.4.3 
+ 
+ require the Executive to deliver up to the Company (to whomever the Board specifies), without destruction, deletion or redaction of any data or images, any correspondence, documents, laptops, computer drives, computer disks and other computer equipment, tapes, mobile telephones, or BlackBerry wireless devices (or similar equipment) in his possession or under his control and which belong to the Company or any of its Associates, and to provide to the Company full details of all then current passwords or other privacy or security measures used by the Executive in respect of any such equipment; or 
+ 
+ 
+
+ 
+ 
+ 
+ 17.4.4 
+ 
+ suspend or limit the Executive’s access to the Company’s and any Associate's computer, e-mail, telephone, voicemail and other communication systems or databases. 
+ 
+ 
+
+ 
+ 
+ 
+ 17.5 
+ 
+ During any period of suspension pursuant to sub-clause 17.4, the Executive shall (for the avoidance of doubt) continue to be bound by the duties of fidelity and good faith, shall hold himself available during normal business hours (other than agreed holidays or authorised absence for sickness or injury or other authorised leave) to perform any duties that may be assigned to him (if any), and shall continue to comply with the terms of this Agreement including clauses 11 to 14 (inclusive). Except where subsequently reinstated, the Executive shall have no eligibility for any bonus (including the bonus referred to in sub- clause 5.5) in respect of the period of any such suspension and shall have no claim in respect of the effect (if any) which any such suspension may have on his eligibility in respect of any other period. If the Executive ceases to be available for work as a result of sickness or injury during any period of suspension pursuant to sub-clause 17.4, the suspension will be rescinded until such time as the Executive becomes fit for work. Notwithstanding such rescission, the Executive must continue to comply with any instruction issued by the Company in the terms set out in sub-clauses 17.4.1 to 17.4.4. 
+ 
+ 
+ 
+ 20 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 17.6 
+ 
+ On the Termination Date (for whatever reason and howsoever caused), or at the Company's request following the Executive having been placed on garden leave pursuant to sub-clause 18.1, the Executive shall promptly: 
+ 
+ 
+
+ 
+ 
+ 
+ 17.6.1 
+ 
+ resign (if he has not already done so) from any and all offices and appointments held by him in or on behalf of the Company or any of its Associates; 
+ 
+ 
+
+ 
+ 
+ 17.6.2 
+ deliver up to the Company (to whomever the Board specifies), without destruction, deletion or redaction of any data or images, any and all originals, copies or extracts of: 
+ 
+ 
+
+ 
+ 
+ 
+ (A) 
+ 
+ correspondence, documents (including lists of customers), laptops, computer drives, computer disks, other computer equipment (including leads and cables), tapes, mobile telephones, BlackBerry wireless devices (or similar equipment), credit cards, security passes, keys, car provided by the Company (which is to be returned in good condition allowing for fair wear and tear) and other tangible items, which are in his possession or under his control and which belong to or are leased or hired by the Company or any of its Associates; and 
+ 
+ 
+
+ 
+ 
+ 
+ (B) 
+ 
+ correspondence and documents (including lists of customers) in his possession or under his control which contain or refer to any Confidential Information; and 
+ 
+ 
+
+ 
+ 
+ 
+ (C) 
+ 
+ minutes of meetings and other papers of the Board and of any board of directors of any Associate which are in his possession or under his control 
+ 
+ and provide to the Company full details of all then current passwords or other privacy or security measures used by the Executive in respect of any equipment required to be delivered up to the Company pursuant to sub-clause 17.6.2(A); and 
+ 
+ 
+
+ 
+ 
+ 
+ 17.6.3 
+ 
+ having forwarded a copy to the Company, irretrievably delete as far as technically possible any and all Confidential Information from any laptops, computer drives, computer disks, tapes, mobile telephones, BlackBerry wireless devices (or similar equipment) or other re-usable material in the Executive's possession or under his control (but which do not belong to the Company or any of its Associates). 
+ 
+ 
+
+ 
+ 
+ 
+ 17.7 
+ 
+ The Executive irrevocably authorises the Company in his name and on his behalf to execute all documents and do all things necessary to effect the resignations referred to in sub-clause 17.6.1, in the event of his failure to do so within seven days of any request or the Termination Date (as the case may be). The Executive shall produce such evidence of his compliance with sub-clauses 17.6.2 and 17.6.3 as the Company may reasonably require. In the event of the Executive's death prior to compliance with the obligations in sub-clauses 17.6.2 and 17.6.3, the Executive's estate and heirs shall be bound by such obligations. 
+ 
+ 
+
+ 
+ 
+ 17.8 
+ Any obligations of the Executive under this Agreement which are expressed to continue after the Termination Date shall continue in full force and effect notwithstanding the termination of his employment. 
+ 
+ 
+
+ 
+ 
+ 
+ 17.9 
+ 
+ For the purposes of sub-clause 17.10, the "Period" shall mean: 
+ 
+ 
+
+ 
+ 
+ 
+ 17.9.1 
+ 
+ the unexpired portion of any prior notice of termination of the Executive's employment which has already been given by the Executive or the Company (as at the date of service of notice pursuant to this sub-clause); or 
+ 
+ 
+
+ 
+ 
+ 17.9.2 
+ where no such prior notice has been given, the minimum period of notice of termination specified as to be given by the Company in sub-clause 3.2. 
+ 
+ 
+ 
+ 21 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 17.10 
+ 
+ The Company may, in its absolute discretion and without any obligation to do so, terminate the Executive's employment with immediate effect by giving him written notice given in accordance with clause 29 that it will make a payment of such sum as would have been payable by the Company to the Executive as base salary (for the avoidance of doubt, excluding any bonus, carry arrangement, other incentives or benefits) plus the cost to the Company of the contractual benefits referred to in clauses 6.1 to 6.4 in respect of the Period less any deductions which the Company may be required to make including in respect of income tax and employee's National Insurance contributions. If the Company gives such notice, the Executive agrees that his employment under this Agreement will terminate with effect from the date the notice was deemed given in accordance with clause 29 and the Company will make the payment specified herein in accordance with clause 17.12. If the Executive's employment is terminated pursuant to this clause 17.10 it is agreed that the Executive shall be entitled to participate in the bonus scheme and carried interest arrangement referred to in this Agreement in clauses 5.5 and 5.6 on a pro-rata basis in respect of the period up to the Termination Date (with any amounts payable under these schemes to be paid at the same time as payments are made under such schemes to other participants). For the avoidance of doubt, the termination of the Executive’s employment will not affect the Executive’s entitlements under the bonus scheme and carried interest arrangement other than in relation to the pro-rating of any benefit. 
+ 
+ 
+
+ 
+ 
+ 
+ 17.11 
+ 
+ Any such payment shall be accepted by the Executive in full and final settlement of all claims which he may have against the Company or any Associate arising out of his employment or its termination. The discretion to terminate the Executive's employment given to the Company by this sub-clause shall not preclude the Company from exercising any other right which it may have to terminate the Executive's employment or by otherwise dismissing him without notice and paying such compensation as may be agreed or otherwise determined by a court of law. 
+ 
+ 
+
+ 
+ 
+ 
+ 17.12 
+ 
+ Any payment of base salary and contractual benefits to be made to the Executive pursuant to clause 17.10 shall be made in two equal instalments. The first instalment shall be made within seven Working Days after the Termination Date and the second instalment shall be made no later than the date that falls 6 months after the Termination Date. The amount payable to the Executive under the second instalment shall be reduced by an amount equal to any payments or benefits received by the Executive from alternative employment or engagement after the Termination Date and up to the date on which the second instalment is due for payment. For the avoidance of doubt, alternative employment shall not take account of any role performed by the Executive in the 6 months following the Termination Date if the Executive performed the role before the Termination Date and/or it was disclosed and/or permitted as required under this Agreement. 
+ 
+ 
+
+ 
+ 
+ 
+ 17.13 
+ 
+ The Executive shall not be entitled to any payment pursuant to clause 17.10 if the Company is able to demonstrate (with appropriate supporting evidence) that it would otherwise have been entitled to terminate the employment of the Executive without notice in accordance with sub-clause 17.2. 
+ 
+ 
+
+ 
+ 
+ 
+ 18. 
+ 
+ GARDEN LEAVE 
+ 
+ 
+
+ 
+ 
+ 
+ 18.1 
+ 
+ Notwithstanding the provisions of clause 4, at any time after notice has been served by either party pursuant to sub-clause 3.2 or if the Executive resigns without giving due notice and the Company does not accept his resignation, the Company may in its discretion place the Executive on garden leave on full salary and other contractual benefits for up to a maximum of twelve months. It is agreed that the Executive shall be entitled to participate in the bonus scheme and carried interest arrangement referred to in this Agreement in clauses 5.5 and 5.6 on a pro-rata basis in respect of the period in which the Executive is on garden leave up to the Termination Date. For the avoidance of doubt, the Executive being on garden leave and/or under notice will not affect the Executive’s entitlements under the bonus scheme and carried interest arrangement other than in relation to the pro-rating of any benefit. During any such garden leave period the Company shall not be obliged to provide any work for the Executive or to assign to or vest in the Executive any powers, duties or functions and may for all or part of such garden leave period do any or all of the following: 
+ 
+ 
+ 
+ 22 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 18.1.1 
+ 
+ exercise its rights under clause 16; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18.1.2 
+ announce externally or internally or both that the Executive has given or been given notice of termination of his employment or office(s) and been placed on garden leave and (where applicable) that a substitute has been appointed; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18.1.3 
+ exclude the Executive from all or any premises of the Company or of any Associate; 
+ 
+ 
+
+ 
+ 
+ 
+ 18.1.4 
+ 
+ require the Executive to abstain from engaging in any contact (whether or not initiated by him) which concerns any of the business affairs of the Company or any Associate with any customer, client, supplier, other business connection, employee, director, officer, consultant or agent of the Company or any Associate without the prior written consent of the Board; 
+ 
+ 
+
+ 
+ 
+ 
+ 18.1.5 
+ 
+ require the Executive to carry out no duties; 
+ 
+ 
+
+ 
+ 
+ 
+ 18.1.6 
+ 
+ save where absent due to agreed holidays or authorised absence for sickness or injury or other authorised leave, require the Executive to undertake at his home or at such place reasonably nominated by the Company such reasonable duties (which may differ from the Executive's normal duties) as the Company may at its discretion assign and to provide any reasonable assistance requested by the Company; 
+ 
+ 
+
+ 
+ 
+ 
+ 18.1.7 
+ 
+ exercise its rights under sub-clause 9.3; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18.1.8 
+ suspend or limit the Executive’s access to the Company’s computer, e-mail, telephone, voicemail or other communication systems or databases; 
+ 
+ 
+
+ 
+ 
+ 
+ 18.1.9 
+ 
+ exercise its rights under sub-clause 17.6. 
+ 
+ 
+
+ 
+ 
+ 
+ 18.2 
+ 
+ During any garden leave period pursuant to sub-clause 18.1, the Executive shall: 
+ 
+ 
+
+ 
+ 
+ 18.2.1 
+ (for the avoidance of doubt) continue to be bound by the duties of fidelity and good faith; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18.2.2 
+ 
+ hold himself available during normal business hours (other than agreed holidays or authorised absence for sickness or injury or other authorised leave) to perform such duties as may be assigned to him, if any, and in the event that he fails to make himself available for duties assigned to him, he shall (notwithstanding any other provision of this Agreement) forfeit his right to salary and contractual benefits in respect of such period of non-availability; and 
+ 
+ 
+
+ 
+ 
+ 
+ 18.2.3 
+ 
+ continue to comply with the terms of this Agreement including clauses 11 to 14 (inclusive). 
+ 
+ 
+
+ 
+ 
+ 
+ 18.3 
+ 
+ Subject to 18.1, the Executive shall have no claim in respect of the effect (if any) which any garden leave period may have on his eligibility in respect of any bonus or other incentive arrangement. 
+ 
+ 
+
+ 
+ 
+ 
+ 19. 
+ 
+ AMALGAMATION AND RECONSTRUCTION 
+ 
+ 
+
+ 
+ 
+ 
+ 19.1 
+ 
+ If: 
+ 
+ 
+
+ 
+ 
+ 
+ 19.1.1 
+ 
+ the employment of the Executive is terminated: 
+ 
+ 
+
+ 
+ 
+ (A) 
+ by reason of the liquidation of the Company for the purpose of amalgamation or reconstruction; or 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (B) 
+ 
+ as part of any arrangement for the amalgamation of the undertaking of the Company not involving liquidation or for the transfer of the whole or part of the undertaking of the Company to any of its Associates; and 
+ 
+ 
+ 
+ 23 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 19.1.2 
+ 
+ the Executive is offered employment of a similar nature with the amalgamated or reconstructed or transferee company on terms not generally less favourable to him than the terms of this Agreement; 
+ 
+ the Executive shall have no claim against the Company or any Associate in respect of that termination. 
+ 
+ 
+
+ 
+ 
+ 
+ 20. 
+ 
+ DISCIPLINE AND GRIEVANCES 
+ 
+ 
+
+ 
+ 
+ 
+ 20.1 
+ 
+ The Executive is not subject to any particular Company disciplinary rules or disciplinary or dismissal procedures but should conduct himself in accordance with his duties under this Agreement and his fiduciary and other legal duties. 
+ 
+ The ACAS Code of Practice on discipline and grievance applies to the taking of some disciplinary decisions or decisions to dismiss, details of which can be obtained from the Company Secretary. 
+ 
+ 
+
+ 
+ 
+ 20.2 
+ If the Executive is dissatisfied with any disciplinary or dismissal decision or has any grievance relating to his employment, he should refer the matter to the Chairman of the Board. The reference will be dealt with in such manner as the Chairman determines. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21. 
+ 
+ ADDITIONAL PARTICULARS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21.1 
+ The following additional particulars are given for the purposes of the Employment Rights Act 1996: 
+ 
+ 
+
+ 
+ 
+ 21.1.1 
+ the employment of the Executive by the Company shall begin on 1 September 2016; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21.1.2 
+ 
+ no employment of the Executive with a previous employer counts as part of the Executive's continuous employment with the Company and his period of continuous employment shall begin on 1 September 2016; 
+ 
+ 
+
+ 
+ 
+ 
+ 21.1.3 
+ 
+ except as otherwise provided by this Agreement, there are no terms or conditions of employment relating to hours of work or to normal working hours or to entitlement to holidays (including public holidays) or holiday pay or to incapacity for work due to sickness or injury or to pensions or pension schemes or requiring the Executive to work outside the United Kingdom for a period of more than one month; 
+ 
+ 
+
+ 
+ 
+ 
+ 21.1.4 
+ 
+ there are no collective agreements which directly affect the terms or conditions of the Executive's employment. 
+ 
+ 
+
+ 
+ 
+ 
+ 22. 
+ 
+ ENTIRE AGREEMENT AND SEVERABILITY 
+ 
+ 
+
+ 
+ 
+ 
+ 22.1 
+ 
+ Each of the Executive and the Company, on behalf of itself and its Associates, confirms that this Agreement represents the entire understanding, and constitutes the whole agreement, in relation to its subject matter (save only for any terms implied at law or by custom) and supersedes any previous agreement between the parties with respect thereto (which shall be deemed to have been terminated by mutual consent). 
+ 
+ 
+
+ 
+ 
+ 
+ 22.2 
+ 
+ The Executive confirms that: 
+ 
+ 
+
+ 
+ 
+ 
+ 22.2.1 
+ 
+ in entering into this Agreement he has not relied on any representation, warranty, assurance, covenant, indemnity, undertaking or commitment which is not contained in this Agreement, or any document referred to in it; and 
+ 
+ 
+ 
+ 24 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 22.2.2 
+ 
+ in any event, without prejudice to any liability for fraudulent misrepresentation or fraudulent misstatement, the only rights or remedies he has in relation to any representation, warranty, assurance, covenant, indemnity, undertaking or commitment given or action taken in connection with the entering into or performance of this Agreement are pursuant to this Agreement and, for the avoidance of doubt and without limitation, the Executive does not have any right or remedy (whether by way of a claim for contribution or otherwise) in tort (including negligence) or for misrepresentation (whether negligent or otherwise, and whether made prior to, or in this Agreement). 
+ 
+ 
+
+ 
+ 
+ 
+ 22.3 
+ 
+ In the event that any part (including any sub-clause or part thereof) of this Agreement shall be void or unenforceable by reason of any applicable law, it shall be deleted and the remaining parts of this Agreement shall continue in full force and effect and, if necessary, both parties shall use their best endeavours to agree any amendments to the Agreement necessary to give effect to the spirit of this Agreement. 
+ 
+ 
+
+ 
+ 
+ 
+ 23. 
+ 
+ VARIATION AND WAIVER 
+ 
+ 
+
+ 
+ 
+ 
+ 23.1 
+ 
+ No variation of this Agreement shall be effective unless it is evidenced in writing (excluding e-mail) by the Company. 
+ 
+ 
+
+ 
+ 
+ 
+ 23.2 
+ 
+ No waiver by the Company or any of its Associates of any term, provision or condition of this Agreement or of any breach by the Executive of any term, provision or condition of this Agreement shall be effective unless it is in writing (excluding e-mail) and signed by the Company. 
+ 
+ 
+
+ 
+ 
+ 
+ 23.3 
+ 
+ No failure to exercise nor any delay in exercising any right or remedy hereunder by the Company or any of its Associates shall operate as a waiver thereof or of any other right or remedy hereunder, nor shall any single or partial exercise of any right or remedy by the Company or any of its Associates prevent any further or other exercise thereof or the exercise of any other right or remedy. 
+ 
+ 
+
+ 
+ 
+ 23.4 
+ The waiver of any term, provision or condition of this Agreement on any occasion by the Company or any of its Associates shall not constitute a waiver of: 
+ 
+ 
+
+ 
+ 
+ 
+ 23.4.1 
+ 
+ any other term, provision or condition of this Agreement; or 
+ 
+ 
+
+ 
+ 
+ 
+ 23.4.2 
+ 
+ such terms, provisions or conditions of this Agreement on any future occasion. 
+ 
+ 
+
+ 
+ 
+ 
+ 24. 
+ 
+ THIRD PARTY RIGHTS 
+ 
+ No term of this Agreement is enforceable under the Contracts (Rights of Third Parties) Act 1999 by a person who is not a party to this Agreement. 
+ 
+ 
+
+ 
+ 
+ 
+ 25. 
+ 
+ ASSIGNMENT 
+ 
+ In addition to the Company's rights pursuant to sub-clause 15.13, the Executive hereby agrees irrevocably that the Company may forthwith on written notice to the Executive given in accordance with clause 29 assign its rights and transfer (whether by novation or otherwise) or delegate its obligations under this Agreement to any Associate from time to time, and that the Executive shall execute all documents and do all things necessary to effect such assignment or transfer, and any reference to the Company in this Agreement shall thereafter be a reference to any such company. The Executive shall not assign or otherwise seek to transfer or delegate his rights or obligations under this Agreement to any other person. 
+ 
+ 
+
+ 
+ 
+ 
+ 26. 
+ 
+ DATA PROTECTION 
+ 
+ 
+
+ 
+ 
+ 
+ 26.1 
+ 
+ In this clause, "Personal Data" , "Sensitive Personal Data" and "Processing" shall have the respective meanings attributed to them by the Data Protection Act 1998. 
+ 
+ 
+ 
+ 25 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 26.2 
+ 
+ From time to time the Company will process personal data and sensitive personal data relating to the Executive in order to fulfil the obligations of the Company to the Executive under this Agreement and for other purposes relating to or which may become related to the Executive's employment or the business of the Company. Such processing will principally be for, but will not be limited to, personnel, administrative, financial, regulatory or payroll purposes (including for the purposes of arranging share option or other incentive scheme participation, pension arrangements, life assurance, and any other insurance arrangements provided to the Executive by the Company or by any Associate). 
+ 
+ 
+
+ 
+ 
+ 
+ 26.3 
+ 
+ The Executive consents to personal data and sensitive personal data relating to him, for the purposes set out in sub-clause 26.2 and to the extent that is reasonably necessary in connection with the Executive's employment or the business of the Company, being processed by the Company and being disclosed or transferred to and processed by: 
+ 
+ 
+
+ 
+ 
+ 26.3.1 
+ the Company's professional advisors, HM Revenue & Customs or other authorities, or (subject to appropriate confidentiality undertakings) prospective purchasers of the Company or of the whole or part of its business; and 
+ 
+ 
+
+ 
+ 
+ 
+ 26.3.2 
+ 
+ entities which provide benefits or services to employees of the Company or the Company; and 
+ 
+ 
+
+ 
+ 
+ 
+ 26.3.3 
+ 
+ any Associate and the employees of such Associate. 
+ 
+ 
+
+ 
+ 
+ 
+ 26.4 
+ 
+ The Executive's consent to the transfer and disclosure of personal data and sensitive personal data shall apply regardless of the country to which the data is to be transferred. Where data is transferred outside of the European Economic Area, the Company shall take reasonable steps to ensure an adequate level of protection for the personal data and sensitive personal data concerned. 
+ 
+ 
+
+ 
+ 
+ 
+ 26.5 
+ 
+ The Executive shall ensure that any personal data and sensitive personal data which he may process during his employment is kept secure from unauthorised access or disclosure. The Executive shall comply with the requirements of the Data Protection Act 1998 when processing such data in the course of his employment and shall not, without the prior consent of the company, use the services of any third party for the processing of such data. The Executive agrees to promptly notify the Company Secretary of any actual or suspected breach of the requirements of the Data Protection Act 1998 which comes to his attention. 
+ 
+ 
+
+ 
+ 
+ 
+ 26.6 
+ 
+ The Executive is responsible for promptly informing the Company Secretary of any change to his personal data, including name, address, marital status, contact details, qualifications and next of kin. 
+ 
+ 
+
+ 
+ 
+ 
+ 27. 
+ 
+ REFERENCES 
+ 
+ If the Company is asked to provide any reference in respect of the Executive it shall be under no obligation to do so, save as required by law or by any professional, statutory or regulatory body or authority. If it does agree to provide a reference it shall use reasonable efforts to ensure that any reference is accurate but shall not in the absence of malice on the part of the Company be liable to the Executive for any error in or omission from any such reference. 
+ 
+ 
+
+ 
+ 
+ 
+ 28. 
+ 
+ TELEPHONE AND COMPUTER/E MAIL AND INTERNET USE 
+ 
+ Unless otherwise provided in the Agreement, the Executive shall comply with the Company's policies for the time being in force concerning use of the Company's telephone and computer (including e mail and Internet) facilities. The Company reserves the right to carry out ad hoc or routine monitoring of, and to keep records of, telephone and e mail communications made, Internet sites accessed and data and images stored using the Company's facilities (including use for personal reasons) for any of the purposes set out in the Telecommunications (Lawful Business Practice) (Interception of Communications) Regulations 2000. 
+ 
+ 
+ 
+ 26 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 29. 
+ 
+ NOTICES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 29.1 
+ A notice to terminate this Agreement and a notice which is required to be given in accordance with this clause: 
+ 
+ 
+
+ 
+ 
+ 
+ 29.1.1 
+ 
+ must be in writing in the English language; 
+ 
+ 
+
+ 
+ 
+ 
+ 29.1.2 
+ 
+ must be delivered personally or left at the address of the addressee or sent by pre-paid recorded delivery (airmail if posted to or from a place outside the United Kingdom) to the address of the addressee or sent by facsimile to the facsimile number of the addressee in each case which is specified in this clause in relation to the party to whom the notice is addressed, and marked for the attention of the person so specified, or to such other address or facsimile number in the United Kingdom or marked for the attention of such other person as the relevant party may from time to time specify by notice given in accordance with this clause. 
+ 
+ The relevant details of each party at the date of this Agreement are: In the case of the Executive: 
+ 
+ 
+
+ 
+ 
+ Address: 
+ Cretzschmarstrasse 21, 60487 Frankfurt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In the case of the Company: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Address: 
+ 
+ VivoPower International PLC, 23 Hanover Square, Mayfair, 
+ London, England, W1S 1JB 
+ 
+ Attention: Company Secretary of VivoPower International PLC 
+ 
+ 
+
+ 
+ 
+ 
+ 29.1.3 
+ 
+ for the avoidance of doubt, must not be sent by e-mail. 
+ 
+ 
+
+ 
+ 
+ 29.2 
+ Any notice shall be deemed to be given and take effect at the time it is deemed to have been received in accordance with sub-clause 29.3 or, if earlier, at the time it is in fact received. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 29.3 
+ 
+ Subject to sub-clause 29.4, a notice is deemed to be received: 
+ 
+ 
+
+ 
+ 
+ 
+ 29.3.1 
+ 
+ in the case of a notice left at the address of the addressee, upon delivery at that address; 
+ 
+ 
+
+ 
+ 
+ 
+ 29.3.2 
+ 
+ in the case of a posted letter, on the third day after posting, or if posted to or from a place outside the United Kingdom, the seventh day after posting; and 
+ 
+ 
+
+ 
+ 
+ 
+ 29.3.3 
+ 
+ in the case of a facsimile, on production of a transmission report from the machine from which the facsimile was sent which indicates that the facsimile was sent in its entirety to the facsimile number of the recipient provided that a confirmatory copy of such facsimile shall have been sent by post in accordance with sub-clause 29.1 within 24 hours of such transmission. 
+ 
+ 
+
+ 
+ 
+ 
+ 29.4 
+ 
+ A notice received or deemed to be received in accordance with Clause 29.1 above on a day which is not a Business Day, or after 5pm on any Business Day, shall be deemed to be received on the next following Business Day and for the purposes of this clause "Business Day" shall mean a day (other than a Saturday or Sunday) on which banks are open for general business in London. 
+ 
+ 
+
+ 
+ 
+ 
+ 29.5 
+ 
+ The Executive undertakes to maintain at all times during the term of this Agreement an address in the United Kingdom for service of notices pursuant to this clause and to notify the Company in advance by notice given in accordance with this clause of any changes from time to time of the details of such address. 
+ 
+ 
+ 
+ 27 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 30. 
+ 
+ GOVERNING LAW 
+ 
+ 
+
+ 
+ 
+ 
+ 30.1 
+ 
+ This Agreement shall be governed by, and construed in accordance with, the law of England and Wales and the Courts of England and Wales shall have exclusive jurisdiction in relation to any dispute arising out of or in connection with this Agreement. 
+ 
+ 
+
+ 
+ 
+ 
+ 31. 
+ 
+ COUNTERPARTS 
+ 
+ The Agreement is subject to contract until it is dated and signed by all of the parties, at which point it shall be treated as an agreement binding on the parties, notwithstanding that it may still be labelled 'Draft ' or 'Subject to Contract'. This Agreement may be executed in any number of counterparts each in the like form, all of which taken together shall constitute one and the same document and any party may execute this Agreement by signing and dating any one or more of such counterparts. 
+ 
+ 
+ 
+ 28 
+ 
+
+ 
+ 
+ IN WITNESS whereof the parties hereto have set their hands the day and year written below. 
+ 
+ 
+ 
+ 
+ 
+ SIGNED: /s/ Kevin Chin 
+ For and on behalf of the Company 
+ 
+ NAME: Kevin Chin, Chairman 
+ D A T E D: 04 A u g u s t 2 01 6 
+ 
+ 
+ 
+ 
+ SIGNED: /s/ Philip Comberg 
+ The Executive 
+ 
+ D A T E D: 04 A u g u s t 2 01 6

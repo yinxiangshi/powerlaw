@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="PowerLaw">
+  <rect width="80" height="80" rx="14" fill="#20262b"/>
+  <path d="M20 19h28c8 0 14 6 14 14s-6 14-14 14H32v14H20V19zm12 10v8h15c2 0 4-2 4-4s-2-4-4-4H32z" fill="#f8f7f2"/>
+  <path d="M43 47h18v8H43z" fill="#2f7a73"/>
+  <path d="M43 58h18v4H43z" fill="#b86f35"/>
+</svg>

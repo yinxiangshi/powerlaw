@@ -1,0 +1,404 @@
+:root {
+  color-scheme: light;
+  --ink: #20262b;
+  --muted: #5f6972;
+  --line: #d8dde0;
+  --paper: #f8f7f2;
+  --panel: #ffffff;
+  --teal: #2f7a73;
+  --teal-dark: #215e59;
+  --amber: #b86f35;
+  --red: #a74335;
+  --blue: #345a86;
+  --focus: #151f2a;
+  font-family:
+    "Aptos",
+    "Segoe UI",
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+  background:
+    linear-gradient(180deg, rgba(47, 122, 115, 0.08), rgba(255, 255, 255, 0) 220px),
+    var(--paper);
+  color: var(--ink);
+}
+
+button,
+select,
+textarea {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+button:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+
+.shell {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  gap: 12px;
+  padding: 14px;
+}
+
+.topbar,
+.section-heading,
+.button-row,
+.candidate-actions,
+.queue-actions {
+  display: flex;
+  align-items: center;
+}
+
+.topbar,
+.section-heading {
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.topbar {
+  padding: 3px 2px 2px;
+}
+
+.eyebrow {
+  margin: 0 0 3px;
+  color: var(--teal-dark);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+h1,
+h2,
+p {
+  margin-top: 0;
+}
+
+h1 {
+  margin-bottom: 0;
+  font-size: 22px;
+  line-height: 1.1;
+}
+
+h2 {
+  margin-bottom: 0;
+  font-size: 15px;
+  line-height: 1.2;
+}
+
+.status-pill,
+.queue-count {
+  display: inline-flex;
+  min-width: 30px;
+  min-height: 28px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(47, 122, 115, 0.24);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.78);
+  color: var(--teal-dark);
+  font-size: 12px;
+  font-weight: 750;
+  white-space: nowrap;
+}
+
+.panel {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  box-shadow: 0 10px 24px rgba(32, 38, 43, 0.06);
+  padding: 12px;
+}
+
+.context-panel {
+  border-top: 4px solid var(--teal);
+}
+
+.matter-card {
+  display: grid;
+  grid-template-columns: 38px 1fr;
+  gap: 10px;
+  align-items: center;
+  margin: 12px 0;
+  padding: 10px;
+  border: 1px solid rgba(47, 122, 115, 0.25);
+  border-radius: 8px;
+  background: #fbfcfb;
+}
+
+.matter-mark {
+  display: flex;
+  width: 38px;
+  height: 38px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  background: var(--ink);
+  color: #fff;
+  font-size: 13px;
+  font-weight: 850;
+}
+
+.matter-name {
+  margin-bottom: 2px;
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 1.25;
+}
+
+.matter-meta,
+.empty-note,
+.footer-note,
+.candidate-reasons,
+.draft-output,
+.queue-diff {
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.45;
+}
+
+.matter-meta,
+.empty-note,
+.footer-note {
+  margin-bottom: 0;
+}
+
+.preview-text,
+.input-area,
+.select-input,
+.rationale-input {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 7px;
+  background: #fff;
+  color: var(--ink);
+  line-height: 1.45;
+}
+
+.preview-text,
+.input-area,
+.rationale-input {
+  resize: vertical;
+}
+
+.select-input {
+  min-height: 34px;
+  margin-top: 6px;
+  padding: 0 10px;
+  font-size: 13px;
+}
+
+.preview-text {
+  margin-bottom: 10px;
+  padding: 9px;
+  font-size: 12px;
+}
+
+.input-area,
+.rationale-input {
+  margin-top: 6px;
+  padding: 10px;
+  font-size: 13px;
+}
+
+.field-label {
+  display: block;
+  margin-top: 12px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 750;
+}
+
+.button-row {
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.primary-button,
+.secondary-button,
+.quiet-button {
+  min-height: 34px;
+  border-radius: 7px;
+  font-size: 13px;
+  font-weight: 780;
+}
+
+.primary-button {
+  border: 1px solid var(--teal-dark);
+  background: var(--teal);
+  color: #fff;
+  padding: 0 12px;
+}
+
+.primary-button:hover {
+  background: var(--teal-dark);
+}
+
+.full-button {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.secondary-button,
+.quiet-button {
+  border: 1px solid var(--line);
+  background: #fff;
+  color: var(--ink);
+  padding: 0 11px;
+}
+
+.quiet-button {
+  min-height: 30px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.candidate-list {
+  display: grid;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.candidate-card,
+.queue-card {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  padding: 10px;
+}
+
+.candidate-card strong,
+.queue-card strong {
+  display: block;
+  margin-bottom: 3px;
+  font-size: 13px;
+}
+
+.candidate-reasons {
+  margin-bottom: 9px;
+}
+
+.candidate-actions,
+.queue-actions {
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.confidence {
+  color: var(--amber);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.draft-output {
+  min-height: 94px;
+  margin-top: 12px;
+  overflow: auto;
+  white-space: pre-wrap;
+  border: 1px dashed rgba(52, 90, 134, 0.38);
+  border-radius: 8px;
+  background: #f9fbfd;
+  padding: 10px;
+}
+
+.draft-output p {
+  margin-bottom: 0;
+}
+
+.rationale-queue {
+  display: grid;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.queue-card {
+  border-left: 4px solid var(--amber);
+}
+
+.queue-diff {
+  max-height: 92px;
+  overflow: auto;
+  margin: 8px 0;
+  border-radius: 6px;
+  background: #f6f3ef;
+  padding: 8px;
+  font-family:
+    "Aptos Mono",
+    "Cascadia Mono",
+    "SFMono-Regular",
+    Consolas,
+    monospace;
+}
+
+.category-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 8px 0;
+}
+
+.category-row label {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 5px 8px;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 750;
+}
+
+.footer-note {
+  padding: 4px 2px 0;
+}
+
+.error-text {
+  color: var(--red);
+  font-weight: 750;
+}
+
+.is-hidden {
+  display: none;
+}
+
+@media (max-width: 360px) {
+  .shell {
+    padding: 10px;
+  }
+
+  .topbar {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .button-row button,
+  .candidate-actions button,
+  .queue-actions button {
+    flex: 1 1 100%;
+  }
+}
